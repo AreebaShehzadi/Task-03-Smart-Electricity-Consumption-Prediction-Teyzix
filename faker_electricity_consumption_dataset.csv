@@ -1,0 +1,1501 @@
+Household ID,Date,House Type,Family Members,Number of Rooms,AC Usage (Hours),Fan Usage (Hours),Refrigerator Usage (Hours),Washing Machine Usage (Hours),Water Motor Usage (Hours),Lighting (Hours),Outdoor Temperature (C),Day of Week,Season,Is Holiday,Daily Consumption (kWh)
+BDD640FB,2025-10-15,Single Family Home,3,3,0.1,6.2,12.9,0.7,1.2,11.4,27.7,Wednesday,Spring/Autumn,0,7.91
+07A0CA6E,2025-08-10,Single Family Home,1,4,6.3,14.6,10.1,1.4,2.3,6.6,39.2,Sunday,Summer,1,22.76
+8B8148F6,2025-12-07,Portion,5,3,0.0,2.4,10.0,2.6,1.3,10.2,8.3,Sunday,Winter,1,8.22
+B2B9437A,2025-12-08,Villa,3,6,0.0,3.8,10.4,1.2,0.8,11.1,7.3,Monday,Winter,1,12.7
+18C26797,2025-11-15,Villa,5,5,0.0,2.9,13.9,1.8,1.0,9.3,17.1,Saturday,Winter,1,12.09
+1FF49B78,2026-06-28,Portion,2,5,14.6,18.9,10.2,1.5,2.6,5.2,41.2,Sunday,Summer,1,36.51
+E2ACF72F,2026-05-18,Single Family Home,2,3,2.6,15.3,11.5,0.4,2.5,4.8,37.3,Monday,Summer,0,13.96
+146D3F31,2026-05-16,Apartment,7,3,12.5,19.3,12.9,1.3,1.8,5.5,44.4,Saturday,Summer,1,32.41
+5D65A441,2025-09-04,Villa,4,10,11.6,20.2,13.1,1.5,2.8,4.1,41.4,Thursday,Summer,1,43.25
+A5E5A5AB,2025-08-02,Single Family Home,4,4,3.3,23.3,11.3,2.3,2.8,5.6,37.7,Saturday,Summer,1,23.35
+FD5166E6,2026-06-10,Single Family Home,6,3,8.6,15.0,11.1,0.6,2.3,7.6,39.6,Wednesday,Summer,0,24.18
+50C187FC,2025-11-30,Apartment,4,4,0.0,4.0,10.4,1.1,1.0,6.7,8.3,Sunday,Winter,1,8.49
+366EB16F,2026-03-03,Portion,8,4,1.7,4.5,14.0,2.1,1.4,11.8,29.5,Tuesday,Spring/Autumn,1,15.76
+8FB5D27B,2026-01-20,Portion,7,5,0.0,2.9,12.1,0.3,1.2,9.8,5.2,Tuesday,Winter,0,8.68
+827050A8,2026-01-03,Apartment,2,2,0.0,1.8,13.5,1.5,1.5,9.0,11.5,Saturday,Winter,1,6.26
+AE340454,2025-12-08,Apartment,7,3,0.0,3.5,12.6,2.2,0.8,6.9,18.7,Monday,Winter,1,8.6
+8DA0365B,2026-05-18,Apartment,2,4,13.8,18.4,11.3,1.0,1.5,7.7,40.4,Monday,Summer,1,35.76
+1C8EAEE9,2025-10-22,Single Family Home,8,3,1.2,4.5,13.8,1.2,1.9,8.9,30.0,Wednesday,Spring/Autumn,1,9.77
+2DBC2134,2026-01-08,Apartment,5,4,0.0,3.1,11.9,0.5,0.6,7.6,16.4,Thursday,Winter,0,8.95
+295B4715,2026-01-20,Apartment,6,3,0.0,0.8,12.9,0.2,1.0,7.9,11.3,Tuesday,Winter,0,8.63
+E0F3EAB0,2026-07-02,Villa,4,5,10.4,18.2,10.9,0.3,1.7,6.4,41.5,Thursday,Summer,0,29.32
+14296C07,2025-08-07,Portion,2,4,2.4,19.6,13.6,0.9,1.8,4.3,37.2,Thursday,Summer,0,15.91
+8CBFEDB0,2025-09-05,Portion,4,4,8.1,13.6,12.3,1.9,2.9,7.1,41.7,Friday,Summer,1,28.05
+A65E688E,2025-11-20,Portion,2,4,0.0,0.4,11.7,0.5,0.9,10.4,7.9,Thursday,Winter,0,8.84
+969B6662,2026-01-25,Single Family Home,1,3,0.0,0.4,11.4,2.7,0.9,7.5,19.8,Sunday,Winter,1,6.02
+3A9BEDD4,2025-07-31,Apartment,6,2,10.2,15.3,13.7,0.4,1.9,7.4,39.5,Thursday,Summer,0,24.91
+36D8393A,2026-01-20,Portion,4,6,0.0,4.0,13.9,2.9,1.3,11.1,5.8,Tuesday,Winter,1,13.13
+A8B317FA,2025-12-11,Portion,7,6,0.0,0.9,10.2,0.4,0.9,11.9,12.3,Thursday,Winter,0,10.17
+A56C0941,2025-08-12,Portion,6,3,10.6,17.1,14.0,0.6,2.9,6.9,42.8,Tuesday,Summer,0,27.63
+72D8567D,2025-08-27,Single Family Home,5,6,7.8,19.0,13.0,0.1,2.3,6.3,38.0,Wednesday,Summer,0,30.01
+71710434,2026-04-28,Apartment,1,4,0.6,11.7,10.7,0.6,1.1,10.1,30.2,Tuesday,Spring/Autumn,0,11.44
+C0E9AB30,2026-05-13,Single Family Home,7,6,7.3,15.0,12.5,1.8,2.4,6.3,36.2,Wednesday,Summer,1,28.51
+E7067EF4,2025-07-28,Portion,1,6,8.0,20.6,11.6,2.3,1.9,5.2,44.3,Monday,Summer,1,29.91
+747B6DBA,2025-10-19,Portion,3,4,0.3,7.7,14.0,1.1,2.0,7.3,29.0,Sunday,Spring/Autumn,1,10.88
+0EF8C2D6,2026-02-03,Apartment,6,2,0.0,3.5,11.5,0.2,1.4,11.0,19.0,Tuesday,Winter,0,7.91
+EB5CF467,2026-05-15,Single Family Home,1,3,15.9,19.8,13.3,0.3,1.5,6.7,41.1,Friday,Summer,0,36.93
+ACDABACC,2026-05-18,Portion,2,4,2.7,13.3,11.1,0.6,2.3,6.9,36.3,Monday,Summer,0,15.55
+A8499B92,2026-02-05,Villa,5,6,0.0,1.1,13.6,2.7,1.0,6.6,14.5,Thursday,Winter,1,9.47
+21813D25,2026-03-09,Villa,8,7,0.0,10.2,11.0,0.7,1.6,9.3,23.3,Monday,Spring/Autumn,0,16.57
+FF9AB5C2,2026-01-29,Apartment,2,4,0.0,0.3,13.6,0.5,1.4,11.0,5.1,Thursday,Winter,0,9.71
+EEEA163E,2025-11-11,Apartment,4,3,0.0,0.5,13.6,2.6,0.8,11.2,7.2,Tuesday,Winter,1,10.11
+8B10550C,2026-03-21,Apartment,5,4,1.0,4.8,13.5,1.8,1.8,9.7,22.5,Saturday,Spring/Autumn,1,11.56
+2260E70F,2025-10-11,Apartment,3,3,3.5,11.8,13.5,1.0,1.8,10.4,31.2,Saturday,Spring/Autumn,1,16.07
+B7B56EA7,2025-11-09,Villa,8,7,0.0,3.2,13.2,1.5,1.4,10.7,19.0,Sunday,Winter,1,12.92
+0D01280F,2025-08-09,Portion,5,3,14.6,14.7,11.8,1.6,2.7,7.2,43.7,Saturday,Summer,1,33.41
+217D65A0,2026-02-25,Villa,3,10,0.0,0.8,13.5,2.9,0.8,7.7,5.4,Wednesday,Winter,1,14.05
+8F9797B0,2025-07-10,Apartment,3,4,15.8,18.4,10.5,1.0,2.9,4.7,39.0,Thursday,Summer,0,39.9
+8D7248E2,2025-08-30,Single Family Home,1,5,2.7,17.2,11.3,2.2,2.6,6.0,37.7,Saturday,Summer,1,20.18
+CBCEABDE,2026-06-27,Apartment,6,2,8.5,20.5,13.7,2.1,1.5,6.9,40.8,Saturday,Summer,1,24.09
+1A50AEC3,2025-11-13,Portion,3,4,0.0,1.5,12.7,0.3,0.6,7.9,15.1,Thursday,Winter,0,8.4
+2D534DD0,2026-05-25,Apartment,3,4,9.0,15.7,11.6,1.6,2.1,4.5,42.2,Monday,Summer,1,25.91
+CD5F4822,2026-03-09,Single Family Home,5,4,2.7,11.2,11.2,0.5,1.6,6.0,31.3,Monday,Spring/Autumn,0,13.86
+DBCCC477,2025-12-26,Single Family Home,8,5,0.0,2.3,11.9,1.9,1.2,7.3,11.4,Friday,Winter,1,9.36
+3A43B2BA,2025-09-26,Single Family Home,7,5,14.0,14.0,12.1,2.3,1.6,5.3,44.0,Friday,Summer,1,36.03
+C5F8BC16,2025-10-17,Portion,6,3,2.7,5.8,10.1,0.2,1.2,8.9,29.0,Friday,Spring/Autumn,0,13.33
+2DB69EDB,2026-02-04,Villa,1,5,0.0,1.7,10.8,2.4,1.1,9.0,6.1,Wednesday,Winter,1,9.09
+504D281F,2025-12-13,Apartment,7,4,0.0,0.0,13.1,1.2,1.3,8.6,14.8,Saturday,Winter,1,7.08
+B572F3D0,2025-12-13,Single Family Home,6,6,0.0,2.1,11.0,2.7,0.6,8.7,19.4,Saturday,Winter,1,11.7
+EBB7A385,2025-11-04,Villa,2,10,0.0,4.0,13.8,2.8,1.1,9.7,15.0,Tuesday,Winter,1,19.12
+688C7015,2025-11-03,Villa,3,6,0.0,3.3,13.6,2.5,1.0,8.8,12.6,Monday,Winter,1,11.19
+AD64B56C,2026-04-06,Single Family Home,5,6,2.6,10.1,12.5,0.3,1.5,6.5,23.0,Monday,Spring/Autumn,0,16.2
+6E0D2648,2026-04-20,Villa,8,8,1.3,8.3,10.9,2.4,1.1,10.2,23.3,Monday,Spring/Autumn,1,18.4
+7922BAC2,2026-04-23,Single Family Home,2,5,2.2,7.3,11.7,2.8,1.2,9.5,24.9,Thursday,Spring/Autumn,1,17.0
+C04A96C4,2025-09-30,Villa,4,6,13.7,16.6,11.4,0.8,1.5,7.4,43.6,Tuesday,Summer,0,39.05
+FBE33B24,2025-12-27,Apartment,8,3,0.0,3.0,12.4,1.4,1.0,7.3,11.3,Saturday,Winter,1,7.26
+31C681EC,2026-03-26,Portion,8,6,1.3,9.4,10.7,0.5,1.4,6.8,20.3,Thursday,Spring/Autumn,0,15.25
+016B6287,2026-05-29,Apartment,7,2,4.4,18.8,12.6,0.1,1.5,5.8,35.3,Friday,Summer,0,13.5
+8498E113,2025-12-24,Single Family Home,2,6,0.0,0.8,13.0,0.4,0.8,10.5,10.7,Wednesday,Winter,0,11.9
+87F8424D,2026-07-03,Villa,8,9,2.5,12.2,14.0,1.7,2.3,6.6,37.5,Friday,Summer,1,25.97
+722764E6,2026-05-31,Portion,8,5,13.5,23.4,10.1,1.3,1.8,4.5,41.5,Sunday,Summer,1,37.38
+A33DC7AF,2025-10-16,Portion,4,5,0.9,9.6,10.7,2.2,1.8,10.5,26.8,Thursday,Spring/Autumn,1,14.47
+3C07C574,2025-10-14,Villa,2,6,3.9,4.9,11.2,0.7,1.0,11.7,29.8,Tuesday,Spring/Autumn,0,18.68
+271E3EE2,2026-03-22,Apartment,7,3,0.3,9.5,10.4,2.5,1.6,11.1,28.6,Sunday,Spring/Autumn,1,12.11
+6A702E2F,2025-07-29,Portion,7,3,7.9,21.4,11.7,1.7,2.0,6.0,36.2,Tuesday,Summer,1,24.0
+5A0CDD7C,2025-10-24,Portion,7,4,3.3,4.8,12.5,2.7,2.0,10.2,30.2,Friday,Spring/Autumn,1,16.88
+7C5308BF,2025-07-17,Villa,7,10,15.7,15.2,12.2,0.5,2.7,5.7,42.3,Thursday,Summer,0,48.21
+20AC3703,2026-06-30,Apartment,7,4,7.1,22.0,13.5,0.2,1.6,5.9,37.7,Tuesday,Summer,0,25.14
+22BD3388,2026-05-20,Single Family Home,1,5,6.3,22.2,10.8,2.6,1.8,5.4,38.8,Wednesday,Summer,1,28.05
+53AC2AB9,2025-11-07,Portion,5,6,0.0,1.1,13.8,1.2,0.5,10.3,15.5,Friday,Winter,1,10.56
+04F64D86,2026-04-07,Apartment,6,2,2.8,9.2,13.2,0.1,1.5,7.3,29.1,Tuesday,Spring/Autumn,0,12.51
+0A4E5B70,2026-04-09,Single Family Home,4,3,2.3,7.8,11.7,0.7,1.5,8.0,23.7,Thursday,Spring/Autumn,0,13.37
+AB61A7B1,2025-08-17,Single Family Home,8,5,3.5,13.4,10.5,2.1,1.8,7.0,37.7,Sunday,Summer,1,18.36
+9B1BC895,2026-02-14,Apartment,3,3,0.0,1.9,13.9,2.0,1.2,7.7,8.2,Saturday,Winter,1,6.59
+EDCB8CB6,2025-10-29,Portion,7,4,0.9,5.4,12.1,0.3,1.0,11.8,22.3,Wednesday,Spring/Autumn,0,11.93
+A092F52A,2025-10-03,Villa,2,9,0.5,10.9,13.5,0.6,1.5,8.8,28.4,Friday,Spring/Autumn,0,20.89
+A9597663,2025-11-19,Villa,1,8,0.0,0.2,11.9,2.6,1.4,8.4,7.8,Wednesday,Winter,1,10.91
+5CB85AED,2026-02-24,Portion,3,6,0.0,0.2,12.3,0.3,0.6,12.0,14.4,Tuesday,Winter,0,9.21
+A6846099,2025-10-13,Portion,8,6,2.4,10.3,12.1,1.9,1.2,8.7,29.2,Monday,Spring/Autumn,1,20.02
+D4AAC9A3,2026-06-14,Villa,8,6,9.1,19.5,13.0,2.9,2.4,4.8,44.9,Sunday,Summer,1,31.59
+9C3EB2D5,2026-03-08,Villa,1,8,0.6,5.4,10.0,1.9,1.1,9.6,27.9,Sunday,Spring/Autumn,1,15.56
+7CD0129D,2025-09-22,Villa,6,7,6.2,20.4,12.7,2.8,2.2,7.2,37.3,Monday,Summer,1,32.71
+F2B43ABF,2025-09-14,Single Family Home,7,6,15.3,17.1,12.6,2.8,2.3,7.3,41.6,Sunday,Summer,1,40.64
+B0CBC61F,2025-12-28,Portion,8,3,0.0,1.2,12.3,1.6,1.2,6.7,7.5,Sunday,Winter,1,8.06
+6786D506,2026-03-17,Villa,6,8,3.8,8.0,10.3,1.1,1.5,8.6,28.4,Tuesday,Spring/Autumn,1,21.45
+8CE6424D,2025-11-05,Portion,5,5,0.0,0.4,13.3,2.2,1.5,11.7,8.8,Wednesday,Winter,1,13.76
+314D3441,2025-10-30,Single Family Home,4,4,1.1,4.3,11.9,2.3,1.8,11.5,28.1,Thursday,Spring/Autumn,1,12.31
+FA02EAEC,2026-04-11,Villa,2,6,2.5,7.9,11.4,1.7,1.1,10.0,27.0,Saturday,Spring/Autumn,1,19.5
+2DEFE193,2025-10-25,Single Family Home,5,3,2.8,6.3,13.3,2.1,1.9,8.7,24.0,Saturday,Spring/Autumn,1,13.91
+4AC9778D,2026-03-19,Single Family Home,8,3,3.9,7.2,14.0,0.7,1.5,9.3,23.9,Thursday,Spring/Autumn,0,15.07
+7A8D03AA,2025-12-15,Single Family Home,1,5,0.0,1.4,12.5,2.5,1.3,7.2,7.8,Monday,Winter,1,9.87
+6694C343,2026-01-02,Apartment,3,2,0.0,1.8,10.5,2.9,1.2,9.7,18.9,Friday,Winter,1,6.49
+1E52D770,2026-01-27,Portion,4,6,0.0,2.2,10.4,3.0,1.1,11.5,7.4,Tuesday,Winter,1,12.85
+DC33E1F9,2026-02-07,Portion,5,3,0.0,3.3,12.9,2.0,1.0,7.6,6.8,Saturday,Winter,1,9.32
+19675F06,2026-06-18,Single Family Home,4,5,8.4,18.6,13.7,0.5,2.1,7.5,44.8,Thursday,Summer,0,30.77
+8D4F5D27,2025-08-03,Apartment,7,3,6.7,17.0,12.0,2.6,2.9,5.1,37.8,Sunday,Summer,1,22.64
+4A8FF810,2025-07-18,Villa,5,10,16.0,17.9,12.2,1.7,1.7,6.2,40.9,Friday,Summer,1,49.52
+EC856F37,2025-10-11,Single Family Home,7,3,1.3,5.5,12.3,1.5,1.7,10.7,25.5,Saturday,Spring/Autumn,1,10.16
+26242B40,2026-06-04,Single Family Home,2,3,13.1,21.7,12.7,0.8,2.1,7.9,42.4,Thursday,Summer,0,32.75
+BFBBB17F,2026-05-04,Villa,8,5,5.0,19.1,13.5,1.9,2.8,6.1,35.4,Monday,Summer,1,25.23
+670ACC5C,2026-06-17,Portion,8,3,10.1,19.9,11.9,1.0,1.7,5.4,42.2,Wednesday,Summer,0,27.36
+5283AAC7,2026-02-12,Apartment,2,2,0.0,3.4,13.4,0.4,1.4,7.9,14.7,Thursday,Winter,0,7.7
+D248A9A7,2025-10-13,Apartment,3,3,3.5,4.3,12.5,2.8,1.1,12.0,29.1,Monday,Spring/Autumn,1,16.18
+FF37D19C,2026-02-06,Portion,2,6,0.0,0.4,13.5,1.9,1.1,10.2,11.5,Friday,Winter,1,13.06
+AB8DDEB4,2025-08-14,Single Family Home,6,6,6.8,15.5,10.6,2.1,2.1,6.3,35.5,Thursday,Summer,1,28.29
+668409E3,2026-04-30,Apartment,8,2,0.3,11.0,11.0,2.8,1.6,6.9,22.0,Thursday,Spring/Autumn,1,9.32
+F85E06A1,2026-04-15,Apartment,8,3,1.0,4.1,13.6,0.7,1.8,6.9,23.0,Wednesday,Spring/Autumn,0,9.89
+9F64EEED,2026-04-09,Portion,1,4,2.4,9.1,11.0,2.7,1.4,7.2,24.1,Thursday,Spring/Autumn,1,14.31
+49BC473F,2025-12-14,Portion,2,3,0.0,0.9,12.3,3.0,1.1,7.8,12.2,Sunday,Winter,1,9.9
+CC9FD334,2025-10-02,Single Family Home,5,3,1.1,8.5,13.0,1.1,1.7,9.6,27.9,Thursday,Spring/Autumn,1,11.97
+D7665CDA,2026-06-06,Portion,2,4,8.9,21.6,11.4,2.3,2.4,6.5,44.0,Saturday,Summer,1,30.04
+4AB7706E,2026-01-09,Villa,7,8,0.0,2.6,12.5,2.8,1.3,9.9,15.8,Friday,Winter,1,14.51
+25074181,2025-11-24,Single Family Home,2,5,0.0,2.3,10.4,1.6,1.2,10.5,11.6,Monday,Winter,1,9.51
+81FB18B3,2025-10-12,Apartment,5,4,2.2,11.8,13.7,2.7,1.5,7.5,21.6,Sunday,Spring/Autumn,1,17.26
+9475DBC9,2026-07-07,Portion,3,6,14.1,21.0,10.5,2.9,2.0,4.6,39.8,Tuesday,Summer,1,41.68
+C34B9FBB,2026-01-21,Portion,6,4,0.0,2.9,13.9,0.8,1.5,8.2,17.9,Wednesday,Winter,0,10.51
+DB23AA8C,2026-04-16,Apartment,6,4,2.1,7.6,12.7,2.2,1.7,10.9,20.2,Thursday,Spring/Autumn,1,17.64
+61985D54,2025-11-25,Single Family Home,8,3,0.0,0.9,13.5,0.6,0.5,11.5,6.6,Tuesday,Winter,0,6.14
+54FD9AD3,2026-05-21,Portion,2,6,6.9,22.9,11.6,0.1,2.0,7.8,35.6,Thursday,Summer,0,29.86
+DEF57689,2026-03-03,Single Family Home,2,6,0.4,11.1,11.8,2.3,1.1,10.5,25.9,Tuesday,Spring/Autumn,1,18.78
+65C17795,2026-03-01,Villa,7,7,3.0,5.2,10.4,2.0,1.4,8.4,25.0,Sunday,Spring/Autumn,1,20.09
+C268283E,2026-01-01,Apartment,2,2,0.0,1.5,13.8,2.7,0.9,6.6,5.5,Thursday,Winter,1,7.63
+1723199D,2025-12-12,Apartment,2,3,0.0,3.9,11.6,0.2,0.9,6.7,13.2,Friday,Winter,0,7.91
+0769165F,2025-07-23,Apartment,5,3,12.6,19.7,10.1,2.6,2.4,5.0,39.5,Wednesday,Summer,1,30.26
+87FA841A,2025-12-04,Single Family Home,3,4,0.0,0.3,10.8,0.2,1.3,11.2,13.5,Thursday,Winter,0,8.01
+9EA556AA,2026-03-14,Portion,3,4,3.6,4.0,10.6,1.3,1.9,7.5,21.8,Saturday,Spring/Autumn,1,13.81
+75A66981,2025-10-08,Apartment,8,3,0.1,4.1,11.0,0.3,1.8,7.0,27.9,Wednesday,Spring/Autumn,0,6.39
+5876FD09,2026-07-03,Villa,7,10,11.3,20.9,13.1,2.0,2.2,4.4,42.4,Friday,Summer,1,43.86
+32FFE294,2026-07-07,Portion,2,4,6.4,21.4,12.1,1.9,2.8,7.9,44.5,Tuesday,Summer,1,24.93
+4BBE4AFF,2026-07-05,Villa,1,10,10.0,20.2,13.6,1.1,2.2,4.3,39.8,Sunday,Summer,1,41.43
+90E0B95F,2026-05-19,Apartment,8,3,3.7,19.6,11.3,1.0,2.3,6.1,35.7,Tuesday,Summer,0,17.71
+3810AE66,2026-02-25,Villa,3,10,0.0,0.4,13.4,0.7,1.2,10.6,14.1,Wednesday,Winter,0,16.43
+0A17991E,2025-10-28,Portion,1,5,1.8,5.8,11.8,0.4,1.3,6.6,22.6,Tuesday,Spring/Autumn,0,12.38
+53A3DD5A,2026-04-06,Single Family Home,4,4,1.5,5.2,10.3,2.7,1.9,6.6,28.0,Monday,Spring/Autumn,1,11.08
+45C45A3E,2026-05-06,Villa,8,7,14.1,18.7,12.2,1.7,2.4,4.5,42.4,Wednesday,Summer,1,40.27
+F6802CDB,2025-08-03,Single Family Home,7,5,13.5,22.4,13.9,2.2,2.6,5.4,41.7,Sunday,Summer,1,39.23
+03902C5D,2025-10-11,Apartment,8,3,2.6,5.8,13.4,1.7,1.1,10.6,22.6,Saturday,Spring/Autumn,1,13.75
+431D029F,2026-02-05,Villa,2,10,0.0,3.4,13.3,0.6,1.5,9.9,17.1,Thursday,Winter,0,15.51
+E25D36EB,2026-06-17,Villa,4,10,14.3,15.2,12.8,0.3,1.8,5.4,44.3,Wednesday,Summer,0,41.46
+E8CDA0CC,2026-03-20,Portion,2,4,2.3,7.2,12.5,0.0,1.1,10.5,30.4,Friday,Spring/Autumn,0,12.72
+FEF518A6,2026-01-03,Apartment,4,4,0.0,1.4,12.9,2.6,0.9,9.4,11.3,Saturday,Winter,1,7.53
+5EFA9C5B,2026-03-09,Portion,3,6,0.6,8.9,11.1,0.7,1.7,8.9,20.6,Monday,Spring/Autumn,0,15.09
+687A4850,2026-06-15,Villa,1,10,6.5,13.4,11.1,2.4,2.1,5.9,37.7,Monday,Summer,1,33.0
+F3579560,2025-10-01,Villa,2,10,1.6,8.8,11.2,1.4,1.0,6.8,20.5,Wednesday,Spring/Autumn,1,19.22
+A5135EA0,2025-11-15,Portion,5,4,0.0,0.0,10.7,1.8,1.2,10.2,9.9,Saturday,Winter,1,8.96
+D918B3E5,2026-05-04,Apartment,4,4,14.1,12.9,10.2,0.0,2.8,7.7,43.3,Monday,Summer,0,35.7
+3E5A87E3,2026-07-03,Single Family Home,2,4,11.7,20.5,10.5,0.0,2.1,5.3,40.8,Friday,Summer,0,32.35
+541C7A86,2026-04-16,Apartment,5,2,3.3,11.4,13.4,0.2,1.1,9.5,27.4,Thursday,Spring/Autumn,0,12.96
+2CABD7E7,2025-08-16,Apartment,3,2,9.1,16.1,10.7,2.0,2.0,4.5,39.0,Saturday,Summer,1,23.11
+3CE915E7,2026-02-07,Apartment,3,3,0.0,1.4,13.3,2.6,1.2,7.4,18.6,Saturday,Winter,1,6.77
+6BC4123E,2026-01-15,Apartment,8,3,0.0,2.4,12.6,1.4,1.3,10.6,8.0,Thursday,Winter,1,8.67
+73B6A09B,2026-01-07,Apartment,5,3,0.0,3.0,13.7,0.6,0.9,9.8,16.3,Wednesday,Winter,0,8.39
+D8E88EBB,2025-11-30,Apartment,8,4,0.0,2.5,10.3,1.9,0.7,7.8,18.0,Sunday,Winter,1,6.94
+E63658C9,2025-08-05,Single Family Home,2,4,5.0,15.7,10.2,2.7,2.2,4.3,35.6,Tuesday,Summer,1,22.1
+8C611654,2026-03-24,Portion,5,6,2.5,8.1,12.2,2.6,1.5,11.4,30.3,Tuesday,Spring/Autumn,1,19.76
+1D4A3D81,2026-05-15,Single Family Home,7,6,12.5,15.9,10.6,0.1,2.2,4.4,43.1,Friday,Summer,0,35.6
+74188109,2025-11-29,Apartment,6,3,0.0,2.9,10.7,1.5,1.0,8.6,10.2,Saturday,Winter,1,7.35
+5FD23109,2026-06-21,Portion,2,3,7.6,16.5,11.6,1.7,1.9,6.4,40.2,Sunday,Summer,1,24.13
+6E8F75A1,2025-08-11,Villa,3,9,6.7,13.1,11.1,0.7,2.5,6.6,41.5,Monday,Summer,0,32.75
+8FCA7B6A,2025-11-04,Apartment,7,3,0.0,1.3,10.6,1.7,1.1,11.8,18.1,Tuesday,Winter,1,9.19
+0D2B91EF,2026-06-26,Villa,6,5,12.0,23.3,11.5,0.8,2.0,7.3,38.9,Friday,Summer,0,36.52
+39681C81,2026-05-13,Villa,6,5,13.4,20.2,12.6,1.8,2.3,5.4,43.3,Wednesday,Summer,1,36.59
+6DDA4F8D,2026-05-12,Apartment,5,2,3.3,23.4,10.9,0.1,2.2,4.3,36.8,Tuesday,Summer,0,16.22
+4F199EC0,2026-06-09,Villa,1,6,6.6,22.0,10.2,0.3,2.8,7.1,36.0,Tuesday,Summer,0,29.04
+11D059B2,2025-08-27,Apartment,2,4,7.6,22.0,13.2,0.2,2.7,5.8,38.8,Wednesday,Summer,0,26.52
+5744F596,2025-09-02,Villa,6,9,8.4,17.3,13.0,0.4,1.9,6.1,41.8,Tuesday,Summer,0,34.59
+284C03D2,2026-04-09,Apartment,2,3,1.9,10.7,13.8,3.0,1.4,8.8,29.7,Thursday,Spring/Autumn,1,13.08
+9B69554D,2025-12-15,Villa,4,9,0.0,2.1,13.3,0.8,1.5,6.8,10.7,Monday,Winter,0,11.66
+4882D73C,2026-03-12,Portion,5,3,3.5,8.4,13.4,0.9,1.1,7.7,27.7,Thursday,Spring/Autumn,0,15.1
+0E0630CD,2025-07-09,Villa,4,6,7.4,13.8,13.8,1.4,2.2,5.8,37.7,Wednesday,Summer,1,26.75
+01FA964E,2026-01-05,Portion,3,4,0.0,0.2,10.9,3.0,1.0,8.2,5.4,Monday,Winter,1,6.62
+8011316B,2026-01-27,Villa,2,8,0.0,3.4,13.2,0.1,1.1,7.7,19.0,Tuesday,Winter,0,13.78
+EBD14D2C,2025-08-04,Villa,7,9,7.4,20.5,10.0,1.2,2.2,5.0,42.0,Monday,Summer,1,36.6
+4A1DAB32,2025-08-18,Apartment,6,2,13.3,18.3,11.2,1.6,1.7,4.2,40.5,Monday,Summer,1,28.65
+5CA260C9,2025-08-08,Apartment,4,3,10.6,13.3,12.4,1.0,2.9,6.1,42.9,Friday,Summer,1,26.8
+DEDAB027,2025-10-28,Villa,4,7,1.7,8.9,11.7,0.7,1.2,6.5,21.7,Tuesday,Spring/Autumn,0,18.16
+1D30D990,2026-01-17,Single Family Home,6,5,0.0,2.1,14.0,2.1,1.0,8.3,6.0,Saturday,Winter,1,10.0
+A53BC024,2026-05-01,Single Family Home,2,4,15.8,15.0,13.2,1.7,1.5,6.9,41.4,Friday,Summer,1,37.12
+2722796E,2026-04-11,Apartment,3,4,2.9,6.7,12.2,2.6,1.0,7.1,29.3,Saturday,Spring/Autumn,1,15.55
+9050F7EF,2026-04-11,Portion,6,5,2.8,9.1,10.3,2.6,1.8,8.7,25.6,Saturday,Spring/Autumn,1,17.15
+780B3657,2025-12-15,Villa,5,9,0.0,0.8,13.7,0.5,0.5,11.9,5.7,Monday,Winter,0,15.08
+4F76E388,2025-12-22,Apartment,1,3,0.0,3.0,11.4,2.6,0.7,11.2,8.8,Monday,Winter,1,7.9
+FA34D2E8,2026-05-16,Portion,8,3,4.2,22.7,13.6,1.8,2.6,7.9,36.2,Saturday,Summer,1,21.11
+925817B7,2026-03-02,Villa,8,9,3.7,8.2,12.9,0.1,1.8,9.6,26.0,Monday,Spring/Autumn,0,26.17
+1A7F195B,2026-04-29,Villa,2,9,1.3,4.6,11.2,0.6,1.7,8.6,26.5,Wednesday,Spring/Autumn,0,18.5
+7010ED13,2026-07-04,Single Family Home,6,5,6.4,22.4,14.0,1.5,2.0,7.9,38.5,Saturday,Summer,1,30.22
+68A51C68,2026-04-16,Apartment,6,2,2.6,6.9,12.7,2.9,1.8,6.9,20.9,Thursday,Spring/Autumn,1,13.22
+62F5DF2B,2025-10-18,Single Family Home,6,3,0.1,4.5,11.5,1.8,1.8,9.4,29.4,Saturday,Spring/Autumn,1,10.24
+EAAFE543,2025-11-12,Portion,3,3,0.0,3.8,13.1,2.1,0.9,9.2,15.2,Wednesday,Winter,1,8.04
+CAAA5BBE,2025-11-04,Single Family Home,2,6,0.0,1.0,12.9,2.0,0.6,8.3,14.7,Tuesday,Winter,1,10.05
+2E25B5EE,2026-06-20,Villa,8,6,3.6,17.4,11.1,2.8,3.0,6.0,37.6,Saturday,Summer,1,23.3
+27AA7CBC,2025-08-04,Apartment,1,4,10.5,22.8,10.4,2.4,2.2,7.4,43.5,Monday,Summer,1,31.33
+218C6E1C,2026-02-10,Single Family Home,3,4,0.0,0.3,13.6,0.9,1.0,10.3,10.2,Tuesday,Winter,0,10.42
+692E07B6,2025-11-17,Single Family Home,8,5,0.0,3.2,10.5,1.4,1.0,6.8,14.6,Monday,Winter,1,10.06
+4F3949A8,2026-06-25,Portion,4,5,5.3,16.4,12.2,2.2,2.7,4.3,35.3,Thursday,Summer,1,23.06
+C7332304,2025-11-23,Portion,3,4,0.0,2.9,13.1,2.6,1.0,6.4,20.0,Sunday,Winter,1,10.65
+DF7D0DD7,2025-10-06,Portion,6,3,1.8,9.4,13.5,0.8,1.3,9.8,27.7,Monday,Spring/Autumn,0,11.44
+290A3ABB,2025-10-14,Single Family Home,7,3,1.7,11.3,10.5,0.2,1.1,7.0,31.6,Tuesday,Spring/Autumn,0,10.26
+597E6845,2026-06-12,Portion,1,6,9.5,23.3,13.4,1.5,2.8,6.5,42.1,Friday,Summer,1,36.32
+14E4180C,2025-11-21,Apartment,6,2,0.0,1.2,12.0,1.3,1.0,11.6,6.9,Friday,Winter,1,5.65
+09CE3CFB,2025-10-19,Portion,3,6,2.9,8.8,12.3,2.7,1.8,6.2,27.9,Sunday,Spring/Autumn,1,16.61
+E7E646C7,2025-08-04,Villa,4,6,11.8,19.8,11.7,2.3,2.7,6.0,41.4,Monday,Summer,1,38.04
+3CD5FD7F,2025-10-25,Apartment,4,3,3.8,7.9,12.7,1.6,1.8,6.4,23.5,Saturday,Spring/Autumn,1,13.6
+750565F5,2025-07-29,Portion,1,4,10.8,14.4,11.3,0.7,2.4,6.9,39.4,Tuesday,Summer,0,30.98
+9D642932,2025-11-13,Portion,3,3,0.0,0.5,12.2,1.6,0.9,8.8,19.6,Thursday,Winter,1,6.29
+8B48F496,2026-01-08,Apartment,7,3,0.0,0.4,11.5,0.6,0.8,7.5,8.7,Thursday,Winter,0,7.52
+5F90BED6,2025-10-07,Apartment,6,2,1.3,8.6,13.1,2.0,1.3,9.1,21.9,Tuesday,Spring/Autumn,1,10.5
+A0D572C8,2025-08-13,Villa,3,5,6.2,23.3,13.9,1.4,2.3,5.4,38.1,Wednesday,Summer,1,25.69
+A48E40F1,2025-09-09,Portion,8,4,14.8,19.9,12.1,0.8,2.2,5.7,39.9,Tuesday,Summer,0,38.06
+F1901B7E,2025-12-21,Villa,4,5,0.0,3.1,11.6,2.1,0.9,7.2,15.9,Sunday,Winter,1,9.55
+0ABA590E,2025-10-30,Villa,7,9,2.0,10.1,14.0,2.4,1.3,6.7,20.9,Thursday,Spring/Autumn,1,23.49
+A59B457F,2025-09-14,Villa,1,10,13.9,16.1,13.0,1.4,2.9,6.0,38.9,Sunday,Summer,1,46.53
+CCA1B45C,2025-11-18,Portion,8,6,0.0,0.5,11.9,1.9,0.8,9.6,5.7,Tuesday,Winter,1,10.58
+B12B6680,2026-01-05,Villa,2,10,0.0,2.5,14.0,2.5,0.7,7.8,9.9,Monday,Winter,1,13.81
+FEBEC0DB,2026-05-03,Villa,6,5,11.3,20.5,13.3,1.7,1.9,6.7,43.3,Sunday,Summer,1,36.22
+4BAF0F5E,2025-10-27,Portion,3,6,3.2,9.8,10.1,1.9,1.7,11.8,27.0,Monday,Spring/Autumn,1,22.93
+DEBAC186,2026-06-05,Portion,5,3,11.8,20.7,10.7,0.6,2.4,6.5,42.8,Friday,Summer,0,31.6
+5D01F55F,2026-01-10,Single Family Home,1,4,0.0,2.7,13.8,1.2,0.5,6.1,7.2,Saturday,Winter,1,6.49
+C8040FB7,2025-12-14,Single Family Home,2,4,0.0,2.8,13.1,2.8,0.9,11.2,7.3,Sunday,Winter,1,11.52
+5CB5E69C,2025-11-24,Apartment,3,4,0.0,0.6,11.3,2.3,0.7,9.2,5.9,Monday,Winter,1,7.5
+71A6014C,2026-04-12,Single Family Home,6,6,3.6,6.7,13.1,2.4,1.4,9.9,22.1,Sunday,Spring/Autumn,1,20.91
+3FE68C9C,2026-06-23,Apartment,3,3,7.9,15.0,10.9,2.9,2.3,5.2,41.1,Tuesday,Summer,1,23.08
+4303CBC1,2026-04-16,Portion,4,5,2.8,6.5,13.7,2.6,1.3,7.6,22.5,Thursday,Spring/Autumn,1,14.87
+DA52D2EE,2025-08-03,Single Family Home,8,3,9.8,23.8,13.8,2.6,2.7,5.2,41.8,Sunday,Summer,1,28.71
+D8741408,2026-07-03,Villa,2,9,9.5,17.3,11.9,1.4,1.9,6.2,42.1,Friday,Summer,1,38.97
+28524385,2026-03-24,Single Family Home,6,4,0.5,8.9,11.0,0.7,1.6,9.2,28.4,Tuesday,Spring/Autumn,0,12.59
+238D6F44,2025-10-01,Portion,1,5,1.7,9.7,13.1,1.0,1.1,9.3,20.6,Wednesday,Spring/Autumn,1,17.12
+8D38BBD8,2025-08-23,Apartment,2,3,15.4,22.5,10.8,2.9,2.2,5.3,39.1,Saturday,Summer,1,37.17
+B807D78A,2025-12-29,Portion,7,3,0.0,0.4,12.1,0.7,1.1,11.6,18.6,Monday,Winter,0,9.51
+12FC7A87,2025-12-18,Villa,3,9,0.0,3.5,13.7,1.0,0.7,8.4,7.6,Thursday,Winter,0,13.97
+6EC01269,2026-01-07,Apartment,2,4,0.0,3.8,13.5,0.0,1.4,9.4,19.0,Wednesday,Winter,0,8.02
+5299E505,2026-06-14,Single Family Home,6,5,8.8,23.9,12.0,2.9,2.3,7.4,44.8,Sunday,Summer,1,33.0
+3240D7A1,2026-02-24,Villa,3,10,0.0,0.5,11.8,1.5,0.7,7.1,7.9,Tuesday,Winter,1,12.43
+80A8A23D,2026-02-26,Single Family Home,3,5,0.0,2.3,10.7,0.9,1.3,11.4,16.9,Thursday,Winter,0,12.27
+14CB0564,2025-07-23,Villa,4,9,6.9,20.0,10.6,1.6,1.8,5.0,40.2,Wednesday,Summer,1,32.93
+7F7F6C0A,2026-05-28,Villa,5,8,6.5,23.4,12.9,0.0,2.0,6.6,37.4,Thursday,Summer,0,35.28
+67F5AE02,2025-10-23,Apartment,1,2,0.5,6.5,12.0,2.8,1.4,10.2,20.7,Thursday,Spring/Autumn,1,8.77
+343ADA2A,2025-11-08,Single Family Home,6,5,0.0,3.7,12.5,1.4,0.8,6.8,6.8,Saturday,Winter,1,7.67
+586A346A,2026-06-28,Single Family Home,6,3,12.1,17.0,11.9,2.1,2.3,6.7,42.5,Sunday,Summer,1,29.59
+1F5D988F,2025-10-12,Single Family Home,3,3,3.0,11.0,11.8,2.4,1.1,6.5,23.0,Sunday,Spring/Autumn,1,14.29
+6257A4A2,2026-05-19,Portion,4,4,5.3,18.1,10.6,1.7,2.4,6.1,35.6,Tuesday,Summer,1,20.7
+500E15C0,2025-09-14,Single Family Home,8,6,5.5,13.1,13.2,1.9,2.3,6.1,37.1,Sunday,Summer,1,24.44
+7F53A88E,2025-07-15,Portion,8,4,4.8,21.7,11.6,0.8,2.6,7.0,35.6,Tuesday,Summer,0,23.3
+0CF0374C,2025-10-17,Portion,5,3,1.4,4.5,13.7,0.1,2.0,11.6,20.5,Friday,Spring/Autumn,0,10.28
+43B47EE5,2026-03-30,Portion,6,3,3.1,10.1,12.6,1.8,2.0,12.0,24.9,Monday,Spring/Autumn,1,16.28
+31D4EE09,2025-11-16,Villa,2,8,0.0,3.6,12.7,2.3,0.9,9.2,18.0,Sunday,Winter,1,15.06
+8CC36F3B,2025-10-17,Apartment,3,2,0.7,8.3,12.9,1.4,1.5,6.0,24.2,Friday,Spring/Autumn,1,7.06
+56CE4B42,2026-01-27,Villa,3,6,0.0,2.7,12.1,2.6,1.0,7.5,9.5,Tuesday,Winter,1,10.3
+09F64405,2025-08-26,Villa,8,9,7.6,20.7,13.2,1.8,1.7,7.1,37.8,Tuesday,Summer,1,39.21
+83F82F16,2025-08-27,Villa,3,8,3.2,13.2,12.4,2.4,1.6,4.2,35.2,Wednesday,Summer,1,22.99
+D40AC5E9,2026-01-09,Portion,5,6,0.0,0.9,13.5,0.1,0.7,9.0,11.0,Friday,Winter,0,8.62
+1C0F0BDC,2026-06-30,Villa,1,9,13.3,15.8,12.7,1.6,2.4,5.2,43.2,Tuesday,Summer,1,40.73
+C86C6544,2026-06-27,Single Family Home,1,6,8.2,15.6,13.8,2.8,1.6,7.6,41.6,Saturday,Summer,1,30.77
+B89F7039,2026-02-18,Portion,3,4,0.0,2.0,13.8,0.7,1.5,10.7,11.4,Wednesday,Winter,0,9.26
+1C221CEA,2025-09-14,Portion,6,6,7.5,16.5,11.9,2.7,2.6,5.2,39.2,Sunday,Summer,1,30.2
+34323EC6,2025-12-04,Portion,1,4,0.0,3.7,13.9,0.6,1.1,6.8,17.1,Thursday,Winter,0,7.24
+A987B218,2025-12-29,Portion,6,4,0.0,2.6,13.4,1.2,1.4,10.3,8.1,Monday,Winter,1,8.91
+8BD88FCD,2025-11-13,Villa,8,6,0.0,2.7,13.5,0.2,1.1,10.6,9.0,Thursday,Winter,0,12.72
+3990E2C9,2026-06-16,Villa,5,10,10.8,22.4,13.8,0.0,2.0,7.7,40.6,Tuesday,Summer,0,48.19
+5129950D,2025-12-29,Villa,5,5,0.0,4.0,11.0,2.2,1.0,7.2,6.8,Monday,Winter,1,11.49
+D1812F77,2025-11-10,Single Family Home,5,3,0.0,3.1,12.1,1.7,0.9,7.6,13.3,Monday,Winter,1,7.52
+58AB4778,2026-06-10,Villa,8,6,7.0,23.8,13.4,0.9,2.2,5.5,40.0,Wednesday,Summer,0,30.39
+EEDAA802,2026-01-28,Villa,3,5,0.0,0.9,11.0,0.9,0.6,9.5,13.4,Wednesday,Winter,0,8.33
+E7BA26AC,2026-01-17,Single Family Home,1,3,0.0,1.3,13.3,2.0,0.9,9.9,7.3,Saturday,Winter,1,8.83
+78EF7666,2025-08-12,Single Family Home,1,4,6.9,23.6,12.0,1.3,2.5,7.2,37.6,Tuesday,Summer,1,25.68
+E0DECC3D,2025-12-28,Single Family Home,5,5,0.0,2.0,12.2,2.3,1.4,6.4,15.8,Sunday,Winter,1,7.64
+E86E8E63,2026-04-14,Single Family Home,1,4,3.8,9.3,11.6,2.7,1.8,7.4,30.2,Tuesday,Spring/Autumn,1,18.5
+EF158D5B,2026-06-08,Portion,8,4,5.0,16.5,12.7,2.2,2.4,5.9,35.1,Monday,Summer,1,21.98
+4C636E95,2026-01-30,Apartment,6,3,0.0,2.2,12.1,1.5,0.5,11.9,5.1,Friday,Winter,1,5.98
+8639BD41,2026-01-03,Single Family Home,8,5,0.0,2.7,13.6,1.2,1.3,6.6,17.2,Saturday,Winter,1,8.01
+54A7B69B,2025-09-04,Portion,5,4,5.2,21.8,11.6,0.4,1.9,5.6,36.9,Thursday,Summer,0,22.06
+4B86B5A1,2026-01-30,Single Family Home,3,6,0.0,0.9,13.4,2.3,1.2,11.1,19.9,Friday,Winter,1,13.57
+669D01FF,2026-03-08,Single Family Home,3,6,1.5,8.4,10.0,1.3,1.1,9.0,21.1,Sunday,Spring/Autumn,1,15.46
+01BF9E73,2025-10-10,Single Family Home,8,5,2.3,10.9,12.1,1.1,1.1,7.3,29.4,Friday,Spring/Autumn,1,17.08
+92A81713,2025-07-11,Villa,4,5,10.8,12.6,13.7,0.9,1.6,6.3,43.9,Friday,Summer,0,27.52
+67C96204,2026-03-15,Villa,2,10,1.3,11.7,13.0,2.4,1.6,8.4,31.1,Sunday,Spring/Autumn,1,23.4
+5E175B66,2026-02-16,Single Family Home,3,6,0.0,1.0,11.6,0.9,1.3,8.0,7.4,Monday,Winter,0,10.93
+9B11B530,2025-11-20,Portion,4,4,0.0,4.0,12.0,1.0,1.2,6.3,7.1,Thursday,Winter,0,8.09
+B42A0456,2025-11-16,Apartment,1,4,0.0,1.4,13.8,1.8,1.3,10.6,17.6,Sunday,Winter,1,8.16
+929C93B3,2026-01-19,Single Family Home,6,6,0.0,4.0,11.4,0.9,1.0,8.6,9.1,Monday,Winter,0,11.83
+95492A82,2026-01-01,Portion,1,6,0.0,0.3,13.2,0.7,1.1,6.5,14.9,Thursday,Winter,0,7.18
+905C7BDD,2025-07-28,Portion,5,3,12.3,20.9,10.4,1.0,2.0,5.2,42.1,Monday,Summer,1,29.75
+BEED0AF9,2025-09-24,Apartment,1,3,2.8,14.2,12.2,1.8,2.2,4.1,37.7,Wednesday,Summer,1,14.55
+FE7EE362,2025-07-29,Apartment,8,2,5.6,15.9,11.2,1.8,2.1,4.3,35.9,Tuesday,Summer,1,19.42
+22AB7752,2026-04-13,Portion,6,6,3.9,8.6,11.5,1.3,1.2,7.8,30.9,Monday,Spring/Autumn,1,19.01
+60A399D4,2025-11-21,Single Family Home,6,3,0.0,1.7,11.9,0.1,0.9,7.5,5.9,Friday,Winter,0,5.34
+87623997,2025-08-22,Single Family Home,1,3,11.9,14.3,11.2,2.9,1.7,5.3,41.3,Friday,Summer,1,29.34
+8B60C511,2025-12-09,Portion,4,4,0.0,1.3,13.3,2.7,0.8,11.8,17.1,Tuesday,Winter,1,8.78
+3040413C,2026-06-15,Apartment,1,4,15.5,14.4,13.9,2.9,2.0,5.2,38.2,Monday,Summer,1,37.38
+E23DDFAA,2026-05-28,Single Family Home,4,3,11.8,14.9,13.3,0.4,2.1,4.5,39.9,Thursday,Summer,0,28.37
+99086E47,2026-03-09,Apartment,4,4,2.2,9.5,13.8,0.5,1.6,10.3,27.1,Monday,Spring/Autumn,0,15.09
+8A2DB2E6,2025-09-24,Apartment,3,4,6.2,21.8,11.6,2.0,2.7,6.5,37.9,Wednesday,Summer,1,24.65
+BB44BADC,2026-02-02,Villa,4,7,0.0,2.9,10.3,1.0,1.3,8.9,14.9,Monday,Winter,0,11.79
+389641DD,2025-12-05,Villa,1,9,0.0,3.7,12.2,0.8,1.2,8.2,12.6,Friday,Winter,0,15.92
+8E4C3AB5,2026-01-04,Villa,7,9,0.0,2.6,13.1,2.3,0.6,8.1,13.1,Sunday,Winter,1,14.12
+6883AC6E,2025-08-30,Portion,3,6,7.9,20.1,13.0,2.9,2.1,5.7,35.4,Saturday,Summer,1,29.45
+4CFD0FC1,2026-05-16,Single Family Home,8,3,5.1,18.2,12.3,1.9,2.4,5.6,37.6,Saturday,Summer,1,21.3
+6AA0426D,2026-01-26,Single Family Home,7,4,0.0,2.0,10.1,1.2,0.8,8.5,13.8,Monday,Winter,1,9.73
+143DF5B3,2026-06-09,Villa,2,9,7.6,13.7,11.8,0.2,2.0,5.9,36.2,Tuesday,Summer,0,31.29
+AC75C344,2026-02-13,Apartment,2,2,0.0,2.8,11.2,0.8,0.8,6.7,11.6,Friday,Winter,0,6.97
+E8334DA5,2025-11-05,Apartment,4,2,0.0,2.7,13.9,0.2,0.7,7.0,14.7,Wednesday,Winter,0,4.16
+7A9A8EF5,2026-06-06,Single Family Home,7,4,15.6,14.8,10.7,2.3,2.1,5.7,40.6,Saturday,Summer,1,34.63
+48769153,2025-11-23,Villa,5,7,0.0,0.8,11.6,2.4,1.1,7.2,14.2,Sunday,Winter,1,11.56
+7F4D908C,2025-12-24,Portion,6,4,0.0,0.3,13.5,1.4,0.6,8.0,17.1,Wednesday,Winter,1,7.2
+90019ED4,2026-05-19,Single Family Home,1,5,7.2,18.3,12.4,2.2,2.5,6.3,37.6,Tuesday,Summer,1,27.36
+54720D2D,2025-09-29,Single Family Home,8,5,12.2,21.8,11.2,2.2,2.6,4.3,43.5,Monday,Summer,1,34.26
+F76D15FD,2026-03-28,Portion,8,4,1.2,5.5,12.0,1.8,1.7,6.8,21.4,Saturday,Spring/Autumn,1,11.5
+2B54FF7A,2025-08-27,Portion,3,3,5.8,20.3,14.0,0.6,2.5,6.0,36.9,Wednesday,Summer,0,20.22
+F1F7D904,2026-05-02,Apartment,1,3,10.5,12.6,10.0,1.3,2.0,7.3,38.1,Saturday,Summer,1,28.34
+3B3F3800,2025-07-31,Single Family Home,1,4,10.9,20.2,13.4,2.0,2.1,4.3,40.1,Thursday,Summer,1,29.02
+A3422E50,2026-03-08,Portion,8,3,1.2,6.2,10.7,1.9,1.5,10.5,29.1,Sunday,Spring/Autumn,1,12.71
+694D7B00,2025-07-11,Villa,5,5,7.1,13.4,13.3,1.7,2.7,7.3,40.5,Friday,Summer,1,24.88
+2DE46E91,2025-08-15,Apartment,3,2,11.5,23.9,13.3,0.8,1.7,5.2,42.2,Friday,Summer,0,29.17
+D0B1E3EB,2025-11-13,Portion,2,5,0.0,1.4,11.8,3.0,1.3,10.7,11.7,Thursday,Winter,1,10.53
+FD7FE973,2026-03-19,Villa,2,10,2.4,6.8,12.5,0.2,1.7,6.8,29.7,Thursday,Spring/Autumn,0,19.32
+608E2F5C,2026-01-25,Apartment,1,4,0.0,0.2,11.1,2.1,0.9,7.9,8.1,Sunday,Winter,1,8.55
+D867888B,2025-12-12,Villa,2,9,0.0,1.1,13.9,0.7,1.4,6.6,9.3,Friday,Winter,0,13.46
+DE3CE88B,2026-03-17,Portion,5,3,3.7,11.9,10.5,0.9,1.9,7.5,29.4,Tuesday,Spring/Autumn,0,16.6
+E63949D4,2026-01-21,Apartment,3,3,0.0,3.0,12.0,0.6,1.2,7.6,17.4,Wednesday,Winter,0,6.97
+24E9BCFD,2026-04-08,Portion,2,5,2.5,11.0,12.1,0.3,1.1,11.6,25.4,Wednesday,Spring/Autumn,0,17.32
+D5ABA8AE,2026-05-13,Villa,7,10,9.3,12.0,12.9,0.7,2.7,5.8,44.5,Wednesday,Summer,0,36.22
+B962C8A7,2025-08-04,Villa,1,5,6.6,18.4,11.7,1.4,1.8,5.1,38.6,Monday,Summer,1,26.42
+57311609,2026-02-13,Portion,6,3,0.0,2.3,11.9,1.7,1.1,10.1,10.1,Friday,Winter,1,6.48
+7D98302F,2025-09-28,Portion,7,4,6.7,17.5,13.4,1.9,1.7,4.0,36.0,Sunday,Summer,1,24.73
+614C721D,2025-08-07,Villa,4,10,6.1,13.6,10.6,0.9,2.5,5.1,37.0,Thursday,Summer,0,31.37
+6147ADEB,2026-03-24,Single Family Home,7,5,1.5,11.2,11.6,1.6,1.2,10.2,23.0,Tuesday,Spring/Autumn,1,15.27
+F165D779,2025-10-27,Villa,5,5,2.8,4.0,10.5,0.2,1.5,10.1,27.9,Monday,Spring/Autumn,0,13.21
+72E76B51,2026-01-26,Portion,2,3,0.0,3.3,11.7,0.1,1.5,6.4,15.4,Monday,Winter,0,6.75
+98D00C2C,2026-02-10,Villa,7,5,0.0,0.4,13.5,1.3,0.8,10.6,16.0,Tuesday,Winter,1,10.87
+15AEDE0F,2026-03-29,Single Family Home,3,6,4.0,5.1,10.0,2.3,1.5,8.6,21.6,Sunday,Spring/Autumn,1,19.8
+4D16F049,2025-10-13,Single Family Home,2,4,0.6,7.3,13.4,1.2,1.7,6.6,27.5,Monday,Spring/Autumn,1,12.38
+7BF69552,2026-04-19,Villa,5,6,1.5,11.7,10.6,1.6,1.3,6.5,27.1,Sunday,Spring/Autumn,1,16.52
+9803B22E,2026-02-17,Portion,2,4,0.0,2.4,12.8,2.7,1.3,10.0,14.0,Tuesday,Winter,1,9.6
+550C2FE9,2026-05-11,Portion,6,6,11.1,21.0,10.2,2.8,1.9,7.8,40.2,Monday,Summer,1,37.1
+DC08BF29,2026-03-02,Single Family Home,5,5,2.0,8.8,13.9,1.0,1.5,11.6,21.4,Monday,Spring/Autumn,0,15.98
+F6EE5CDB,2025-11-29,Villa,5,10,0.0,2.3,12.7,2.5,0.9,11.7,17.9,Saturday,Winter,1,19.48
+F7BF5244,2026-02-02,Single Family Home,6,6,0.0,0.3,10.2,1.1,0.8,10.7,5.3,Monday,Winter,1,10.32
+5D71A898,2025-08-17,Single Family Home,3,3,11.0,17.0,10.3,2.1,2.6,6.5,41.3,Sunday,Summer,1,28.3
+F166CDCF,2026-03-23,Portion,5,3,2.0,5.6,12.1,1.8,1.8,9.8,23.7,Monday,Spring/Autumn,1,14.54
+A2224F96,2025-10-25,Villa,3,10,0.3,9.6,13.4,1.1,1.7,6.5,28.2,Saturday,Spring/Autumn,1,19.5
+12EF6101,2025-12-18,Portion,7,6,0.0,2.4,13.0,0.7,0.8,6.7,11.8,Thursday,Winter,0,9.99
+B39E4DF2,2026-05-30,Apartment,2,2,7.6,23.4,13.1,2.4,2.3,4.7,42.0,Saturday,Summer,1,21.53
+2A9528C3,2026-02-28,Apartment,7,3,0.0,1.1,13.1,1.1,1.4,10.8,16.7,Saturday,Winter,1,7.65
+1B1F2EB1,2025-07-10,Villa,4,9,6.3,18.9,11.8,0.4,1.6,6.0,35.6,Thursday,Summer,0,32.72
+768B4F7E,2026-04-15,Single Family Home,6,3,1.0,4.8,12.9,1.5,1.6,9.1,24.4,Wednesday,Spring/Autumn,1,9.03
+EBA900E1,2026-06-23,Apartment,3,3,8.4,17.7,10.6,2.9,2.1,7.4,43.6,Tuesday,Summer,1,25.72
+34F541C0,2026-01-13,Villa,8,5,0.0,3.0,11.3,1.8,0.9,10.3,18.7,Tuesday,Winter,1,9.85
+51A40D2A,2025-07-31,Apartment,2,2,4.2,18.0,10.7,2.6,2.9,7.9,35.8,Thursday,Summer,1,20.15
+CCD015C1,2025-09-05,Single Family Home,3,4,4.8,15.4,11.3,2.1,2.8,4.0,35.7,Friday,Summer,1,19.62
+76492E64,2025-09-29,Portion,3,4,9.0,19.5,12.4,2.0,2.2,7.1,40.6,Monday,Summer,1,27.66
+9D361CB6,2026-05-26,Portion,7,6,13.6,14.9,11.6,0.2,1.5,5.4,44.0,Tuesday,Summer,0,36.35
+47419B48,2026-04-08,Apartment,2,4,3.8,4.0,13.4,0.7,1.7,6.6,30.5,Wednesday,Spring/Autumn,0,15.04
+75220646,2025-08-17,Portion,6,6,5.0,12.7,12.8,1.2,3.0,7.7,37.4,Sunday,Summer,1,26.87
+1D3E503A,2025-11-11,Portion,3,5,0.0,2.8,13.9,0.1,0.9,6.6,12.8,Tuesday,Winter,0,6.81
+1E2C2E7D,2025-10-02,Apartment,3,3,0.3,8.5,13.9,0.2,1.4,7.6,29.8,Thursday,Spring/Autumn,0,8.75
+98AF5CCA,2025-08-26,Portion,7,4,13.0,20.8,11.1,1.1,2.0,4.8,43.0,Tuesday,Summer,1,34.51
+EB4E2281,2026-02-28,Single Family Home,3,6,0.0,0.6,11.9,1.8,0.7,9.2,13.8,Saturday,Winter,1,11.85
+508850D3,2026-05-11,Apartment,6,2,3.8,15.2,10.6,2.4,1.7,7.3,37.1,Monday,Summer,1,16.1
+624A2A50,2026-06-24,Portion,7,6,7.0,15.9,11.0,1.7,1.6,6.1,35.4,Wednesday,Summer,1,27.49
+7D1B695E,2025-09-06,Apartment,4,3,7.9,12.4,11.8,2.5,2.1,5.0,37.6,Saturday,Summer,1,22.73
+89A0B7EB,2025-10-20,Portion,8,3,0.6,4.1,13.9,0.1,1.8,10.9,29.6,Monday,Spring/Autumn,0,9.93
+D2C2A960,2026-07-04,Apartment,8,4,12.4,19.0,13.3,1.0,1.9,4.3,41.3,Saturday,Summer,1,33.52
+1A37F6BD,2026-04-02,Single Family Home,5,3,0.5,11.2,11.3,1.1,1.8,8.8,25.3,Thursday,Spring/Autumn,1,10.09
+D1151FFF,2025-08-07,Apartment,4,2,14.2,16.7,12.7,1.3,1.5,4.9,40.7,Thursday,Summer,1,28.96
+A1FD4187,2025-12-10,Single Family Home,4,4,0.0,3.5,12.5,0.2,0.5,7.8,9.2,Wednesday,Winter,0,7.11
+47F53019,2026-02-10,Single Family Home,6,5,0.0,0.2,10.5,1.4,0.8,11.3,13.3,Tuesday,Winter,1,9.8
+DBA6FDF8,2026-01-11,Apartment,3,3,0.0,3.2,14.0,2.6,1.3,8.2,14.5,Sunday,Winter,1,9.16
+46FEACD4,2026-05-20,Single Family Home,3,4,15.1,18.0,10.7,0.3,2.1,4.9,39.8,Wednesday,Summer,0,37.02
+3F5FBF4F,2026-04-11,Portion,8,4,0.2,11.9,13.1,3.0,1.5,11.8,29.3,Saturday,Spring/Autumn,1,13.32
+A0B85755,2025-12-05,Portion,2,3,0.0,1.1,13.7,1.1,1.3,12.0,14.9,Friday,Winter,1,7.79
+B1D81887,2026-06-14,Villa,8,8,14.0,16.3,13.4,1.4,2.8,6.4,43.5,Sunday,Summer,1,44.36
+DE70BD30,2026-04-16,Apartment,8,4,3.7,4.2,13.8,2.1,1.7,9.4,28.4,Thursday,Spring/Autumn,1,15.44
+88D00ABD,2025-11-29,Portion,4,6,0.0,3.5,11.2,2.0,1.0,6.5,19.8,Saturday,Winter,1,9.11
+48998E5F,2025-11-07,Single Family Home,8,5,0.0,2.1,13.7,0.2,0.5,6.8,8.3,Friday,Winter,0,8.45
+C8ACFFCF,2026-05-09,Apartment,2,2,14.4,15.9,12.3,2.8,1.5,7.1,44.2,Saturday,Summer,1,32.92
+FDE91C42,2026-06-22,Single Family Home,3,5,15.6,16.5,11.6,0.1,2.9,5.2,43.6,Monday,Summer,0,37.4
+462623BE,2025-08-10,Villa,5,5,7.7,21.5,12.6,1.3,2.9,7.9,36.6,Sunday,Summer,1,31.79
+A61F0B96,2025-09-05,Portion,5,4,13.9,14.7,10.7,1.6,2.4,6.8,44.3,Friday,Summer,1,32.91
+185DF528,2025-07-07,Portion,2,4,15.5,23.4,14.0,1.0,2.1,4.1,42.3,Monday,Summer,0,38.52
+0260A123,2025-07-09,Villa,2,8,15.7,14.7,13.7,0.1,2.3,7.0,44.2,Wednesday,Summer,0,43.0
+6210DEF6,2025-08-08,Apartment,2,3,7.7,22.6,12.8,2.3,1.6,7.5,44.8,Friday,Summer,1,24.67
+61FA01BA,2026-04-16,Single Family Home,3,3,1.0,4.5,10.4,0.0,1.3,8.3,23.2,Thursday,Spring/Autumn,0,9.89
+70AA5B0D,2025-11-12,Single Family Home,3,6,0.0,3.5,11.5,2.1,1.0,6.6,19.5,Wednesday,Winter,1,10.24
+E5871D89,2025-08-12,Apartment,7,3,12.5,20.2,10.3,2.7,1.7,5.2,43.6,Tuesday,Summer,1,30.15
+3F6EED9D,2025-10-16,Apartment,4,4,0.3,5.4,12.9,2.1,1.4,11.4,31.4,Thursday,Spring/Autumn,1,10.53
+06DDF6CA,2026-05-13,Villa,4,9,12.1,17.8,13.8,0.2,1.5,7.6,40.9,Wednesday,Summer,0,40.61
+A56B61E0,2025-07-26,Single Family Home,8,6,3.2,14.3,12.9,2.5,2.5,5.1,36.0,Saturday,Summer,1,20.92
+A3595D1F,2026-02-09,Apartment,6,3,0.0,0.2,13.4,0.2,1.1,8.2,8.6,Monday,Winter,0,6.39
+91816091,2025-12-08,Single Family Home,8,3,0.0,2.6,10.8,0.0,1.1,7.0,9.4,Monday,Winter,0,5.65
+431E930F,2025-09-23,Apartment,7,4,7.1,15.7,12.0,2.3,2.1,4.4,35.8,Tuesday,Summer,1,23.83
+C4615234,2025-12-06,Portion,2,4,0.0,3.5,11.8,1.5,0.9,8.8,7.8,Saturday,Winter,1,7.82
+143AC1C5,2026-01-10,Single Family Home,3,5,0.0,0.2,12.7,1.2,1.3,8.1,9.0,Saturday,Winter,1,9.15
+C362A810,2026-05-08,Apartment,5,4,11.9,18.6,13.3,1.8,2.8,6.1,44.7,Friday,Summer,1,34.91
+3D175712,2025-07-28,Apartment,7,2,14.8,17.7,13.6,2.4,1.6,6.0,39.7,Monday,Summer,1,33.87
+4F2DA233,2026-03-07,Single Family Home,2,3,2.7,9.0,13.0,1.3,1.1,11.9,29.6,Saturday,Spring/Autumn,1,16.35
+02E7DF89,2025-09-04,Villa,5,6,7.3,17.1,11.7,3.0,3.0,6.5,43.1,Thursday,Summer,1,32.05
+DF9B141E,2025-10-13,Apartment,1,3,3.6,11.3,11.6,1.8,1.1,8.0,23.1,Monday,Spring/Autumn,1,14.23
+4350AB06,2026-03-24,Apartment,8,3,3.5,10.3,12.1,1.8,1.6,8.5,25.5,Tuesday,Spring/Autumn,1,14.36
+911F730B,2025-09-06,Single Family Home,5,3,13.6,23.3,12.3,1.2,2.9,5.1,40.9,Saturday,Summer,1,34.57
+B90800F3,2025-08-18,Apartment,1,2,10.1,16.6,12.4,0.0,2.2,5.1,38.4,Monday,Summer,0,22.98
+620AF158,2026-06-08,Single Family Home,1,6,12.9,12.5,11.3,0.2,2.8,7.0,41.1,Monday,Summer,0,37.46
+EA75752D,2026-03-27,Villa,2,9,0.1,10.5,11.1,2.0,1.3,10.2,30.8,Friday,Spring/Autumn,1,19.9
+E6E59B32,2025-07-26,Single Family Home,1,6,7.3,23.7,13.3,1.5,2.2,5.7,43.7,Saturday,Summer,1,32.17
+DDB449DC,2025-10-18,Villa,6,5,0.8,10.6,13.0,2.7,1.7,10.9,22.3,Saturday,Spring/Autumn,1,17.2
+5E717FCA,2025-09-18,Villa,4,8,3.9,18.1,13.4,2.8,1.7,4.1,36.6,Thursday,Summer,1,25.16
+FF6EF9ED,2026-04-15,Single Family Home,4,4,3.3,6.0,13.7,0.7,1.5,7.6,30.0,Wednesday,Spring/Autumn,0,16.26
+3BA5BD76,2026-01-21,Apartment,6,2,0.0,2.5,10.1,1.7,0.6,9.6,12.6,Wednesday,Winter,1,4.83
+4EB9047D,2025-08-14,Single Family Home,7,6,11.9,16.2,13.6,0.7,1.7,6.8,43.7,Thursday,Summer,0,33.81
+B62EDB49,2025-10-17,Apartment,4,4,0.7,8.6,13.4,2.3,2.0,10.1,24.6,Friday,Spring/Autumn,1,13.26
+755D814B,2026-06-28,Apartment,2,4,6.2,21.4,10.0,2.8,2.7,6.6,39.1,Sunday,Summer,1,26.14
+64F434D6,2025-08-03,Apartment,7,4,3.5,21.7,13.9,2.3,2.0,5.7,35.1,Sunday,Summer,1,20.21
+4AAB47B2,2025-10-10,Villa,7,10,1.0,7.7,13.3,1.8,1.7,6.6,24.2,Friday,Spring/Autumn,1,19.88
+3BCDF203,2025-08-03,Single Family Home,3,3,14.4,16.5,12.4,1.6,2.5,4.4,41.6,Sunday,Summer,1,31.82
+7316CE64,2025-12-24,Portion,2,5,0.0,2.6,11.0,0.7,1.4,11.4,19.8,Wednesday,Winter,0,10.39
+43D78F2B,2026-05-15,Apartment,3,4,6.6,22.8,13.2,2.2,2.7,6.6,36.5,Friday,Summer,1,27.75
+9A72083C,2025-07-21,Villa,3,5,12.6,24.0,11.7,0.4,1.9,4.1,42.2,Monday,Summer,0,36.0
+837217E0,2025-07-24,Villa,5,6,7.9,20.7,12.1,0.8,1.8,7.6,40.7,Thursday,Summer,0,31.9
+73C374A6,2026-01-26,Single Family Home,2,6,0.0,3.4,13.5,0.2,1.3,6.6,12.6,Monday,Winter,0,8.61
+1F178F93,2025-07-11,Single Family Home,3,4,6.9,21.2,12.7,1.7,1.8,4.4,37.6,Friday,Summer,1,23.69
+F004E897,2026-02-27,Villa,2,5,0.0,1.2,11.3,0.3,1.3,7.8,16.2,Friday,Winter,0,10.01
+7184B713,2026-04-29,Apartment,6,2,3.5,8.7,10.3,0.9,1.9,9.0,25.6,Wednesday,Spring/Autumn,0,15.17
+2B015723,2026-06-10,Portion,7,6,9.0,12.6,10.5,0.2,2.8,5.6,38.8,Wednesday,Summer,0,29.18
+2C3D17E2,2025-11-13,Single Family Home,5,5,0.0,1.8,12.9,2.6,0.8,8.9,18.6,Thursday,Winter,1,10.61
+9D3616A1,2026-02-18,Single Family Home,5,6,0.0,2.5,11.1,2.5,0.5,7.0,7.7,Wednesday,Winter,1,10.59
+0F9C5300,2025-08-08,Portion,3,6,13.6,13.1,12.5,0.4,2.4,7.9,39.9,Friday,Summer,0,36.79
+869BC00F,2025-10-06,Apartment,7,4,0.8,7.0,11.3,2.7,1.0,7.1,20.5,Monday,Spring/Autumn,1,11.9
+7C13F47A,2025-11-09,Villa,7,7,0.0,1.0,11.4,1.3,1.2,8.3,14.4,Sunday,Winter,1,11.31
+98DC9E0B,2025-09-25,Villa,1,8,6.9,15.6,12.9,2.2,1.9,5.4,36.7,Thursday,Summer,1,32.03
+3B964C74,2026-06-28,Apartment,4,4,9.4,22.8,10.8,2.9,2.0,7.7,45.0,Sunday,Summer,1,30.29
+D0F81063,2026-04-22,Apartment,4,4,2.9,5.0,12.4,1.3,1.7,8.2,22.7,Wednesday,Spring/Autumn,1,15.38
+FDD5B0F8,2026-05-12,Single Family Home,4,5,7.3,15.1,10.2,3.0,2.3,6.6,35.4,Tuesday,Summer,1,27.46
+B4157CEA,2026-03-20,Single Family Home,4,6,2.8,7.3,12.2,1.9,1.4,6.9,20.2,Friday,Spring/Autumn,1,17.74
+171B1B80,2025-07-27,Single Family Home,1,6,9.0,19.9,11.1,2.2,2.5,4.5,41.3,Sunday,Summer,1,33.55
+9D37EFB6,2025-09-18,Single Family Home,6,4,6.3,13.4,10.4,1.4,1.7,4.8,36.0,Thursday,Summer,1,19.73
+962C04DD,2026-03-21,Single Family Home,2,5,0.8,9.6,10.2,2.0,1.3,7.2,26.3,Saturday,Spring/Autumn,1,15.14
+B45C9A54,2026-06-16,Portion,2,5,6.0,20.1,13.3,2.3,2.9,4.6,38.3,Tuesday,Summer,1,25.18
+28522CA2,2026-04-01,Portion,8,5,2.9,4.8,10.9,1.0,1.3,7.8,26.1,Wednesday,Spring/Autumn,0,14.41
+B18D2C8C,2026-05-28,Villa,4,10,3.0,12.5,13.2,0.3,1.9,7.0,36.0,Thursday,Summer,0,24.8
+B0416F19,2025-10-22,Single Family Home,1,6,0.2,10.8,10.7,0.4,1.7,8.6,29.1,Wednesday,Spring/Autumn,0,15.58
+EBC92914,2026-04-29,Single Family Home,2,6,0.4,10.5,11.6,1.0,1.2,7.6,30.5,Wednesday,Spring/Autumn,0,13.91
+3CED4D1F,2025-11-10,Villa,3,10,0.0,3.2,13.2,0.1,1.1,10.2,17.8,Monday,Winter,0,15.07
+A39C3BD5,2026-03-30,Villa,8,5,0.6,7.3,13.2,2.4,1.6,7.1,31.3,Monday,Spring/Autumn,1,12.81
+115AFFAC,2025-11-12,Apartment,1,2,0.0,0.1,13.4,2.9,1.2,6.8,10.4,Wednesday,Winter,1,8.81
+F8170EBF,2025-09-05,Portion,8,6,4.5,12.6,11.3,2.4,1.9,6.7,36.1,Friday,Summer,1,23.68
+D42CB1AE,2025-12-29,Single Family Home,3,6,0.0,2.3,12.7,0.3,1.5,9.1,13.6,Monday,Winter,0,12.09
+4B7F2183,2025-07-14,Villa,2,5,6.0,15.0,12.7,1.8,2.0,7.4,36.0,Monday,Summer,1,24.8
+29310971,2026-03-31,Apartment,6,4,0.2,9.1,13.4,2.7,1.2,11.2,31.9,Tuesday,Spring/Autumn,1,11.45
+F143E545,2026-03-03,Portion,3,3,1.0,11.8,10.9,0.6,1.1,8.4,25.9,Tuesday,Spring/Autumn,0,9.59
+30A2CEE8,2025-12-03,Villa,5,7,0.0,3.2,13.4,0.4,0.9,6.7,11.9,Wednesday,Winter,0,10.53
+925F8199,2026-01-24,Portion,3,3,0.0,0.4,12.2,1.0,0.9,6.5,14.8,Saturday,Winter,1,6.68
+166ECFE3,2025-10-22,Portion,4,3,1.2,8.1,12.7,1.0,1.2,8.2,27.4,Wednesday,Spring/Autumn,0,9.0
+4AB427E3,2026-06-29,Portion,2,5,4.7,18.7,11.9,2.3,2.4,6.9,37.2,Monday,Summer,1,23.08
+A939EBD1,2025-10-11,Portion,3,5,0.9,6.7,13.9,1.6,1.8,9.1,29.1,Saturday,Spring/Autumn,1,15.34
+2FC3E649,2025-12-17,Villa,8,8,0.0,0.7,12.9,2.4,0.6,6.6,5.7,Wednesday,Winter,1,10.76
+907276EA,2025-07-29,Apartment,2,4,7.6,16.7,13.1,2.4,2.2,4.4,36.9,Tuesday,Summer,1,24.78
+F8802878,2026-04-09,Single Family Home,1,6,3.3,8.7,11.8,2.3,1.8,11.7,31.1,Thursday,Spring/Autumn,1,20.61
+DDECC40B,2026-06-14,Single Family Home,8,5,11.3,12.6,13.4,2.0,2.9,6.0,40.0,Sunday,Summer,1,34.22
+DA9BCCC1,2026-03-25,Single Family Home,2,6,2.3,9.8,11.5,0.6,1.1,11.3,22.1,Wednesday,Spring/Autumn,0,18.92
+F8DFCC3A,2025-09-22,Single Family Home,3,3,15.8,23.0,11.1,2.9,2.6,7.9,38.8,Monday,Summer,1,38.63
+6F75EE8A,2025-09-18,Single Family Home,5,5,4.5,20.4,11.2,0.7,2.6,7.4,36.3,Thursday,Summer,0,25.4
+65B90E94,2026-01-25,Villa,8,5,0.0,2.5,12.5,1.6,0.7,8.1,19.0,Sunday,Winter,1,9.89
+966B62EA,2026-01-14,Portion,2,6,0.0,2.6,12.0,0.7,1.5,7.9,19.7,Wednesday,Winter,0,9.23
+952A5345,2026-04-10,Apartment,2,4,1.9,8.6,11.7,0.7,1.7,11.0,24.2,Friday,Spring/Autumn,0,14.14
+891F4683,2026-05-25,Portion,5,6,14.1,18.3,10.6,2.3,1.5,4.8,43.5,Monday,Summer,1,38.79
+099759A3,2025-09-08,Portion,3,6,3.7,15.0,12.8,0.3,2.8,7.0,36.6,Monday,Summer,0,21.37
+54DCCBA5,2026-03-16,Apartment,8,3,0.4,10.9,13.5,2.5,1.7,9.4,29.8,Monday,Spring/Autumn,1,11.21
+CB2CC805,2025-10-25,Villa,8,10,3.2,6.3,13.7,1.8,1.7,11.7,29.4,Saturday,Spring/Autumn,1,29.1
+DE703B72,2025-09-28,Villa,8,7,11.5,12.2,12.5,2.6,1.9,7.5,38.1,Sunday,Summer,1,36.69
+9ADFE981,2026-02-28,Single Family Home,8,4,0.0,2.8,13.0,2.1,1.1,9.6,18.7,Saturday,Winter,1,11.02
+BDAE8EFF,2025-12-31,Villa,1,9,0.0,1.2,12.7,0.2,0.7,7.0,19.5,Wednesday,Winter,0,10.71
+81BD55D5,2025-12-01,Apartment,3,2,0.0,1.7,10.5,0.6,1.1,7.5,10.7,Monday,Winter,0,5.04
+08775804,2025-12-21,Villa,4,7,0.0,0.6,11.3,1.1,0.7,11.6,15.6,Sunday,Winter,1,12.63
+814FF657,2025-11-29,Apartment,1,2,0.0,2.0,11.4,2.6,1.1,7.9,14.9,Saturday,Winter,1,5.86
+7233D5AF,2025-09-09,Portion,6,5,2.4,18.1,12.1,0.1,2.1,4.9,36.8,Tuesday,Summer,0,17.24
+BFBBEAB3,2026-05-07,Apartment,5,2,9.6,14.6,12.1,3.0,2.6,7.3,38.3,Thursday,Summer,1,27.75
+927F8103,2026-04-18,Single Family Home,4,4,2.7,7.6,12.5,2.2,1.9,11.8,20.1,Saturday,Spring/Autumn,1,18.06
+A6CE6D7A,2025-12-03,Apartment,1,3,0.0,3.7,11.5,0.5,1.4,7.7,9.8,Wednesday,Winter,0,9.45
+CD0579E2,2025-07-10,Villa,5,10,9.7,21.6,10.2,2.8,2.2,4.8,43.2,Thursday,Summer,1,42.35
+DA018D29,2025-11-11,Villa,4,8,0.0,0.7,12.2,1.0,1.5,6.4,19.2,Tuesday,Winter,1,11.21
+9FA4A627,2025-11-29,Apartment,1,4,0.0,3.5,10.4,2.1,0.9,10.2,16.6,Saturday,Winter,1,11.52
+D7E174E6,2026-05-10,Villa,5,10,12.5,23.3,10.6,1.9,2.6,5.3,42.8,Sunday,Summer,1,46.82
+5616AF7E,2026-07-03,Villa,5,7,6.8,18.7,10.9,1.5,2.4,5.6,35.5,Friday,Summer,1,30.81
+C3F62136,2025-10-02,Apartment,7,4,0.1,9.4,12.6,2.2,1.5,10.5,25.2,Thursday,Spring/Autumn,1,13.28
+06843C86,2026-03-03,Villa,5,8,0.3,11.4,13.1,1.6,1.1,6.5,28.4,Tuesday,Spring/Autumn,1,18.5
+95410A9D,2026-03-23,Single Family Home,6,4,1.6,9.3,12.1,1.3,1.5,8.3,25.3,Monday,Spring/Autumn,1,14.85
+5BC677CA,2026-01-08,Single Family Home,3,5,0.0,3.8,12.7,0.9,0.6,10.8,13.2,Thursday,Winter,0,11.57
+423701F1,2026-03-29,Single Family Home,6,3,3.8,8.4,10.5,1.0,1.6,9.6,24.5,Sunday,Spring/Autumn,1,15.53
+BE848AA2,2026-05-21,Portion,6,5,9.0,21.0,11.4,1.8,2.9,6.6,44.5,Thursday,Summer,1,32.18
+D9E92758,2025-08-19,Apartment,2,3,3.3,22.0,10.7,0.8,1.8,7.4,36.6,Tuesday,Summer,0,18.77
+AE423568,2025-11-23,Villa,7,5,0.0,4.0,12.2,1.6,1.0,6.4,19.0,Sunday,Winter,1,7.65
+232A5E82,2026-07-05,Villa,7,9,10.9,16.0,12.6,1.2,1.7,6.5,42.3,Sunday,Summer,1,40.05
+752366CE,2025-08-28,Single Family Home,2,6,10.5,19.4,12.3,2.1,2.0,5.5,38.2,Thursday,Summer,1,33.38
+503BE788,2026-02-24,Apartment,8,3,0.0,0.0,10.9,0.7,0.7,8.6,11.4,Tuesday,Winter,0,7.57
+938703C9,2026-04-12,Portion,2,4,2.9,11.0,11.4,1.6,1.5,9.3,21.6,Sunday,Spring/Autumn,1,15.35
+6DEDCBA5,2025-12-01,Portion,7,3,0.0,3.4,10.6,0.5,1.4,7.6,14.1,Monday,Winter,0,8.97
+5F8392D5,2026-06-19,Villa,4,5,2.5,12.2,10.1,0.6,2.3,5.6,35.8,Friday,Summer,0,17.13
+39EC8CA1,2026-03-17,Villa,5,6,2.2,8.3,11.9,0.8,2.0,8.2,30.9,Tuesday,Spring/Autumn,0,16.55
+4E5D8F12,2025-09-06,Apartment,5,3,13.3,15.5,12.0,1.8,2.2,6.0,42.7,Saturday,Summer,1,32.44
+98ABB2E7,2026-01-14,Portion,3,5,0.0,3.2,10.7,2.0,1.1,8.7,17.7,Wednesday,Winter,1,9.05
+2A35CE30,2026-06-18,Portion,1,4,12.6,23.6,11.9,0.4,2.6,4.9,44.5,Thursday,Summer,0,34.25
+3610901C,2026-04-01,Single Family Home,2,5,1.5,4.3,13.6,0.4,1.2,8.8,20.8,Wednesday,Spring/Autumn,0,12.61
+417B6634,2026-04-15,Apartment,1,4,3.9,6.6,12.1,0.8,1.7,11.0,20.6,Wednesday,Spring/Autumn,0,16.6
+0C5921F8,2026-03-16,Portion,8,6,0.7,9.2,12.6,0.8,1.4,9.1,26.5,Monday,Spring/Autumn,0,15.02
+B3ADA2BA,2025-09-01,Apartment,5,3,11.2,16.2,11.9,0.5,2.8,6.4,44.1,Monday,Summer,0,29.07
+9F6FACC1,2026-02-13,Single Family Home,7,3,0.0,0.7,12.6,0.2,0.6,7.1,7.1,Friday,Winter,0,5.09
+1B341937,2026-01-05,Single Family Home,5,4,0.0,0.5,13.2,2.4,0.7,8.9,15.8,Monday,Winter,1,8.42
+290E3E89,2025-07-21,Portion,4,6,3.0,22.0,10.2,2.1,1.5,4.6,37.1,Monday,Summer,1,23.06
+ABF0263E,2025-08-08,Apartment,8,2,5.4,12.7,10.7,1.0,1.9,6.4,35.4,Friday,Summer,0,17.0
+B93B770C,2026-03-28,Villa,4,8,2.9,9.3,10.3,1.9,1.3,12.0,20.2,Saturday,Spring/Autumn,1,25.85
+439DB29D,2025-12-23,Apartment,3,2,0.0,3.3,13.2,2.6,1.1,7.1,7.6,Tuesday,Winter,1,8.0
+500D92A7,2025-12-09,Apartment,2,2,0.0,2.9,11.8,0.6,0.8,7.4,9.0,Tuesday,Winter,0,5.28
+A5AECF37,2025-09-07,Villa,8,9,3.2,22.3,11.7,1.3,2.3,4.4,36.1,Sunday,Summer,1,30.02
+17CBA85D,2025-11-20,Villa,3,5,0.0,0.2,12.0,1.2,1.3,8.9,14.2,Thursday,Winter,1,7.87
+4596DA75,2026-05-08,Portion,7,4,14.3,22.8,12.6,0.5,2.7,5.5,41.0,Friday,Summer,0,35.25
+0F037337,2026-07-01,Single Family Home,2,6,8.3,21.6,11.5,2.2,2.7,7.0,40.3,Wednesday,Summer,1,34.74
+702B7014,2025-09-11,Portion,6,3,7.0,13.6,10.9,0.9,2.2,5.1,42.0,Thursday,Summer,0,22.47
+1CE97871,2026-05-27,Portion,1,3,7.9,20.5,12.3,1.2,2.7,4.0,39.1,Wednesday,Summer,1,25.27
+B45E9463,2026-05-20,Single Family Home,6,3,9.2,16.3,12.6,1.5,1.7,7.4,41.9,Wednesday,Summer,1,25.08
+7B5FBE41,2025-11-10,Portion,3,3,0.0,1.1,13.0,0.4,1.2,10.7,10.5,Monday,Winter,0,7.82
+816CE054,2026-05-13,Portion,3,3,11.5,15.0,11.4,2.4,2.0,6.9,38.7,Wednesday,Summer,1,30.56
+F85B6D0A,2025-10-16,Single Family Home,7,6,3.0,7.6,10.6,0.2,1.7,8.4,27.9,Thursday,Spring/Autumn,0,17.04
+CD1F75A3,2026-02-01,Apartment,8,3,0.0,2.8,10.6,2.9,1.2,6.0,13.3,Sunday,Winter,1,6.17
+7F53DC0A,2026-04-05,Apartment,2,3,3.7,7.5,10.9,1.2,1.1,6.2,21.7,Sunday,Spring/Autumn,1,12.95
+8C91BD13,2025-07-07,Apartment,5,4,12.1,18.3,12.4,0.9,2.6,7.3,44.8,Monday,Summer,0,33.84
+F34A7949,2025-11-08,Apartment,4,3,0.0,0.8,13.2,1.6,1.2,6.2,11.6,Saturday,Winter,1,7.44
+9EA87552,2026-02-11,Villa,8,5,0.0,0.9,10.1,0.2,0.7,6.0,12.7,Wednesday,Winter,0,5.12
+008FFAB9,2025-11-08,Villa,6,10,0.0,3.1,11.6,2.2,0.9,9.1,20.0,Saturday,Winter,1,17.0
+2A061609,2026-01-03,Portion,2,5,0.0,0.4,13.3,2.8,0.8,8.1,6.0,Saturday,Winter,1,11.12
+1EE93260,2026-06-12,Portion,4,6,5.6,14.3,12.3,0.3,2.9,5.6,37.8,Friday,Summer,0,23.53
+C1D48A10,2025-12-05,Apartment,8,3,0.0,1.2,13.2,1.0,1.4,11.3,6.1,Friday,Winter,0,10.03
+87C5F526,2026-04-02,Portion,8,4,2.8,11.7,13.1,0.8,1.6,11.8,26.9,Thursday,Spring/Autumn,0,17.41
+1A82833C,2025-11-25,Villa,7,8,0.0,2.3,10.5,0.1,0.5,9.8,11.9,Tuesday,Winter,0,14.12
+57C5982C,2026-06-27,Portion,3,4,8.3,15.8,12.1,1.0,2.9,7.3,41.8,Saturday,Summer,1,26.33
+E2ED8686,2026-04-06,Villa,6,10,2.7,10.6,13.7,0.5,1.1,8.1,21.1,Monday,Spring/Autumn,0,26.08
+B6E1E7AC,2025-10-21,Villa,3,10,3.8,9.5,12.0,0.2,1.9,10.4,23.2,Tuesday,Spring/Autumn,0,29.95
+A30A6658,2025-11-01,Apartment,6,4,0.0,0.8,12.5,1.3,0.7,6.6,8.1,Saturday,Winter,1,8.73
+F1530F68,2026-03-08,Portion,5,6,2.7,8.9,12.2,1.1,1.8,8.9,28.1,Sunday,Spring/Autumn,1,19.32
+1B41A61E,2025-07-16,Single Family Home,1,3,15.9,22.8,12.0,1.0,2.8,7.7,39.9,Wednesday,Summer,0,37.31
+29330FC4,2026-07-01,Villa,3,5,5.5,12.6,11.9,2.1,2.7,6.0,37.2,Wednesday,Summer,1,22.89
+08453B2F,2025-11-15,Portion,2,4,0.0,0.7,12.8,1.9,1.5,10.1,15.3,Saturday,Winter,1,7.9
+638E1388,2025-10-01,Villa,1,8,2.3,6.6,11.0,2.1,1.6,7.4,22.5,Wednesday,Spring/Autumn,1,18.9
+F9CF8499,2026-03-14,Apartment,1,4,1.5,8.0,12.8,1.7,1.2,11.1,27.4,Saturday,Spring/Autumn,1,13.27
+DE6CF36B,2026-04-18,Portion,4,5,0.5,8.6,10.4,1.5,1.2,7.4,22.2,Saturday,Spring/Autumn,1,12.12
+BD0B0FA2,2026-02-12,Single Family Home,5,6,0.0,0.6,10.6,0.8,1.5,7.1,10.7,Thursday,Winter,0,9.18
+2FDDB26A,2026-06-24,Apartment,7,2,14.5,18.2,13.1,1.6,2.6,6.2,45.0,Wednesday,Summer,1,33.14
+214C0A4D,2025-09-03,Villa,1,7,12.9,12.7,11.9,2.3,2.7,5.8,39.0,Wednesday,Summer,1,36.93
+0A398BF7,2025-09-01,Villa,1,10,11.6,23.2,10.1,1.2,1.9,7.5,38.6,Monday,Summer,1,49.58
+8CD74C27,2025-11-15,Villa,4,6,0.0,2.3,10.7,2.6,1.1,8.1,8.0,Saturday,Winter,1,11.72
+8150E0C9,2025-09-03,Portion,2,5,13.4,22.7,11.1,0.6,2.1,4.6,39.9,Wednesday,Summer,0,35.11
+54F6516E,2025-11-05,Villa,4,9,0.0,1.3,12.3,2.7,1.1,6.4,17.1,Wednesday,Winter,1,10.73
+C08BD674,2026-07-01,Apartment,2,4,3.9,15.5,12.6,1.5,1.9,5.8,37.3,Wednesday,Summer,1,20.27
+A46B6FCE,2026-02-16,Single Family Home,1,5,0.0,2.3,11.7,1.4,1.5,6.1,10.4,Monday,Winter,1,9.99
+1D06149E,2025-11-25,Villa,1,9,0.0,3.8,10.3,1.3,1.2,6.6,14.9,Tuesday,Winter,1,11.27
+7210045A,2026-01-01,Villa,4,7,0.0,2.2,11.6,0.8,0.5,6.5,18.2,Thursday,Winter,0,8.16
+F8BCA9AC,2026-06-21,Apartment,2,2,5.9,22.6,11.0,1.6,2.0,6.5,36.6,Sunday,Summer,1,17.99
+3692A531,2026-05-19,Portion,2,4,6.3,20.0,11.3,2.0,2.8,7.9,43.4,Tuesday,Summer,1,26.1
+12767D13,2026-04-06,Single Family Home,1,6,1.8,11.8,10.7,2.2,1.7,9.8,23.3,Monday,Spring/Autumn,1,20.12
+0DE4833E,2025-09-10,Villa,2,9,11.2,19.7,11.4,0.5,2.0,7.2,40.6,Wednesday,Summer,0,41.82
+63561ADD,2025-12-19,Portion,7,5,0.0,1.0,10.0,0.8,0.8,11.1,10.5,Friday,Winter,0,8.92
+88EAE7D4,2025-07-09,Apartment,1,4,6.1,23.1,11.9,0.0,2.9,5.7,39.7,Wednesday,Summer,0,24.18
+1B2BB2EC,2025-10-21,Villa,2,7,0.0,7.0,12.2,1.8,1.4,7.0,22.8,Tuesday,Spring/Autumn,1,14.9
+A9252745,2025-07-18,Single Family Home,4,4,9.8,15.2,11.0,2.5,2.1,7.6,38.9,Friday,Summer,1,30.12
+8BB4995A,2025-10-22,Single Family Home,5,5,1.1,9.9,11.7,0.9,1.8,7.1,28.2,Wednesday,Spring/Autumn,0,13.53
+243113FD,2025-08-21,Apartment,7,4,12.2,15.3,10.8,0.0,2.4,4.2,41.4,Thursday,Summer,0,30.44
+BDCE635F,2026-06-02,Villa,4,8,2.6,15.2,12.9,0.2,2.6,4.6,36.9,Tuesday,Summer,0,23.13
+9DEC2B83,2026-05-08,Single Family Home,2,4,9.1,21.6,11.9,0.8,3.0,5.3,38.4,Friday,Summer,0,30.82
+FD75A5F3,2026-07-05,Portion,2,5,6.6,21.3,11.9,1.4,1.6,7.4,44.5,Sunday,Summer,1,28.17
+1923CAFC,2025-09-17,Portion,6,5,7.2,21.2,13.1,0.4,1.9,7.0,43.3,Wednesday,Summer,0,25.89
+199C8D94,2025-10-19,Apartment,4,3,3.1,8.2,11.9,2.4,2.0,7.9,25.5,Sunday,Spring/Autumn,1,14.56
+9DC89E1A,2026-03-05,Single Family Home,6,5,0.2,11.5,11.0,2.3,1.5,7.2,27.5,Thursday,Spring/Autumn,1,15.28
+3F05557C,2026-04-20,Portion,5,5,0.9,4.9,11.3,0.2,1.6,7.7,30.4,Monday,Spring/Autumn,0,10.18
+E0BD202C,2025-12-29,Portion,6,5,0.0,0.0,13.1,2.0,0.5,9.6,16.8,Monday,Winter,1,8.55
+A542DEB9,2026-02-14,Villa,3,9,0.0,0.6,12.5,2.9,0.6,12.0,6.3,Saturday,Winter,1,16.4
+E2E6E7A6,2026-02-21,Apartment,1,4,0.0,2.6,13.2,1.3,1.2,7.4,5.9,Saturday,Winter,1,10.56
+94F6C67A,2026-02-03,Single Family Home,1,5,0.0,3.0,11.8,1.4,1.3,10.1,16.8,Tuesday,Winter,1,10.55
+5DA64A3A,2025-11-27,Villa,3,8,0.0,3.6,11.8,0.3,1.0,10.2,7.0,Thursday,Winter,0,12.95
+02B622E9,2026-03-06,Single Family Home,3,6,1.4,9.9,13.3,0.9,1.3,9.3,22.2,Friday,Spring/Autumn,0,15.26
+90D9170C,2026-03-05,Single Family Home,8,5,1.2,6.1,10.0,0.6,1.4,8.3,21.9,Thursday,Spring/Autumn,0,11.31
+3B53F64B,2025-07-30,Villa,4,5,7.1,21.3,12.9,0.7,1.9,6.2,35.2,Wednesday,Summer,0,26.88
+5C7AF83D,2025-11-26,Portion,1,3,0.0,2.0,12.5,1.6,1.1,9.8,12.9,Wednesday,Winter,1,6.61
+8578B1C6,2026-02-23,Villa,5,9,0.0,0.3,10.5,0.9,1.3,7.2,12.8,Monday,Winter,0,11.13
+5D8416E0,2026-02-07,Apartment,5,3,0.0,2.3,12.6,2.1,1.3,10.2,6.5,Saturday,Winter,1,8.03
+8430F0FA,2025-12-02,Villa,8,8,0.0,2.4,13.7,0.2,0.6,8.9,10.5,Tuesday,Winter,0,13.69
+709D338B,2025-09-05,Apartment,5,2,6.8,12.7,13.8,0.4,2.3,5.5,35.8,Friday,Summer,0,20.32
+9A1E0036,2026-03-26,Apartment,4,3,1.1,4.3,11.2,2.9,1.1,11.8,29.9,Thursday,Spring/Autumn,1,9.72
+ACDBD5F2,2025-12-29,Single Family Home,3,6,0.0,2.1,12.1,0.2,0.7,9.8,15.9,Monday,Winter,0,9.0
+92D00319,2026-02-08,Single Family Home,1,4,0.0,1.7,12.6,1.7,0.6,8.8,16.2,Sunday,Winter,1,8.81
+EC257A75,2025-09-10,Portion,1,5,7.7,14.2,11.4,0.2,2.1,8.0,43.8,Wednesday,Summer,0,26.02
+FE268E77,2025-12-26,Portion,3,4,0.0,1.3,11.3,1.7,1.5,10.6,10.3,Friday,Winter,1,9.64
+95284C0A,2026-05-03,Single Family Home,5,4,12.1,18.8,13.1,2.9,1.8,5.0,42.3,Sunday,Summer,1,34.22
+EC1F41CE,2025-12-19,Apartment,4,3,0.0,1.6,13.9,2.2,1.2,9.1,11.7,Friday,Winter,1,10.59
+33CD1D56,2026-01-14,Portion,3,3,0.0,1.2,13.4,0.0,0.7,10.9,9.5,Wednesday,Winter,0,7.92
+998D65BA,2025-07-21,Apartment,2,3,5.3,18.7,10.6,0.0,2.9,5.4,37.8,Monday,Summer,0,18.81
+D3D877A8,2025-07-07,Portion,7,5,11.8,14.8,10.4,0.4,2.7,7.7,38.7,Monday,Summer,0,34.38
+3ABF9C65,2026-06-15,Portion,7,5,13.9,14.1,12.8,0.6,2.7,7.6,42.2,Monday,Summer,0,37.18
+7A25ED81,2026-04-13,Apartment,5,4,2.9,8.6,10.2,2.5,1.1,8.1,23.6,Monday,Spring/Autumn,1,16.39
+B58AC738,2026-04-05,Apartment,2,4,3.5,11.0,12.6,2.2,1.2,6.1,25.0,Sunday,Spring/Autumn,1,17.37
+349651D6,2026-03-15,Villa,7,7,1.2,4.3,10.6,2.0,1.5,7.3,24.6,Sunday,Spring/Autumn,1,12.83
+A6CDAE3C,2026-02-06,Villa,7,9,0.0,1.6,12.4,2.0,0.9,7.3,16.0,Friday,Winter,1,11.6
+AE3C2CE6,2025-11-29,Single Family Home,7,6,0.0,0.5,12.3,1.1,0.6,8.4,10.9,Saturday,Winter,1,7.38
+8E0EABB7,2025-12-31,Villa,6,10,0.0,3.1,10.5,2.1,0.6,8.9,12.5,Wednesday,Winter,1,15.94
+DD23FF41,2026-03-05,Single Family Home,8,4,2.5,9.9,10.3,0.8,1.2,7.9,22.4,Thursday,Spring/Autumn,0,15.84
+C93C9CC6,2025-11-07,Apartment,3,3,0.0,2.7,11.4,0.3,0.9,9.6,6.3,Friday,Winter,0,5.33
+25343E85,2025-12-26,Portion,2,3,0.0,4.0,14.0,1.9,1.1,6.9,9.6,Friday,Winter,1,6.34
+9BE950C7,2025-07-20,Portion,7,5,8.0,16.5,13.4,1.2,2.6,4.2,43.2,Sunday,Summer,1,29.16
+0EB5E5A7,2026-06-18,Single Family Home,8,6,14.7,21.8,12.8,0.1,1.5,5.8,44.3,Thursday,Summer,0,38.18
+EE462FCD,2026-04-27,Villa,4,5,2.2,5.6,11.0,0.5,1.5,10.4,22.5,Monday,Spring/Autumn,0,13.78
+093B4D72,2025-11-15,Apartment,3,2,0.0,0.1,12.7,1.1,1.1,7.0,15.5,Saturday,Winter,1,5.12
+66414954,2025-11-13,Portion,7,4,0.0,2.5,12.6,0.0,0.6,8.3,16.8,Thursday,Winter,0,6.39
+EB4F3638,2025-08-09,Villa,6,7,12.6,22.4,13.5,2.3,1.5,4.9,43.5,Saturday,Summer,1,39.58
+39EE80AB,2026-02-13,Single Family Home,8,6,0.0,0.4,13.5,0.5,0.8,7.1,19.6,Friday,Winter,0,8.46
+8198D1F5,2025-08-14,Apartment,5,3,15.3,12.3,12.1,0.3,1.9,5.6,39.6,Thursday,Summer,0,31.24
+41F83199,2026-05-23,Villa,8,8,9.5,19.5,13.9,2.0,1.9,7.2,38.5,Saturday,Summer,1,38.65
+3E4727FD,2026-04-10,Portion,8,3,3.6,10.5,12.2,1.6,1.0,6.9,30.5,Friday,Spring/Autumn,1,16.03
+61F6DFBE,2026-02-23,Single Family Home,4,5,0.0,0.4,13.8,2.2,0.9,9.8,14.9,Monday,Winter,1,8.93
+89207BC4,2025-07-10,Villa,4,7,2.9,23.6,11.3,0.5,2.9,4.8,37.4,Thursday,Summer,0,25.49
+D231F372,2025-11-09,Single Family Home,8,5,0.0,3.2,11.2,2.4,1.4,9.1,13.1,Sunday,Winter,1,9.75
+92DED495,2025-10-13,Single Family Home,8,4,3.9,5.2,13.7,0.3,1.9,9.3,31.9,Monday,Spring/Autumn,0,18.54
+43F19B58,2025-09-20,Single Family Home,4,5,3.9,22.6,13.1,2.8,2.6,5.7,36.2,Saturday,Summer,1,24.52
+1EB05B4A,2026-06-08,Portion,1,3,15.3,22.7,11.1,2.6,2.9,4.4,39.4,Monday,Summer,1,35.98
+7E0A04C2,2026-05-31,Villa,8,6,12.1,15.2,10.9,1.5,2.4,6.7,42.6,Sunday,Summer,1,34.9
+82D9A774,2025-10-17,Single Family Home,3,3,1.9,8.0,12.8,1.7,1.6,11.1,28.3,Friday,Spring/Autumn,1,13.67
+08560684,2026-01-06,Portion,3,6,0.0,0.8,13.1,0.0,0.5,7.6,7.1,Tuesday,Winter,0,7.84
+50CE857F,2026-03-16,Apartment,4,3,4.0,10.1,13.7,1.0,1.1,11.2,28.9,Monday,Spring/Autumn,0,16.16
+DCA1ADCC,2025-10-10,Villa,4,7,1.8,6.0,10.2,2.5,1.4,8.3,23.9,Friday,Spring/Autumn,1,16.3
+5DAD348E,2025-09-12,Portion,4,6,13.4,19.1,13.5,2.6,2.3,6.1,41.1,Friday,Summer,1,39.44
+4795CD1D,2025-12-18,Single Family Home,4,3,0.0,0.2,12.1,1.8,1.5,10.4,17.4,Thursday,Winter,1,8.84
+6EA5E341,2026-05-16,Single Family Home,3,4,12.3,12.6,11.6,1.6,1.9,7.3,40.2,Saturday,Summer,1,30.96
+2D36226C,2025-12-08,Single Family Home,6,6,0.0,2.5,12.1,1.3,0.6,11.0,11.3,Monday,Winter,1,11.28
+915D9A63,2025-07-24,Apartment,3,2,7.1,21.3,12.8,0.1,2.9,5.7,42.2,Thursday,Summer,0,21.68
+D6C6D997,2026-02-22,Portion,6,5,0.0,2.4,10.8,1.9,1.2,7.5,7.7,Sunday,Winter,1,10.3
+8EB7C306,2026-06-13,Villa,6,5,14.0,20.6,10.5,1.9,1.7,5.5,44.1,Saturday,Summer,1,37.05
+DE0BDE18,2026-03-12,Single Family Home,3,5,3.2,8.1,11.5,1.8,1.9,10.6,24.6,Thursday,Spring/Autumn,1,20.77
+7CCC63DE,2026-04-16,Portion,2,6,2.6,5.2,10.7,2.4,1.9,8.5,26.8,Thursday,Spring/Autumn,1,16.77
+2514C7CE,2026-05-20,Villa,7,10,10.5,19.5,10.5,1.4,1.7,6.5,42.7,Wednesday,Summer,1,41.13
+1440ADEC,2025-09-04,Single Family Home,6,5,14.6,18.5,13.5,1.5,1.5,6.4,39.6,Thursday,Summer,1,37.39
+A5076897,2025-11-28,Portion,6,6,0.0,0.3,11.0,2.1,1.1,9.7,11.2,Friday,Winter,1,11.05
+05E9F407,2025-08-21,Single Family Home,5,3,6.5,13.8,10.1,0.9,2.5,6.7,43.3,Thursday,Summer,0,22.36
+18763576,2025-07-30,Portion,1,3,7.5,12.6,10.7,2.3,2.1,6.4,38.0,Wednesday,Summer,1,23.28
+154FF37D,2025-08-14,Single Family Home,2,6,13.9,14.1,12.3,2.9,2.2,4.4,40.9,Thursday,Summer,1,36.04
+48BFB602,2025-12-16,Single Family Home,3,4,0.0,1.5,11.7,0.6,0.6,7.8,10.5,Tuesday,Winter,0,5.48
+DC412176,2026-06-06,Portion,8,5,8.7,18.3,12.8,2.2,2.3,4.4,41.9,Saturday,Summer,1,30.09
+F833EBFB,2026-06-19,Single Family Home,8,6,15.9,17.8,13.7,3.0,2.5,5.1,41.3,Friday,Summer,1,43.19
+8A27B0B0,2025-09-28,Apartment,8,3,11.3,23.9,10.5,2.1,2.0,6.1,38.2,Sunday,Summer,1,30.81
+27DD1AC4,2025-10-26,Apartment,3,3,0.7,8.9,13.9,1.0,1.7,6.1,25.9,Sunday,Spring/Autumn,1,11.07
+022111E5,2026-03-15,Portion,8,5,3.4,10.4,11.7,1.7,2.0,9.4,21.4,Sunday,Spring/Autumn,1,20.3
+CC476B72,2025-10-22,Single Family Home,1,5,0.8,6.3,11.2,0.5,1.8,7.9,20.1,Wednesday,Spring/Autumn,0,10.67
+6FE633F1,2025-11-28,Single Family Home,7,6,0.0,1.4,12.5,0.0,1.2,7.1,15.3,Friday,Winter,0,8.39
+A0152B5B,2025-10-02,Villa,5,10,2.7,11.3,12.6,2.0,1.8,9.8,24.1,Thursday,Spring/Autumn,1,29.93
+1186DA93,2025-09-11,Villa,2,10,9.4,21.4,13.0,2.7,2.1,5.2,40.4,Thursday,Summer,1,43.14
+B3522C18,2026-02-19,Single Family Home,6,3,0.0,2.1,12.7,0.8,0.7,11.3,9.7,Thursday,Winter,0,7.17
+05AA5EAB,2025-09-13,Apartment,5,3,8.8,12.4,12.5,2.7,3.0,6.3,44.7,Saturday,Summer,1,25.62
+BA23B07A,2025-07-10,Apartment,3,2,14.6,21.0,11.3,1.1,2.6,5.7,41.0,Thursday,Summer,1,32.8
+4FC37D4E,2026-04-20,Portion,6,6,1.8,11.6,11.2,0.1,1.2,10.7,22.9,Monday,Spring/Autumn,0,19.53
+C02553EA,2026-06-20,Apartment,5,3,10.4,12.3,12.0,1.4,2.2,7.7,44.1,Saturday,Summer,1,27.99
+2E7D952B,2025-09-15,Villa,7,5,13.8,13.7,13.3,0.9,2.8,6.7,40.2,Monday,Summer,0,34.84
+3FBBFF57,2025-11-24,Portion,4,3,0.0,1.8,12.1,0.0,1.2,11.6,15.9,Monday,Winter,0,8.78
+180DC855,2026-01-13,Single Family Home,8,6,0.0,0.3,10.2,2.0,1.0,10.0,13.9,Tuesday,Winter,1,9.88
+A110E887,2026-03-30,Apartment,5,3,1.2,11.1,10.8,1.6,1.3,7.9,26.9,Monday,Spring/Autumn,1,11.39
+0D559B64,2026-05-19,Single Family Home,2,4,2.9,15.3,12.5,2.0,1.5,4.8,36.2,Tuesday,Summer,1,15.93
+CB5D2B59,2025-10-16,Apartment,7,2,0.6,9.6,11.0,0.1,1.3,9.7,23.8,Thursday,Spring/Autumn,0,7.69
+C891D55D,2026-03-16,Single Family Home,6,3,0.5,7.8,10.4,0.1,1.7,8.6,25.3,Monday,Spring/Autumn,0,8.42
+AF9A1168,2026-02-18,Apartment,1,3,0.0,2.4,12.8,0.6,1.3,7.9,13.9,Wednesday,Winter,0,8.9
+1B7E0502,2025-08-22,Single Family Home,6,5,12.7,18.4,13.0,1.9,3.0,4.5,42.1,Friday,Summer,1,37.34
+B072AFC8,2025-11-22,Single Family Home,5,3,0.0,1.9,12.7,2.4,1.0,8.8,18.8,Saturday,Winter,1,7.04
+8F1C3FA0,2025-10-22,Portion,4,4,3.4,8.9,11.6,2.4,1.9,10.0,22.7,Wednesday,Spring/Autumn,1,19.3
+467BA9E5,2026-05-20,Single Family Home,2,4,10.5,12.4,11.4,1.9,2.2,4.7,43.8,Wednesday,Summer,1,28.94
+8AA6B006,2025-11-18,Apartment,7,4,0.0,0.5,13.3,0.8,0.6,8.0,14.1,Tuesday,Winter,0,7.73
+DB592A19,2025-11-17,Single Family Home,6,3,0.0,2.1,11.7,2.2,0.9,9.3,16.9,Monday,Winter,1,9.88
+7F5F61AA,2026-04-13,Single Family Home,5,5,1.4,10.5,13.1,1.9,1.6,10.7,24.6,Monday,Spring/Autumn,1,17.32
+18A440BD,2026-01-14,Apartment,1,2,0.0,2.7,13.7,0.6,0.6,8.9,8.5,Wednesday,Winter,0,6.26
+1B67F7BB,2025-12-31,Apartment,1,4,0.0,2.2,10.7,2.9,1.3,6.4,11.9,Wednesday,Winter,1,7.21
+9FBC879E,2026-03-20,Villa,1,7,3.1,7.0,12.6,0.1,1.5,10.9,29.8,Friday,Spring/Autumn,0,22.18
+03599C6D,2026-06-12,Single Family Home,8,3,12.4,12.0,10.6,2.1,1.7,5.6,44.0,Friday,Summer,1,28.92
+5C65A65C,2026-01-27,Portion,6,3,0.0,2.7,12.3,2.8,0.8,7.8,7.9,Tuesday,Winter,1,9.72
+1204F4D6,2026-05-08,Apartment,4,4,15.8,16.1,10.0,1.0,1.6,5.6,39.3,Friday,Summer,0,34.28
+881AF04F,2025-11-25,Single Family Home,4,4,0.0,1.5,10.2,2.4,1.0,10.9,9.4,Tuesday,Winter,1,9.06
+A37CE1C5,2026-02-03,Portion,7,3,0.0,3.5,12.8,0.4,0.7,7.9,17.9,Tuesday,Winter,0,6.4
+66CC7376,2026-01-07,Single Family Home,8,5,0.0,2.2,11.9,1.4,1.2,8.3,10.7,Wednesday,Winter,1,11.39
+531C8812,2026-05-12,Portion,7,5,7.5,24.0,10.5,0.1,2.5,4.1,43.4,Tuesday,Summer,0,29.09
+60042231,2026-04-13,Villa,6,8,1.7,11.9,12.6,1.8,1.1,8.7,25.8,Monday,Spring/Autumn,1,22.85
+B9EFAAD6,2025-07-19,Villa,1,9,10.3,14.2,12.2,1.9,2.3,5.4,41.0,Saturday,Summer,1,35.24
+4D457EA5,2025-07-09,Single Family Home,4,5,11.8,22.2,12.0,0.4,1.9,6.2,41.0,Wednesday,Summer,0,33.83
+B0916FB7,2026-05-03,Single Family Home,2,3,11.7,20.5,11.9,2.4,1.7,4.6,44.8,Sunday,Summer,1,30.41
+236EB832,2025-10-11,Single Family Home,4,5,3.9,10.2,10.3,2.8,1.5,6.5,31.8,Saturday,Spring/Autumn,1,18.53
+920B725B,2025-11-30,Single Family Home,2,5,0.0,3.8,12.5,2.6,0.6,7.9,16.1,Sunday,Winter,1,8.13
+7CFFAE92,2026-05-05,Apartment,5,2,13.8,17.6,11.9,2.5,2.3,5.7,38.4,Tuesday,Summer,1,33.22
+EBFFC53F,2026-04-15,Villa,7,8,1.2,4.3,13.0,0.7,1.9,9.4,29.6,Wednesday,Spring/Autumn,0,15.75
+BF67DE42,2026-03-02,Apartment,7,2,0.7,4.4,13.2,2.2,2.0,7.7,25.7,Monday,Spring/Autumn,1,8.15
+8A38D5AA,2026-01-29,Villa,4,6,0.0,3.4,10.5,0.3,0.8,11.1,12.6,Thursday,Winter,0,9.66
+6493F5EF,2026-06-27,Apartment,4,3,3.0,19.1,11.8,2.6,1.7,5.0,36.1,Saturday,Summer,1,17.35
+25E42403,2025-08-24,Apartment,8,4,14.0,22.3,10.3,1.3,2.0,7.7,39.8,Sunday,Summer,1,35.12
+663166A7,2025-10-11,Portion,7,4,4.0,10.2,11.8,2.3,1.2,7.3,26.0,Saturday,Spring/Autumn,1,18.11
+8F2E08D3,2025-09-17,Portion,4,4,12.4,21.1,10.7,0.4,1.7,5.2,38.5,Wednesday,Summer,0,32.83
+6E18C9B3,2025-11-02,Apartment,2,4,0.0,2.1,12.8,1.9,0.9,6.9,16.3,Sunday,Winter,1,9.59
+592AB43D,2025-09-14,Villa,1,7,7.6,17.4,13.8,2.4,2.5,4.2,35.1,Sunday,Summer,1,32.59
+9DC0A8B5,2026-05-03,Portion,3,6,15.6,17.2,13.4,1.7,2.9,5.1,41.4,Sunday,Summer,1,40.17
+3BC5F97F,2025-09-18,Villa,3,10,9.9,21.3,12.9,0.6,2.6,4.8,41.5,Thursday,Summer,0,41.63
+3E3869E2,2026-06-19,Single Family Home,5,3,7.8,18.6,13.3,1.0,2.5,4.4,41.9,Friday,Summer,1,22.38
+4E1C3762,2025-12-18,Apartment,6,2,0.0,0.9,10.8,0.0,0.8,6.6,11.7,Thursday,Winter,0,6.5
+C017466E,2025-10-09,Portion,3,3,3.3,11.6,12.8,1.2,1.6,11.1,27.9,Thursday,Spring/Autumn,1,14.99
+86DC4E34,2025-07-22,Single Family Home,1,5,15.0,18.8,13.6,0.7,3.0,5.0,41.6,Tuesday,Summer,0,39.23
+4572B385,2025-07-26,Apartment,2,3,12.4,23.1,11.7,2.8,1.9,7.1,44.4,Saturday,Summer,1,31.72
+DA221B85,2026-06-06,Villa,2,5,2.4,21.3,11.3,1.1,2.1,7.8,36.6,Saturday,Summer,1,20.5
+A63FCF12,2025-11-25,Portion,2,5,0.0,2.0,12.4,1.4,1.4,9.0,11.6,Tuesday,Winter,1,8.98
+168885C2,2025-09-13,Portion,1,3,8.2,19.7,12.9,1.2,2.9,4.3,42.7,Saturday,Summer,1,25.62
+4E0FBAE1,2025-11-06,Portion,3,3,0.0,1.8,10.6,2.3,1.4,11.6,8.8,Thursday,Winter,1,9.86
+A00F230B,2025-10-25,Villa,1,10,2.8,11.2,12.1,2.9,1.6,8.9,23.2,Saturday,Spring/Autumn,1,27.43
+E3F16406,2026-07-07,Apartment,5,2,13.8,21.4,10.0,1.0,2.3,7.3,43.4,Tuesday,Summer,0,31.25
+A82CAE18,2025-08-26,Portion,4,6,15.4,16.3,11.6,0.6,2.5,7.8,40.7,Tuesday,Summer,0,39.77
+F8751FD4,2025-10-29,Villa,8,9,3.8,4.6,13.1,0.6,1.5,7.1,26.4,Wednesday,Spring/Autumn,0,18.38
+94BE6D9F,2026-01-21,Single Family Home,3,5,0.0,0.8,13.6,0.6,1.2,8.2,10.8,Wednesday,Winter,0,7.35
+F9CC83ED,2026-04-14,Single Family Home,6,3,2.9,5.1,12.9,0.6,1.2,8.9,27.6,Tuesday,Spring/Autumn,0,11.01
+E12FF6CD,2025-08-29,Apartment,6,3,9.1,18.4,11.8,3.0,2.8,4.1,40.4,Friday,Summer,1,25.12
+EF0B743E,2026-05-03,Villa,3,6,6.4,13.4,12.7,1.9,2.7,6.7,42.9,Sunday,Summer,1,28.63
+06B4ED27,2026-04-12,Villa,4,9,2.3,11.4,10.6,2.3,1.0,8.8,21.8,Sunday,Spring/Autumn,1,25.58
+06AD7920,2025-11-15,Portion,3,6,0.0,2.8,10.7,1.1,0.6,7.8,5.7,Saturday,Winter,1,10.74
+2F191516,2026-05-14,Portion,8,4,7.7,19.1,10.4,0.5,2.7,7.2,39.6,Thursday,Summer,0,25.45
+68994C84,2026-04-12,Apartment,5,3,1.7,10.5,12.7,1.6,2.0,11.9,29.7,Sunday,Spring/Autumn,1,14.98
+FCFD8547,2025-09-19,Single Family Home,2,4,7.0,21.5,12.4,1.7,2.6,4.5,36.4,Friday,Summer,1,24.5
+B017C533,2025-11-02,Portion,4,6,0.0,2.8,11.8,2.9,1.1,6.2,11.2,Sunday,Winter,1,8.67
+9BA14C35,2026-04-02,Portion,6,6,2.4,10.2,11.9,0.0,1.0,7.1,30.2,Thursday,Spring/Autumn,0,14.7
+74F76D09,2026-05-05,Apartment,4,4,14.9,17.0,13.1,2.4,2.7,4.8,41.5,Tuesday,Summer,1,37.61
+8EC57D47,2025-11-25,Apartment,4,3,0.0,1.6,12.4,1.1,1.4,7.1,12.8,Tuesday,Winter,1,7.56
+C60FB252,2026-05-05,Portion,3,6,12.3,21.4,10.0,1.5,2.0,4.5,44.5,Tuesday,Summer,1,36.61
+B0A0C1CD,2026-01-12,Single Family Home,8,6,0.0,1.4,12.2,0.2,1.3,10.6,6.4,Monday,Winter,0,11.99
+2E057F79,2026-04-18,Single Family Home,7,6,0.8,10.4,13.9,1.9,1.7,7.1,23.3,Saturday,Spring/Autumn,1,16.83
+2DCAFC82,2025-12-20,Single Family Home,8,3,0.0,2.6,11.7,1.7,0.8,10.8,5.6,Saturday,Winter,1,9.14
+A6091AD0,2026-06-04,Single Family Home,2,3,6.4,23.1,13.1,0.5,1.8,4.5,35.4,Thursday,Summer,0,23.14
+5CE9DBBC,2025-08-07,Portion,3,6,11.9,15.9,12.7,1.7,1.8,7.1,42.2,Thursday,Summer,1,34.55
+E98965F2,2025-11-06,Single Family Home,3,4,0.0,3.0,11.5,0.2,1.4,8.8,6.5,Thursday,Winter,0,8.74
+6B69B4AE,2025-10-27,Portion,5,4,0.6,11.4,11.5,0.1,1.5,10.3,30.7,Monday,Spring/Autumn,0,13.44
+33EE16E7,2025-07-08,Villa,1,8,8.0,13.5,10.2,1.3,2.5,7.4,44.8,Tuesday,Summer,1,32.39
+CEB557AC,2025-07-09,Portion,4,4,4.1,22.6,13.2,2.3,2.4,6.4,36.7,Wednesday,Summer,1,21.36
+1453E17E,2026-02-12,Apartment,4,4,0.0,3.4,13.4,2.0,0.6,12.0,19.6,Thursday,Winter,1,10.57
+D1F379B1,2026-05-05,Apartment,3,2,8.8,20.8,11.0,0.3,2.6,6.3,43.4,Tuesday,Summer,0,25.35
+253741E4,2026-05-15,Villa,6,5,7.5,18.9,13.9,0.0,1.5,5.9,40.9,Friday,Summer,0,27.2
+2DA1AFDA,2025-09-04,Villa,3,8,5.2,17.8,13.3,1.9,2.7,5.0,35.3,Thursday,Summer,1,30.13
+C4BD338E,2025-10-24,Villa,7,5,2.9,11.6,11.2,2.3,1.1,6.5,20.1,Friday,Spring/Autumn,1,16.96
+4AF715B7,2025-12-26,Apartment,5,3,0.0,2.8,13.0,1.0,1.4,8.7,9.6,Friday,Winter,1,9.35
+35845D71,2026-02-16,Apartment,2,3,0.0,1.6,11.5,1.9,1.3,9.8,18.1,Monday,Winter,1,9.87
+510564F9,2025-10-10,Villa,3,9,3.6,6.7,11.7,1.5,1.0,11.7,20.8,Friday,Spring/Autumn,1,25.11
+7F6BF62C,2026-01-03,Single Family Home,4,5,0.0,3.2,13.5,2.5,0.6,6.3,16.9,Saturday,Winter,1,10.76
+1E42D2B8,2025-07-15,Apartment,4,4,14.9,13.3,12.5,1.7,2.0,4.7,41.7,Tuesday,Summer,1,34.74
+5982AA44,2026-01-28,Single Family Home,1,4,0.0,2.8,13.9,1.5,0.7,6.7,6.0,Wednesday,Winter,1,7.82
+4ECA2E96,2025-10-24,Villa,1,5,2.3,11.7,13.0,1.5,1.2,8.1,31.3,Friday,Spring/Autumn,1,15.97
+91A4D796,2026-02-17,Apartment,3,2,0.0,1.1,11.4,2.0,0.6,9.2,15.2,Tuesday,Winter,1,4.53
+AC273009,2025-12-29,Portion,1,4,0.0,2.7,11.2,2.2,1.0,10.8,15.6,Monday,Winter,1,11.76
+E45DEF26,2026-05-19,Villa,8,8,15.4,12.8,11.8,0.1,2.8,7.6,43.1,Tuesday,Summer,0,42.58
+90A014AB,2026-03-29,Villa,1,6,0.4,6.2,12.0,2.7,1.7,9.1,31.5,Sunday,Spring/Autumn,1,15.65
+CCAE58FE,2026-06-07,Villa,2,6,7.8,18.5,11.4,1.9,1.7,6.6,37.9,Sunday,Summer,1,28.86
+56D2B14D,2026-07-02,Single Family Home,7,4,7.2,14.8,12.6,0.4,2.9,5.4,35.6,Thursday,Summer,0,24.99
+4EEB87FF,2026-03-22,Villa,1,7,2.4,9.6,11.8,1.6,1.8,6.8,23.9,Sunday,Spring/Autumn,1,20.33
+E0864418,2025-10-01,Portion,5,4,1.0,7.9,13.1,1.1,2.0,8.1,22.1,Wednesday,Spring/Autumn,1,12.96
+C8F216C1,2025-07-20,Single Family Home,2,6,7.5,20.5,13.9,2.7,1.9,6.8,36.7,Sunday,Summer,1,32.1
+7B8FD09A,2026-06-03,Single Family Home,4,5,3.4,12.5,10.5,1.5,2.0,4.7,36.5,Wednesday,Summer,1,18.24
+4F73AB1C,2026-04-16,Single Family Home,2,4,1.3,6.8,12.2,0.2,1.4,7.8,20.4,Thursday,Spring/Autumn,0,13.2
+6338FB29,2026-03-25,Apartment,1,3,2.0,5.2,11.3,0.0,1.5,10.4,24.9,Wednesday,Spring/Autumn,0,13.57
+DF3334C6,2025-08-07,Portion,1,3,13.1,17.7,13.8,3.0,1.9,6.3,38.3,Thursday,Summer,1,30.99
+4FE898D8,2026-02-25,Single Family Home,6,4,0.0,3.6,12.8,0.7,0.9,11.4,13.5,Wednesday,Winter,0,8.4
+51B3CCF5,2026-04-15,Apartment,5,2,1.2,7.2,11.8,0.1,1.8,6.3,26.6,Wednesday,Spring/Autumn,0,9.84
+F5530567,2026-02-19,Apartment,4,4,0.0,0.9,11.1,1.0,1.4,9.2,13.8,Thursday,Winter,1,8.58
+243D116D,2026-06-17,Villa,4,6,6.9,18.1,11.3,0.6,1.8,7.8,41.7,Wednesday,Summer,0,29.95
+56B7979E,2026-01-20,Apartment,3,2,0.0,0.6,11.5,1.7,1.4,7.7,10.4,Tuesday,Winter,1,6.16
+1B1E06C3,2025-11-24,Apartment,7,3,0.0,3.5,12.9,0.4,0.6,12.0,19.7,Monday,Winter,0,9.13
+97BEDF31,2026-02-22,Portion,6,5,0.0,3.2,11.7,2.8,1.5,6.8,9.3,Sunday,Winter,1,10.83
+B680873B,2026-04-10,Apartment,8,4,0.8,7.8,13.9,0.1,1.9,11.8,21.0,Friday,Spring/Autumn,0,14.74
+EB70BDA9,2026-03-19,Apartment,8,3,1.6,11.3,12.2,2.4,1.4,10.5,21.1,Thursday,Spring/Autumn,1,12.38
+394A97FD,2025-08-28,Villa,6,8,4.3,18.6,13.3,0.8,1.6,5.2,36.9,Thursday,Summer,0,27.29
+54905F79,2026-04-21,Villa,8,8,0.1,4.0,13.8,0.8,1.3,8.8,25.6,Tuesday,Spring/Autumn,0,15.14
+59F8068E,2025-12-29,Single Family Home,5,5,0.0,1.7,12.8,0.2,1.0,6.7,18.4,Monday,Winter,0,7.12
+D14B256C,2026-03-25,Apartment,6,4,0.3,10.0,12.3,0.9,1.6,9.8,31.9,Wednesday,Spring/Autumn,0,12.35
+760272BA,2025-11-30,Portion,4,4,0.0,0.5,12.3,2.7,1.0,7.0,15.4,Sunday,Winter,1,6.38
+7B7CE7CC,2025-11-24,Villa,4,10,0.0,3.5,10.7,1.5,0.6,8.5,9.8,Monday,Winter,1,16.62
+9134C0B7,2026-04-21,Single Family Home,3,3,1.2,8.2,12.1,2.5,1.9,7.1,24.3,Tuesday,Spring/Autumn,1,10.58
+76812AD7,2025-11-03,Apartment,8,2,0.0,2.2,13.3,2.4,1.4,7.8,16.3,Monday,Winter,1,8.37
+9927839B,2025-08-15,Portion,6,6,7.0,19.0,10.1,0.5,2.7,5.5,41.9,Friday,Summer,0,28.57
+23900C1D,2026-05-27,Apartment,3,4,15.1,13.2,10.9,0.2,1.7,7.6,38.4,Wednesday,Summer,0,34.94
+63D5E750,2026-02-17,Portion,4,4,0.0,2.1,12.2,2.5,1.0,6.7,17.5,Tuesday,Winter,1,8.28
+E9C7C13A,2026-03-12,Portion,6,3,3.3,11.4,11.2,0.4,1.5,10.9,20.9,Thursday,Spring/Autumn,0,16.89
+67797B58,2026-05-13,Villa,1,7,13.6,16.1,10.1,0.8,2.6,4.9,41.0,Wednesday,Summer,0,40.03
+D21CE315,2026-06-30,Apartment,5,2,3.4,13.5,10.3,0.7,1.7,7.1,36.4,Tuesday,Summer,0,11.74
+64EEC4C1,2026-02-20,Portion,7,6,0.0,3.0,10.4,2.6,0.5,9.1,16.6,Friday,Winter,1,9.22
+2C649ADF,2025-12-27,Single Family Home,7,5,0.0,1.0,12.7,2.5,0.6,10.7,6.8,Saturday,Winter,1,11.91
+49D93A08,2026-07-07,Single Family Home,3,3,7.4,14.2,10.4,0.8,2.0,7.8,37.1,Tuesday,Summer,0,23.95
+B8A9B014,2026-05-26,Portion,3,3,7.6,18.0,11.0,0.6,2.6,4.4,38.5,Tuesday,Summer,0,23.41
+DC32F8A0,2025-12-20,Portion,3,6,0.0,0.9,11.1,2.8,0.7,9.2,5.2,Saturday,Winter,1,12.43
+D1F03374,2025-12-18,Villa,4,6,0.0,0.9,12.8,1.7,1.0,9.5,6.5,Thursday,Winter,1,10.66
+7F8736F1,2026-05-12,Single Family Home,5,6,7.8,16.3,10.9,1.5,2.1,4.5,44.6,Tuesday,Summer,1,29.6
+91724023,2025-12-30,Villa,2,9,0.0,0.4,13.0,2.4,0.6,9.3,6.9,Tuesday,Winter,1,11.48
+245FD841,2026-03-31,Villa,8,9,0.5,6.3,11.2,1.0,1.6,8.7,23.9,Tuesday,Spring/Autumn,0,18.01
+16A46B83,2025-10-04,Apartment,5,4,3.4,5.5,13.4,2.0,1.1,10.1,23.5,Saturday,Spring/Autumn,1,14.62
+88F7F097,2026-04-17,Portion,8,6,2.0,4.8,12.6,1.2,1.4,6.9,32.0,Friday,Spring/Autumn,1,13.98
+FA4E8355,2026-04-25,Villa,3,5,0.4,11.4,10.3,3.0,2.0,8.0,27.1,Saturday,Spring/Autumn,1,15.76
+BFDA55C9,2025-10-26,Villa,1,10,0.5,10.7,11.1,2.4,1.7,9.5,31.9,Sunday,Spring/Autumn,1,23.32
+92A6F3E6,2025-07-25,Villa,1,7,12.4,16.8,12.4,1.8,2.2,5.9,42.9,Friday,Summer,1,37.34
+13AD3EAD,2026-05-14,Villa,5,6,7.1,15.0,12.5,1.3,2.2,4.4,42.7,Thursday,Summer,1,24.61
+03A2CEE9,2026-04-04,Single Family Home,3,6,2.7,11.8,12.7,1.3,1.4,9.7,20.8,Saturday,Spring/Autumn,1,18.73
+42E17302,2026-04-19,Single Family Home,8,4,3.0,10.1,10.8,2.3,1.8,8.9,20.9,Sunday,Spring/Autumn,1,16.15
+08789EF0,2025-11-09,Apartment,3,4,0.0,3.4,13.8,1.1,1.0,8.6,10.2,Sunday,Winter,1,10.8
+D66DE2A1,2026-01-04,Portion,7,4,0.0,1.3,11.8,1.1,0.9,9.3,10.8,Sunday,Winter,1,9.68
+A33817FA,2025-09-06,Villa,1,10,6.2,17.9,12.9,2.0,1.7,4.4,38.0,Saturday,Summer,1,33.88
+1DB1CE86,2025-07-26,Portion,7,6,12.9,18.9,13.4,2.0,2.2,5.6,41.6,Saturday,Summer,1,37.93
+F2C0A0CF,2026-04-08,Single Family Home,7,6,2.5,6.8,11.3,1.1,2.0,6.3,31.7,Wednesday,Spring/Autumn,1,17.57
+DECA8598,2025-12-13,Villa,8,8,0.0,3.0,13.6,1.7,0.5,6.6,10.2,Saturday,Winter,1,10.6
+87BEB021,2026-03-13,Apartment,2,4,1.4,9.3,12.6,2.2,1.2,11.5,24.3,Friday,Spring/Autumn,1,13.09
+9C48C830,2026-06-08,Villa,6,7,4.0,12.2,11.8,2.7,2.0,6.3,38.0,Monday,Summer,1,25.08
+A7830A8F,2026-02-05,Portion,4,4,0.0,2.8,13.9,1.8,1.1,8.3,9.0,Thursday,Winter,1,9.56
+2E0F0484,2025-10-29,Apartment,1,2,0.4,9.4,12.0,0.8,1.3,8.0,29.7,Wednesday,Spring/Autumn,0,8.77
+1A99AAE0,2026-03-14,Villa,4,10,1.7,8.0,13.1,2.7,1.8,9.2,24.4,Saturday,Spring/Autumn,1,23.55
+08B6F61D,2025-07-15,Apartment,1,4,8.0,16.8,13.0,0.1,1.8,7.4,35.5,Tuesday,Summer,0,23.59
+1F2DA344,2026-03-23,Apartment,2,4,0.3,10.4,10.8,0.8,1.5,9.9,24.0,Monday,Spring/Autumn,0,11.43
+E65FA9FA,2026-03-01,Single Family Home,2,4,1.7,8.3,11.6,2.2,1.2,8.7,29.6,Sunday,Spring/Autumn,1,14.8
+A9151364,2026-06-14,Portion,5,6,2.1,20.4,12.3,1.4,2.8,7.8,36.8,Sunday,Summer,1,25.29
+C516E394,2026-04-14,Villa,3,5,3.7,8.3,13.1,1.9,1.6,9.4,25.6,Tuesday,Spring/Autumn,1,19.74
+637AA999,2025-11-05,Apartment,5,3,0.0,1.5,10.6,0.7,0.6,7.8,12.8,Wednesday,Winter,0,5.81
+FABB6609,2026-06-11,Portion,3,6,14.3,12.8,11.6,0.8,1.8,6.6,38.2,Thursday,Summer,0,35.54
+6E66A273,2025-09-24,Apartment,8,4,10.1,13.4,11.0,2.7,1.8,5.9,41.0,Wednesday,Summer,1,27.84
+12068AD6,2026-02-01,Villa,8,5,0.0,2.6,10.6,1.3,0.5,7.6,11.5,Sunday,Winter,1,9.5
+A7222EA2,2026-02-26,Apartment,7,3,0.0,0.7,13.9,0.5,1.4,6.1,14.9,Thursday,Winter,0,8.28
+642E3A16,2026-02-02,Portion,8,6,0.0,2.4,13.6,1.8,1.4,8.2,6.3,Monday,Winter,1,12.12
+CFF14C0E,2026-04-20,Single Family Home,1,6,3.8,9.8,10.4,2.5,1.1,11.6,21.1,Monday,Spring/Autumn,1,22.13
+EF5EECA5,2026-07-04,Villa,5,8,15.5,23.2,13.5,1.5,1.9,4.5,43.3,Saturday,Summer,1,48.06
+F5757B77,2026-02-28,Villa,6,5,0.0,2.3,13.0,1.5,0.9,8.5,9.9,Saturday,Winter,1,8.24
+C439DFCF,2025-10-21,Single Family Home,3,3,3.9,7.5,12.4,2.0,1.3,8.2,22.1,Tuesday,Spring/Autumn,1,17.01
+B225574E,2025-11-26,Apartment,6,3,0.0,1.7,13.9,0.9,1.2,11.6,9.7,Wednesday,Winter,0,8.11
+BC3E34AF,2025-09-14,Apartment,4,2,14.2,12.3,12.4,2.7,3.0,6.6,42.2,Sunday,Summer,1,34.38
+3D0D5C8F,2026-01-02,Apartment,5,3,0.0,3.2,12.2,1.6,0.7,11.8,15.4,Friday,Winter,1,7.94
+097BA119,2025-11-08,Villa,1,8,0.0,0.5,13.4,1.8,1.4,11.5,17.2,Saturday,Winter,1,14.49
+A762B59C,2026-03-08,Portion,3,4,1.0,4.7,10.9,1.4,1.8,11.3,31.7,Sunday,Spring/Autumn,1,14.74
+BC4716AD,2025-08-27,Apartment,8,4,14.8,21.2,10.1,0.9,2.1,7.3,41.3,Wednesday,Summer,0,38.85
+216AEBCF,2025-07-12,Apartment,5,2,10.1,22.1,13.5,2.6,2.6,7.3,39.7,Saturday,Summer,1,28.47
+D5D9A385,2026-02-08,Apartment,2,3,0.0,1.4,13.3,2.5,1.1,8.7,12.6,Sunday,Winter,1,6.42
+387770F0,2025-07-30,Single Family Home,7,5,5.8,19.6,10.5,1.8,2.7,6.5,35.5,Wednesday,Summer,1,25.63
+AF206A9D,2026-02-02,Single Family Home,6,4,0.0,0.6,13.9,0.8,1.0,10.6,6.2,Monday,Winter,0,10.33
+102F4F5C,2025-08-20,Single Family Home,7,4,13.9,15.8,12.9,1.5,2.2,6.7,41.9,Wednesday,Summer,1,36.17
+3E5F7E23,2026-06-10,Apartment,3,2,8.0,17.0,13.5,2.9,1.8,7.5,43.0,Wednesday,Summer,1,21.56
+E12F3B21,2026-01-01,Apartment,1,2,0.0,3.7,12.5,0.9,1.1,11.8,19.2,Thursday,Winter,0,6.27
+E30CDEE2,2025-10-18,Portion,3,4,0.7,7.2,11.0,1.2,1.4,8.2,28.4,Saturday,Spring/Autumn,1,13.14
+85E9054F,2025-12-18,Single Family Home,3,3,0.0,2.9,13.7,0.5,0.9,10.0,6.8,Thursday,Winter,0,6.31
+F346BBE7,2025-08-08,Villa,6,8,7.9,22.3,11.2,0.5,2.7,4.5,42.1,Friday,Summer,0,36.74
+1E14FE04,2026-07-03,Apartment,6,4,16.0,15.4,11.7,0.4,2.5,4.6,41.0,Friday,Summer,0,35.77
+A8C9AA31,2025-09-21,Apartment,4,2,5.7,22.9,12.7,1.9,2.1,4.0,37.6,Sunday,Summer,1,17.78
+D80213BA,2026-06-26,Portion,8,4,12.9,20.2,12.8,0.7,2.6,5.0,38.2,Friday,Summer,0,32.51
+0DD4C0E6,2026-02-28,Villa,4,8,0.0,1.3,13.6,3.0,0.7,11.6,5.9,Saturday,Winter,1,17.12
+CE1E8D1F,2026-05-28,Portion,1,3,13.5,12.5,12.5,0.3,1.9,5.6,41.0,Thursday,Summer,0,29.55
+2875AD5D,2026-04-20,Portion,2,3,2.2,8.6,12.0,0.9,1.3,11.3,31.6,Monday,Spring/Autumn,0,11.87
+946B4482,2025-11-03,Single Family Home,6,4,0.0,2.1,10.5,0.0,0.6,6.8,9.8,Monday,Winter,0,7.88
+3CB3C9FA,2026-04-03,Single Family Home,7,4,3.0,11.4,13.5,0.6,1.3,10.6,30.0,Friday,Spring/Autumn,0,15.95
+0DE92F1B,2026-05-28,Single Family Home,4,6,14.9,15.8,13.1,0.2,3.0,7.4,38.1,Thursday,Summer,0,41.59
+752E7613,2026-03-27,Villa,5,6,0.2,5.2,10.1,1.5,1.2,10.2,29.6,Friday,Spring/Autumn,1,13.17
+91941591,2025-07-28,Single Family Home,2,6,15.3,12.5,12.8,2.0,2.0,6.0,45.0,Monday,Summer,1,39.96
+57F498E0,2025-09-25,Villa,3,10,7.2,13.1,10.7,0.2,2.8,6.0,43.7,Thursday,Summer,0,32.22
+DAE18B28,2025-09-29,Portion,8,4,11.9,19.0,12.1,2.1,3.0,5.7,43.9,Monday,Summer,1,31.88
+03B68657,2026-03-31,Single Family Home,4,5,2.7,11.1,12.7,2.4,1.0,8.4,29.2,Tuesday,Spring/Autumn,1,17.9
+ED6F4EE3,2026-02-08,Single Family Home,1,6,0.0,3.3,10.3,2.7,0.7,10.0,19.3,Sunday,Winter,1,11.66
+FDC419B2,2025-12-26,Apartment,7,4,0.0,2.4,13.9,2.3,0.5,11.7,19.3,Friday,Winter,1,9.19
+B257E257,2026-05-03,Portion,8,4,13.3,23.5,10.8,1.1,2.4,6.6,42.3,Sunday,Summer,1,35.19
+032E2730,2026-03-17,Portion,4,4,0.3,11.6,11.6,1.4,1.4,11.8,20.7,Tuesday,Spring/Autumn,1,15.08
+FFBB4BCC,2025-08-09,Portion,5,4,7.1,14.0,11.1,2.5,2.7,6.6,35.9,Saturday,Summer,1,23.41
+920479CE,2026-04-06,Apartment,8,3,1.7,10.5,12.7,0.1,1.3,10.0,25.9,Monday,Spring/Autumn,0,13.71
+2F589A81,2026-04-22,Villa,8,10,2.0,11.1,12.3,0.4,1.5,10.5,26.2,Wednesday,Spring/Autumn,0,27.8
+6287729E,2026-05-29,Villa,1,7,10.3,17.1,11.4,1.9,1.6,4.9,41.1,Friday,Summer,1,34.18
+F2335074,2026-02-16,Single Family Home,2,5,0.0,2.0,12.1,0.3,1.1,8.6,7.3,Monday,Winter,0,10.84
+ACB60E81,2025-11-17,Apartment,2,3,0.0,0.6,13.6,2.7,0.6,9.1,12.2,Monday,Winter,1,6.88
+5D96120D,2025-11-18,Apartment,4,2,0.0,0.3,10.4,1.8,0.5,6.6,5.7,Tuesday,Winter,1,5.81
+A6276167,2025-12-29,Single Family Home,4,5,0.0,1.0,10.3,2.0,0.8,6.7,13.5,Monday,Winter,1,8.55
+AE2356F3,2025-12-08,Apartment,2,3,0.0,0.7,10.3,2.8,0.9,7.8,7.7,Monday,Winter,1,7.61
+86D4ABA8,2026-05-06,Portion,5,6,12.7,19.5,13.9,2.7,1.9,4.7,39.5,Wednesday,Summer,1,36.21
+B177116D,2026-04-29,Apartment,4,3,2.4,11.0,12.1,0.0,1.1,6.7,29.0,Wednesday,Spring/Autumn,0,10.77
+2DC69C90,2025-10-20,Apartment,2,2,2.8,11.0,12.4,2.0,2.0,9.7,25.7,Monday,Spring/Autumn,1,15.93
+7F0F6662,2025-08-31,Single Family Home,1,5,12.7,20.3,11.2,1.3,2.1,4.1,38.6,Sunday,Summer,1,33.13
+8A9B7B20,2026-06-13,Portion,6,6,7.8,22.3,12.6,2.3,1.8,5.7,35.2,Saturday,Summer,1,31.98
+057FDD20,2025-10-21,Apartment,1,2,0.8,6.4,11.9,1.0,1.5,7.0,29.5,Tuesday,Spring/Autumn,1,7.12
+A7DFEB92,2026-02-28,Villa,8,9,0.0,3.9,13.4,2.2,1.0,7.2,15.5,Saturday,Winter,1,14.43
+D787463D,2026-01-23,Portion,5,4,0.0,0.2,12.5,2.4,0.5,11.9,17.5,Friday,Winter,1,10.56
+3A0E618F,2025-12-31,Villa,1,6,0.0,2.4,11.2,2.0,1.1,8.9,16.1,Wednesday,Winter,1,11.53
+2A96C526,2026-02-18,Single Family Home,5,4,0.0,2.7,12.0,0.7,1.3,9.2,14.2,Wednesday,Winter,0,8.8
+E79B265A,2026-03-07,Single Family Home,3,4,0.3,11.1,11.9,2.0,1.4,11.6,23.8,Saturday,Spring/Autumn,1,13.17
+510E641F,2026-02-02,Portion,5,5,0.0,0.1,10.8,0.3,0.8,7.4,15.5,Monday,Winter,0,6.08
+08E1624E,2026-03-07,Villa,3,7,1.4,8.8,12.6,1.3,1.8,7.8,30.9,Saturday,Spring/Autumn,1,18.73
+299FFF30,2026-01-18,Apartment,1,3,0.0,3.3,12.9,2.6,1.2,10.8,19.4,Sunday,Winter,1,10.86
+2537E0D6,2026-06-18,Villa,3,5,8.8,21.0,10.5,1.4,2.5,6.4,41.2,Thursday,Summer,1,29.25
+795235AD,2026-05-30,Single Family Home,8,5,15.9,15.6,10.2,1.0,1.8,7.5,39.2,Saturday,Summer,1,38.23
+7A9E8394,2026-06-01,Single Family Home,2,5,7.0,22.7,10.3,0.4,1.5,6.5,36.6,Monday,Summer,0,25.27
+3869D3C9,2025-12-17,Apartment,6,2,0.0,1.0,11.4,0.0,0.8,11.3,8.4,Wednesday,Winter,0,4.97
+C8022F8E,2026-06-14,Villa,4,5,6.1,18.2,12.8,2.9,2.5,5.8,36.5,Sunday,Summer,1,26.34
+72098A7B,2026-03-11,Apartment,7,2,0.4,4.8,13.1,2.9,1.6,10.9,30.1,Wednesday,Spring/Autumn,1,8.08
+82F552C8,2026-06-17,Villa,7,6,5.8,22.5,10.6,1.6,2.9,5.8,36.1,Wednesday,Summer,1,29.44
+031EEF96,2025-10-19,Villa,5,8,0.4,9.2,10.6,2.7,1.3,8.6,28.8,Sunday,Spring/Autumn,1,18.11
+3737CC38,2026-03-30,Portion,7,6,1.0,10.5,12.0,1.2,1.3,8.2,29.2,Monday,Spring/Autumn,1,17.05
+F8698E93,2026-05-31,Portion,3,3,12.6,13.8,11.7,1.5,2.6,7.2,38.6,Sunday,Summer,1,30.83
+79803EFA,2026-07-03,Villa,2,9,10.6,22.2,11.4,1.1,2.7,4.6,39.1,Friday,Summer,1,39.83
+A388CA32,2026-06-06,Portion,3,6,15.4,13.0,13.9,1.3,2.0,4.2,43.1,Saturday,Summer,1,38.81
+EA350F17,2025-08-26,Single Family Home,7,5,12.4,22.8,12.5,2.4,1.6,6.6,41.6,Tuesday,Summer,1,36.56
+4D4F6814,2026-05-08,Villa,8,9,4.4,20.2,11.2,2.5,2.3,7.6,38.0,Friday,Summer,1,32.06
+00A0586E,2025-09-01,Villa,8,5,5.2,23.0,11.8,1.4,2.6,6.2,37.8,Monday,Summer,1,27.43
+E8239943,2026-03-15,Single Family Home,1,3,2.8,11.1,11.6,1.4,1.8,7.8,27.8,Sunday,Spring/Autumn,1,12.79
+FE8C9AAB,2026-06-27,Villa,8,9,13.3,20.9,14.0,1.6,1.7,4.4,38.3,Saturday,Summer,1,44.02
+A0C45942,2026-03-15,Apartment,6,4,3.0,5.3,13.2,2.2,1.0,7.4,26.3,Sunday,Spring/Autumn,1,15.31
+D864465A,2025-10-09,Apartment,3,3,3.9,4.9,11.5,2.3,1.1,8.1,28.7,Thursday,Spring/Autumn,1,12.59
+5B7D9D2D,2025-09-04,Villa,6,8,7.2,15.6,11.8,3.0,2.6,7.2,41.5,Thursday,Summer,1,35.61
+8794AC7E,2026-02-25,Apartment,4,4,0.0,3.6,12.1,0.6,1.1,8.1,13.5,Wednesday,Winter,0,7.76
+C0AC430A,2025-09-06,Villa,6,10,13.1,20.1,12.1,1.5,2.6,5.3,42.8,Saturday,Summer,1,47.33
+AF793D4A,2026-03-19,Villa,2,9,1.4,4.8,13.3,1.2,1.7,6.4,29.9,Thursday,Spring/Autumn,1,18.33
+230F1E69,2026-01-12,Villa,8,8,0.0,1.8,12.1,2.2,0.9,9.1,12.1,Monday,Winter,1,12.65
+1A380E8E,2025-09-24,Single Family Home,4,3,5.0,17.1,13.7,2.0,2.2,7.9,37.6,Wednesday,Summer,1,21.78
+1DD73F1F,2026-05-02,Apartment,8,3,2.8,20.5,12.8,2.7,1.7,4.5,36.4,Saturday,Summer,1,15.28
+23966B83,2026-05-02,Villa,3,10,13.5,23.3,13.8,2.2,2.1,5.6,39.7,Saturday,Summer,1,48.57
+D087EDCB,2025-08-19,Single Family Home,3,4,6.4,13.8,14.0,1.6,2.1,5.9,40.7,Tuesday,Summer,1,23.78
+FB29FF36,2025-08-04,Apartment,2,2,5.5,12.6,13.6,1.4,2.8,7.3,36.4,Monday,Summer,1,19.12
+32440F07,2025-08-15,Apartment,8,2,4.1,22.4,12.3,2.1,2.1,7.6,36.2,Friday,Summer,1,18.75
+AAE6F1A1,2025-07-10,Apartment,2,4,13.2,19.3,12.0,0.5,2.6,5.8,39.8,Thursday,Summer,0,34.19
+2F4DDC9B,2026-03-09,Apartment,2,2,1.3,10.4,11.6,1.5,1.7,8.4,30.4,Monday,Spring/Autumn,1,10.82
+5A29FE6B,2025-09-03,Single Family Home,2,3,14.9,20.8,13.5,0.7,2.5,6.3,44.6,Wednesday,Summer,0,36.69
+31094211,2026-06-24,Single Family Home,1,3,11.6,13.5,10.8,0.6,2.3,6.3,42.1,Wednesday,Summer,0,26.49
+B52F80C9,2025-12-27,Single Family Home,8,3,0.0,0.8,13.6,1.2,1.0,11.6,13.6,Saturday,Winter,1,7.0
+FB368CF4,2025-11-22,Single Family Home,4,6,0.0,3.1,12.8,2.8,0.7,8.7,5.3,Saturday,Winter,1,12.77
+5074AC13,2025-08-21,Apartment,3,3,10.0,12.5,10.1,1.9,2.8,5.7,41.1,Thursday,Summer,1,28.13
+B8DDF15D,2025-07-21,Villa,8,5,8.6,13.4,10.7,1.3,1.6,5.0,38.2,Monday,Summer,1,23.96
+BC75ED53,2025-10-29,Portion,4,6,1.6,5.4,11.3,1.1,1.6,6.4,23.7,Wednesday,Spring/Autumn,1,13.37
+3054366B,2026-05-16,Portion,6,4,10.1,15.9,13.3,1.2,2.1,4.8,38.2,Saturday,Summer,1,29.1
+7DDCAAF6,2026-03-09,Portion,8,3,2.0,10.0,10.5,0.1,1.4,8.8,27.0,Monday,Spring/Autumn,0,11.65
+B1EDF3D3,2026-02-08,Apartment,3,2,0.0,1.6,13.5,1.5,0.7,11.8,12.3,Sunday,Winter,1,7.7
+56B09052,2025-09-18,Portion,2,4,5.3,21.4,11.6,1.2,2.0,6.5,37.5,Thursday,Summer,1,21.61
+C3CB0C28,2026-03-25,Villa,7,7,1.5,11.9,12.2,1.8,1.8,11.5,31.6,Wednesday,Spring/Autumn,1,22.23
+67899D92,2026-07-03,Villa,3,8,4.8,22.0,13.9,0.0,1.9,7.7,35.0,Friday,Summer,0,31.95
+7F4D55B9,2025-09-29,Single Family Home,1,3,14.4,16.6,12.5,0.6,2.0,6.0,41.0,Monday,Summer,0,31.03
+AD987301,2025-07-16,Single Family Home,7,5,11.6,15.6,10.5,0.1,2.1,6.2,42.4,Wednesday,Summer,0,30.81
+18A95210,2026-04-11,Portion,8,4,2.4,11.7,12.7,1.7,1.3,7.6,25.2,Saturday,Spring/Autumn,1,16.43
+7D810C21,2026-01-07,Villa,1,5,0.0,1.0,11.4,1.9,1.5,9.6,11.8,Wednesday,Winter,1,8.62
+62359144,2025-12-18,Portion,8,6,0.0,2.6,11.9,0.9,0.5,10.0,15.4,Thursday,Winter,0,10.33
+A8CF2936,2026-05-17,Villa,3,8,13.0,21.1,13.1,2.3,2.3,4.3,44.0,Sunday,Summer,1,40.89
+B739A28A,2025-11-26,Apartment,8,4,0.0,2.7,11.4,2.6,1.2,11.0,17.5,Wednesday,Winter,1,9.91
+2803FEB5,2026-01-08,Portion,5,6,0.0,3.1,10.0,1.9,1.2,11.6,7.7,Thursday,Winter,1,12.89
+C4376D89,2026-06-29,Villa,1,5,2.1,15.4,11.4,0.1,2.9,6.5,37.2,Monday,Summer,0,17.97
+594FFD27,2026-04-29,Apartment,6,3,0.9,8.0,11.1,0.9,1.4,10.2,28.6,Wednesday,Spring/Autumn,0,9.77
+5B7C57E8,2025-12-04,Apartment,4,2,0.0,3.3,13.5,0.6,0.9,9.0,7.9,Thursday,Winter,0,6.64
+15BEBDD0,2026-06-05,Apartment,5,2,11.7,20.2,10.3,1.3,2.3,4.3,41.6,Friday,Summer,1,26.59
+537C64B0,2025-07-20,Portion,7,5,8.3,18.3,10.8,2.4,2.7,8.0,40.7,Sunday,Summer,1,31.33
+96867676,2025-07-15,Villa,7,9,8.5,18.7,13.8,2.3,2.2,7.8,40.3,Tuesday,Summer,1,37.61
+CEEE7D65,2026-01-01,Single Family Home,6,6,0.0,1.7,11.1,2.4,1.5,8.8,19.1,Thursday,Winter,1,11.09
+5D037A06,2026-06-26,Single Family Home,8,3,14.8,14.7,11.7,0.4,1.9,4.0,42.6,Friday,Summer,0,30.9
+4C1D2E43,2026-07-06,Portion,4,3,5.4,12.3,13.9,0.4,2.6,4.3,35.8,Monday,Summer,0,17.91
+1138978B,2026-01-30,Portion,7,4,0.0,1.2,10.4,2.0,1.1,10.8,7.5,Friday,Winter,1,9.81
+D2E08E57,2025-10-25,Villa,7,10,1.3,6.0,11.0,1.7,1.1,6.3,27.5,Saturday,Spring/Autumn,1,16.81
+6A107FB7,2025-12-01,Portion,3,3,0.0,3.8,12.5,0.8,1.3,9.8,16.9,Monday,Winter,0,8.76
+A92A9880,2026-06-24,Portion,5,6,2.4,12.4,13.4,0.1,2.0,4.5,35.9,Wednesday,Summer,0,19.0
+76658707,2025-08-30,Single Family Home,5,6,9.0,19.5,12.7,2.1,1.6,5.2,39.4,Saturday,Summer,1,30.8
+D488EDFF,2026-06-05,Single Family Home,7,5,6.5,14.8,12.6,1.0,2.4,5.5,36.0,Friday,Summer,1,25.77
+AFD5B90B,2026-02-12,Portion,4,3,0.0,2.5,13.8,0.8,0.8,8.7,18.2,Thursday,Winter,0,6.7
+CC0B200D,2026-05-05,Portion,8,6,2.6,19.1,13.2,1.4,1.6,6.3,36.9,Tuesday,Summer,1,22.43
+33B5A667,2025-09-03,Single Family Home,1,5,4.5,20.7,11.0,2.6,2.2,4.2,37.6,Wednesday,Summer,1,22.61
+A4F0708A,2026-05-15,Portion,1,3,15.6,21.1,13.5,0.8,2.0,4.6,39.4,Friday,Summer,0,34.61
+DDFEF849,2025-07-30,Portion,6,3,9.7,12.1,12.7,1.1,2.4,6.0,38.4,Wednesday,Summer,1,26.94
+D7BE7B4F,2025-08-27,Apartment,2,4,10.2,14.3,13.6,2.6,1.8,5.4,43.6,Wednesday,Summer,1,28.98
+3CF29ADE,2026-02-11,Villa,6,9,0.0,3.9,11.3,2.2,1.1,11.8,15.4,Wednesday,Winter,1,18.64
+3C667012,2026-06-14,Single Family Home,3,3,7.6,17.5,10.2,1.4,2.7,4.0,39.2,Sunday,Summer,1,22.23
+4648BBE8,2025-12-14,Villa,1,8,0.0,2.5,12.9,2.9,0.7,8.0,8.5,Sunday,Winter,1,13.85
+F2DEB798,2025-08-17,Portion,8,4,3.1,23.9,10.3,1.1,2.0,4.5,37.1,Sunday,Summer,1,18.41
+C8C621BE,2026-06-14,Villa,8,10,5.5,21.2,10.1,1.4,1.6,4.7,36.9,Sunday,Summer,1,35.46
+05651E80,2026-02-28,Apartment,1,4,0.0,1.4,10.7,1.0,1.1,11.1,15.8,Saturday,Winter,1,10.68
+3D5B6535,2025-10-07,Portion,5,5,2.7,7.0,10.4,0.9,1.8,7.8,20.3,Tuesday,Spring/Autumn,0,14.79
+DB8EC35B,2025-12-15,Apartment,7,3,0.0,2.6,13.9,3.0,1.4,11.3,17.1,Monday,Winter,1,11.74
+C1B4FD44,2025-10-01,Single Family Home,3,6,0.6,11.4,10.8,1.8,1.8,8.2,20.8,Wednesday,Spring/Autumn,1,17.02
+A4F954FC,2025-12-02,Apartment,5,2,0.0,1.0,12.5,1.4,0.5,9.2,19.7,Tuesday,Winter,1,7.03
+ED2EEBEA,2026-05-10,Portion,2,4,6.5,21.5,13.4,2.9,2.8,7.5,38.3,Sunday,Summer,1,26.31
+10FD7164,2025-11-12,Villa,8,10,0.0,1.9,10.3,0.5,1.2,10.5,6.2,Wednesday,Winter,0,16.54
+A43F683A,2025-09-12,Portion,3,3,11.0,17.6,11.5,2.4,2.0,6.9,40.1,Friday,Summer,1,28.86
+5050127E,2026-02-02,Apartment,3,2,0.0,1.6,12.3,0.0,1.4,7.3,9.0,Monday,Winter,0,5.02
+690A7B80,2026-04-23,Villa,8,8,1.6,6.4,12.3,0.9,1.9,8.2,30.4,Thursday,Spring/Autumn,0,18.69
+97D02F8F,2026-05-05,Villa,4,5,2.5,17.3,12.3,1.9,2.0,6.5,36.3,Tuesday,Summer,1,19.56
+E05B1892,2025-11-22,Single Family Home,1,3,0.0,1.6,11.3,1.8,1.3,7.1,12.0,Saturday,Winter,1,6.46
+9CAC3D21,2026-02-21,Apartment,8,2,0.0,1.4,13.4,2.0,0.6,9.9,14.7,Saturday,Winter,1,7.72
+2B339734,2025-07-25,Portion,5,4,7.0,12.9,10.8,0.2,1.6,5.3,44.3,Friday,Summer,0,20.23
+F27E8CE7,2026-01-30,Apartment,7,3,0.0,2.7,12.8,3.0,0.8,12.0,17.2,Friday,Winter,1,10.3
+340155BD,2025-09-14,Villa,5,10,15.1,12.1,13.3,2.6,1.9,5.6,42.4,Sunday,Summer,1,43.7
+6E6A3D5B,2026-05-16,Single Family Home,5,4,12.6,17.7,13.0,1.3,2.3,5.6,40.8,Saturday,Summer,1,31.78
+CADEE3EC,2025-08-29,Villa,5,6,10.7,18.2,13.0,2.4,2.7,5.8,42.5,Friday,Summer,1,36.67
+953922C0,2026-03-14,Portion,2,3,0.8,10.2,10.8,1.9,1.7,9.4,23.8,Saturday,Spring/Autumn,1,11.34
+52C03F9B,2026-06-28,Portion,4,6,7.3,23.3,13.2,2.7,1.5,5.4,40.8,Sunday,Summer,1,30.4
+98E1D54C,2025-10-08,Apartment,1,2,1.6,10.2,11.3,1.0,1.5,10.7,28.2,Wednesday,Spring/Autumn,1,12.81
+E88188C3,2025-11-13,Apartment,1,3,0.0,3.8,12.5,2.2,0.8,9.6,7.3,Thursday,Winter,1,9.95
+ABD7D3F1,2025-11-19,Apartment,3,3,0.0,0.8,12.1,0.2,0.9,6.7,19.7,Wednesday,Winter,0,6.21
+56D44952,2026-05-24,Single Family Home,2,5,14.9,13.1,12.2,1.1,1.7,6.8,39.5,Sunday,Summer,1,36.02
+244CB9A8,2025-10-10,Villa,1,6,0.3,11.7,10.9,2.3,1.3,6.4,22.2,Friday,Spring/Autumn,1,12.99
+47EFA886,2026-04-06,Portion,5,5,0.7,10.9,10.6,1.2,1.4,9.2,26.2,Monday,Spring/Autumn,1,14.45
+E48623DD,2025-09-05,Portion,3,6,7.7,22.4,10.8,0.4,1.7,6.8,35.7,Friday,Summer,0,30.55
+3AD82406,2025-09-12,Portion,5,4,15.4,19.0,12.7,1.6,2.3,4.0,41.0,Friday,Summer,1,35.55
+E52A33E6,2026-06-11,Apartment,8,3,4.4,21.7,13.6,2.8,2.3,5.8,35.6,Thursday,Summer,1,20.89
+D888DCB6,2026-03-27,Single Family Home,2,5,1.2,11.0,12.8,0.7,1.5,7.8,28.8,Friday,Spring/Autumn,0,15.18
+2E3F674C,2026-05-08,Villa,4,9,7.8,15.0,12.9,0.5,2.8,7.6,43.1,Friday,Summer,0,34.3
+2E39C29A,2025-12-06,Apartment,4,3,0.0,1.6,11.0,2.7,1.4,7.6,13.5,Saturday,Winter,1,8.84
+5422EA97,2025-07-16,Apartment,7,3,7.5,20.4,10.9,0.5,2.6,8.0,37.9,Wednesday,Summer,0,24.69
+076451D3,2025-08-05,Portion,8,5,6.8,13.3,11.3,0.5,2.6,5.0,45.0,Tuesday,Summer,0,24.05
+A7FAF009,2026-02-19,Portion,6,4,0.0,0.3,13.0,0.4,1.2,10.5,11.9,Thursday,Winter,0,10.13
+A4C5DAE5,2025-10-18,Apartment,2,4,0.0,4.9,11.3,2.5,1.9,8.9,24.8,Saturday,Spring/Autumn,1,9.7
+17B16C43,2025-11-29,Single Family Home,4,6,0.0,1.0,10.6,2.6,1.5,11.0,13.2,Saturday,Winter,1,11.33
+354E15EC,2025-09-04,Portion,5,4,2.6,15.5,11.6,0.1,2.3,7.1,35.2,Thursday,Summer,0,17.82
+6EAF0A90,2026-04-02,Villa,3,7,1.4,5.7,12.7,0.2,1.0,10.2,21.8,Thursday,Spring/Autumn,0,17.7
+332AC35A,2026-01-02,Portion,8,5,0.0,2.6,13.6,1.8,1.2,7.8,17.2,Friday,Winter,1,8.35
+CF9D539C,2025-11-18,Single Family Home,7,6,0.0,3.1,13.7,0.4,1.3,7.4,5.1,Tuesday,Winter,0,8.86
+F9285706,2025-12-23,Single Family Home,3,6,0.0,4.0,10.8,0.7,0.8,7.3,11.3,Tuesday,Winter,0,11.41
+1445587E,2026-06-04,Portion,5,4,14.3,14.0,11.7,0.1,1.8,5.3,43.0,Thursday,Summer,0,32.96
+D76F0813,2025-10-06,Portion,5,3,0.8,8.3,10.5,0.2,1.9,8.1,22.3,Monday,Spring/Autumn,0,9.34
+1B8DC821,2026-01-09,Portion,2,6,0.0,1.3,11.8,1.1,0.9,10.9,11.0,Friday,Winter,1,11.88
+14EED987,2026-04-14,Apartment,2,4,0.3,5.7,12.4,3.0,1.3,6.6,24.4,Tuesday,Spring/Autumn,1,10.71
+D7C8F02C,2025-11-27,Apartment,7,4,0.0,3.4,13.8,2.2,0.7,11.9,19.9,Thursday,Winter,1,11.24
+747AC231,2026-04-10,Portion,5,5,3.9,9.5,12.5,0.9,1.3,7.9,28.1,Friday,Spring/Autumn,0,19.6
+BF3D5023,2026-07-01,Villa,2,8,9.4,19.3,11.5,0.6,2.4,4.9,39.8,Wednesday,Summer,0,36.02
+0367EE2C,2025-09-07,Portion,8,6,8.3,19.4,11.2,2.5,2.8,7.0,44.9,Sunday,Summer,1,33.6
+BE86F5D0,2026-02-12,Portion,5,5,0.0,1.5,10.6,1.4,0.8,6.2,5.9,Thursday,Winter,1,9.36
+2005DD7E,2025-08-25,Single Family Home,2,3,15.5,20.9,11.1,0.6,2.0,7.0,41.0,Monday,Summer,0,35.56
+7B2A7F10,2026-03-01,Single Family Home,7,4,2.6,6.3,13.4,1.7,1.0,7.5,31.7,Sunday,Spring/Autumn,1,13.79
+76A30EB0,2025-08-30,Portion,1,3,12.7,15.0,12.9,2.2,2.5,5.5,44.1,Saturday,Summer,1,30.63
+BD20C36A,2026-03-21,Portion,8,3,0.0,11.0,10.8,2.3,1.1,6.8,25.3,Saturday,Spring/Autumn,1,8.23
+3E1CFA14,2025-09-18,Portion,1,5,5.6,22.0,10.9,0.1,2.9,6.9,35.9,Thursday,Summer,0,25.8
+B68D4037,2025-12-12,Portion,8,5,0.0,1.0,11.0,0.3,0.7,8.7,15.8,Friday,Winter,0,8.56
+836B47C3,2026-02-08,Portion,4,3,0.0,3.1,13.9,1.8,0.6,7.0,9.1,Sunday,Winter,1,6.92
+938F2B90,2025-10-30,Apartment,5,4,2.9,10.1,13.2,1.0,1.8,8.3,26.1,Thursday,Spring/Autumn,1,17.89
+7EAA7A91,2026-02-19,Villa,8,10,0.0,3.7,10.6,2.5,1.1,7.5,16.4,Thursday,Winter,1,15.12
+B9E8D781,2025-09-15,Villa,8,6,9.8,19.3,10.5,0.5,1.6,4.6,39.5,Monday,Summer,0,29.56
+56D2BB12,2026-06-09,Portion,3,5,5.0,20.7,13.7,2.9,2.2,7.9,35.1,Tuesday,Summer,1,26.06
+F0F24933,2026-03-10,Villa,8,6,2.6,8.7,10.2,0.9,1.4,8.3,25.9,Tuesday,Spring/Autumn,0,17.61
+1610AC0A,2026-03-08,Single Family Home,3,4,1.7,6.0,12.9,2.0,1.9,8.9,22.3,Sunday,Spring/Autumn,1,15.07
+19D4D39A,2026-04-23,Portion,5,4,2.6,11.4,11.0,0.0,1.7,10.9,28.4,Thursday,Spring/Autumn,0,16.97
+04A434E7,2025-11-15,Villa,6,10,0.0,2.8,11.0,1.9,1.1,10.1,15.1,Saturday,Winter,1,16.03
+DC05AE03,2026-05-30,Apartment,2,3,15.5,22.1,13.1,2.3,1.5,7.7,41.0,Saturday,Summer,1,36.02
+3A085F6A,2025-08-20,Single Family Home,8,5,15.0,18.2,11.7,2.7,1.8,5.0,40.9,Wednesday,Summer,1,37.32
+0BF2FB51,2026-04-14,Villa,3,10,2.6,7.1,11.6,0.9,1.3,10.4,31.6,Tuesday,Spring/Autumn,0,22.62
+F23E9A06,2025-12-14,Portion,2,3,0.0,3.1,10.6,2.5,0.8,11.6,14.5,Sunday,Winter,1,8.37
+C83B6467,2026-05-17,Apartment,1,4,15.9,21.8,10.3,2.4,1.5,6.1,38.1,Sunday,Summer,1,38.89
+1E392331,2026-05-21,Villa,3,10,7.7,16.5,10.8,1.4,2.6,7.8,42.3,Thursday,Summer,1,38.16
+818270D2,2026-01-05,Apartment,3,4,0.0,0.7,10.7,2.5,0.6,7.6,17.2,Monday,Winter,1,9.06
+1F7BD82F,2026-05-13,Portion,7,3,12.3,19.5,10.7,0.3,2.8,5.5,39.1,Wednesday,Summer,0,30.0
+5760C094,2025-10-19,Single Family Home,2,5,2.3,7.8,10.4,1.1,1.7,10.5,24.1,Sunday,Spring/Autumn,1,14.86
+6A3E0103,2025-11-15,Single Family Home,3,6,0.0,4.0,12.1,1.0,0.6,9.6,13.7,Saturday,Winter,1,13.21
+CD40B648,2025-12-10,Portion,8,5,0.0,3.7,11.3,0.4,1.0,8.2,16.4,Wednesday,Winter,0,10.95
+028BFFB6,2026-03-26,Apartment,2,3,3.3,11.5,11.5,1.1,1.7,8.1,32.0,Thursday,Spring/Autumn,1,14.54
+2A112EAB,2025-12-12,Portion,1,4,0.0,1.8,12.9,0.9,1.2,6.8,6.5,Friday,Winter,0,8.37
+B69F627C,2026-04-25,Villa,7,8,1.1,9.6,11.5,2.2,1.8,10.0,30.4,Saturday,Spring/Autumn,1,21.36
+8DB969AF,2026-05-22,Villa,6,5,7.9,23.8,13.3,1.0,2.9,5.4,39.1,Friday,Summer,1,29.07
+EBA2A67C,2025-08-29,Portion,8,4,9.3,17.3,11.6,2.2,2.4,4.3,43.1,Friday,Summer,1,27.49
+CFD42949,2026-04-19,Portion,4,5,3.7,11.9,13.6,2.5,1.9,7.8,31.2,Sunday,Spring/Autumn,1,19.27
+55A15414,2025-11-26,Single Family Home,5,4,0.0,2.1,13.4,0.5,1.1,6.8,7.1,Wednesday,Winter,0,8.89
+85764472,2025-11-08,Single Family Home,1,3,0.0,2.7,13.5,1.3,1.0,8.7,9.5,Saturday,Winter,1,6.44
+97AE50F0,2025-10-09,Villa,7,9,1.0,5.7,12.6,0.1,1.8,8.6,28.0,Thursday,Spring/Autumn,0,18.97
+5F7B8B00,2025-10-10,Villa,2,5,3.7,11.2,10.9,0.3,1.8,8.9,21.9,Friday,Spring/Autumn,0,20.71
+BCA2C581,2025-07-08,Villa,4,10,2.8,18.4,10.4,0.7,2.6,7.5,36.2,Tuesday,Summer,0,33.53
+AABB6CAC,2026-04-20,Single Family Home,7,4,2.4,9.2,12.9,0.7,1.4,8.3,29.2,Monday,Spring/Autumn,0,15.1
+314B4D36,2026-05-04,Villa,8,5,14.6,21.7,10.5,0.1,1.8,4.4,40.6,Monday,Summer,0,37.99
+697C4D7D,2025-08-05,Apartment,7,2,13.4,13.4,13.4,2.9,2.1,6.3,44.4,Tuesday,Summer,1,28.49
+5E8A10DA,2026-03-11,Portion,7,5,2.1,10.8,11.3,1.7,2.0,10.1,20.7,Wednesday,Spring/Autumn,1,19.51
+70A91477,2026-03-16,Portion,7,4,2.4,5.8,12.2,0.5,1.4,6.9,26.2,Monday,Spring/Autumn,0,14.51
+B60DF6A3,2025-12-21,Apartment,4,3,0.0,2.0,12.4,1.3,1.0,10.0,17.6,Sunday,Winter,1,9.09
+2826A561,2026-06-17,Villa,2,9,12.0,15.7,10.5,3.0,3.0,6.8,42.0,Wednesday,Summer,1,42.69
+925F2CC6,2025-10-20,Single Family Home,2,5,2.0,9.6,13.9,1.7,1.4,11.0,29.9,Monday,Spring/Autumn,1,16.4
+4B425BBA,2025-12-31,Single Family Home,3,6,0.0,3.2,10.2,0.9,1.2,7.1,16.0,Wednesday,Winter,0,9.92
+E39940DD,2025-10-18,Single Family Home,8,3,3.9,9.3,14.0,2.1,1.8,8.0,24.7,Saturday,Spring/Autumn,1,17.53
+114BE8CA,2026-05-21,Portion,8,5,13.6,16.7,11.1,2.4,2.3,4.8,44.9,Thursday,Summer,1,37.24
+60971A15,2025-12-27,Single Family Home,3,6,0.0,0.5,12.3,2.6,1.3,11.1,10.9,Saturday,Winter,1,13.26
+72F68FE1,2025-08-30,Villa,2,9,7.6,13.7,11.2,1.3,2.5,4.9,39.6,Saturday,Summer,1,32.68
+6321D753,2025-09-30,Portion,6,3,6.1,20.7,12.7,3.0,2.4,4.6,42.4,Tuesday,Summer,1,24.42
+16A9E518,2026-05-19,Apartment,5,4,14.4,23.1,13.9,0.2,1.6,4.2,39.3,Tuesday,Summer,0,37.3
+3142E0C7,2026-06-21,Apartment,4,3,11.9,23.6,11.6,1.1,2.4,5.0,41.5,Sunday,Summer,1,31.1
+1ECAE0C0,2026-03-04,Single Family Home,1,5,3.8,9.2,12.8,0.8,1.4,10.0,28.3,Wednesday,Spring/Autumn,0,20.15
+D6C34B19,2026-05-27,Portion,2,5,12.5,15.3,11.5,1.2,2.5,4.3,43.6,Wednesday,Summer,1,33.18
+DCAA5994,2026-06-13,Villa,7,6,11.1,12.3,12.3,1.5,2.4,7.0,41.7,Saturday,Summer,1,34.19
+872491CA,2025-10-31,Villa,2,5,1.9,9.2,12.3,0.1,1.4,6.4,22.2,Friday,Spring/Autumn,0,15.71
+24DF6DCC,2025-09-11,Apartment,3,3,7.8,21.8,12.2,2.1,1.5,7.2,43.0,Thursday,Summer,1,24.46
+9D4E42F2,2026-06-23,Single Family Home,1,3,11.8,20.6,10.5,2.5,2.7,7.9,40.2,Tuesday,Summer,1,33.7
+24784B7D,2025-12-05,Villa,5,8,0.0,2.4,12.2,0.8,0.7,6.7,7.7,Friday,Winter,0,9.1
+C08BD631,2026-02-10,Single Family Home,8,6,0.0,0.6,13.4,0.0,1.1,11.9,8.1,Tuesday,Winter,0,11.56
+76FEACD6,2026-01-25,Apartment,8,2,0.0,2.2,13.8,1.0,0.9,7.8,10.5,Sunday,Winter,1,8.12
+E9EA8B10,2026-05-27,Villa,2,6,13.8,19.9,12.3,0.7,2.2,6.1,40.2,Wednesday,Summer,0,41.24
+722BE4AA,2025-08-06,Single Family Home,3,5,11.4,14.5,13.3,0.2,1.6,4.8,38.5,Wednesday,Summer,0,29.18
+F3DE6BC2,2025-12-09,Portion,1,3,0.0,3.8,10.9,1.7,1.1,6.8,17.5,Tuesday,Winter,1,8.02
+4A0C408D,2026-03-03,Single Family Home,1,3,1.0,7.1,11.6,1.2,1.9,7.5,20.9,Tuesday,Spring/Autumn,1,10.75
+D6E8AAD3,2026-03-12,Villa,4,9,2.1,4.6,14.0,2.4,1.7,7.2,28.3,Thursday,Spring/Autumn,1,18.62
+88BA135E,2026-01-29,Villa,2,8,0.0,3.3,11.7,0.2,1.1,12.0,14.9,Thursday,Winter,0,15.25
+8E7569BC,2026-07-07,Portion,4,5,5.6,12.9,10.4,2.1,1.7,4.3,35.3,Tuesday,Summer,1,21.62
+C0B08DD0,2026-03-23,Villa,4,10,1.3,6.2,10.9,1.0,1.9,8.3,24.4,Monday,Spring/Autumn,1,22.23
+F5808B59,2026-02-11,Apartment,3,4,0.0,0.4,10.7,0.7,1.4,7.8,10.7,Wednesday,Winter,0,9.16
+E6C51969,2025-07-10,Single Family Home,7,6,11.3,20.4,12.2,2.2,2.8,7.6,39.9,Thursday,Summer,1,36.99
+E070BDB9,2026-03-01,Apartment,1,4,1.6,6.8,13.9,2.1,1.7,9.6,31.4,Sunday,Spring/Autumn,1,15.82
+5A5DDCC5,2026-06-27,Portion,6,6,7.3,12.1,10.6,1.3,2.3,5.5,39.8,Saturday,Summer,1,26.74
+CFD6B161,2026-03-19,Apartment,2,3,2.9,11.8,11.0,2.2,1.7,10.2,20.6,Thursday,Spring/Autumn,1,14.63
+0265A223,2025-09-26,Apartment,5,4,14.0,18.0,11.7,2.9,1.9,7.5,44.9,Friday,Summer,1,37.22
+9D0A94DF,2026-02-20,Single Family Home,4,6,0.0,3.4,11.6,1.6,1.4,6.5,9.6,Friday,Winter,1,9.01
+E78DCF32,2026-03-21,Single Family Home,1,4,3.8,5.3,13.0,2.1,1.1,9.0,28.8,Saturday,Spring/Autumn,1,17.43
+6565E779,2025-08-16,Villa,8,6,10.2,18.1,11.9,2.0,2.6,8.0,44.6,Saturday,Summer,1,37.05
+BD22F7FC,2026-01-30,Single Family Home,2,4,0.0,1.6,13.6,0.7,1.1,10.3,15.5,Friday,Winter,0,10.0
+91E52E86,2026-05-16,Villa,4,10,8.4,20.9,13.3,2.8,2.9,6.1,42.5,Saturday,Summer,1,43.13
+B16784B1,2026-03-12,Villa,8,5,3.9,9.4,12.1,1.5,1.9,6.5,27.3,Thursday,Spring/Autumn,1,19.76
+A6685E80,2025-07-25,Villa,7,8,15.5,17.1,11.5,1.2,2.1,7.7,40.1,Friday,Summer,1,44.6
+77723A5A,2026-01-04,Apartment,4,2,0.0,3.1,11.2,1.6,0.6,7.3,13.1,Sunday,Winter,1,6.77
+884C0A55,2025-12-18,Apartment,7,2,0.0,0.9,13.7,2.3,0.8,11.0,13.5,Thursday,Winter,1,5.37
+CEC3A6F4,2025-07-16,Single Family Home,7,3,12.2,17.9,12.5,0.3,2.0,5.4,39.6,Wednesday,Summer,0,27.51
+4F90F91A,2025-07-30,Apartment,1,3,7.9,16.3,12.0,1.2,1.7,6.1,43.9,Wednesday,Summer,1,21.24
+CC16AB4E,2026-02-21,Villa,5,6,0.0,1.9,12.6,1.5,0.7,8.4,6.9,Saturday,Winter,1,9.2
+F574175B,2025-11-08,Apartment,6,4,0.0,0.7,10.4,1.9,1.3,11.0,11.4,Saturday,Winter,1,8.25
+12AA48CF,2026-04-16,Portion,2,6,1.7,6.9,10.8,0.2,1.9,6.2,24.2,Thursday,Spring/Autumn,0,14.04
+EAADCB2F,2025-07-19,Villa,2,6,15.0,13.9,11.9,2.3,1.8,5.1,42.4,Saturday,Summer,1,37.65
+71219097,2025-07-27,Portion,2,3,14.0,20.6,13.1,2.8,2.0,6.0,40.5,Sunday,Summer,1,35.94
+0D5D2F64,2025-10-22,Portion,7,3,1.6,4.9,10.1,1.3,1.1,9.0,30.1,Wednesday,Spring/Autumn,1,11.53
+C997F2FA,2026-03-05,Apartment,8,3,2.7,6.7,12.9,1.9,2.0,7.7,22.8,Thursday,Spring/Autumn,1,14.19
+9EC620E0,2026-02-18,Villa,1,8,0.0,1.0,12.0,1.5,0.7,10.6,16.4,Wednesday,Winter,1,14.57
+1A49DE98,2025-07-11,Apartment,4,4,8.5,21.8,12.8,0.8,1.8,6.8,44.9,Friday,Summer,0,27.52
+5AFAEB32,2025-12-08,Portion,3,4,0.0,4.0,12.5,0.2,1.1,6.8,7.7,Monday,Winter,0,6.19
+20AFAF9E,2025-10-29,Portion,6,5,3.7,7.4,10.4,0.1,1.6,8.4,31.9,Wednesday,Spring/Autumn,0,16.31
+9A73CD2F,2025-11-09,Villa,1,9,0.0,0.9,11.9,2.0,0.8,9.9,14.5,Sunday,Winter,1,13.27
+250487E4,2025-07-27,Apartment,7,3,3.7,16.2,11.3,1.1,2.1,4.2,37.7,Sunday,Summer,1,14.56
+A3FB6609,2026-06-04,Apartment,6,2,8.1,17.7,10.4,1.4,2.9,7.8,42.4,Thursday,Summer,1,22.88
+77A7AED0,2026-02-11,Villa,6,9,0.0,0.4,12.2,2.7,0.5,8.0,9.6,Wednesday,Winter,1,12.88
+1AD74FD4,2025-12-20,Apartment,8,2,0.0,3.1,11.5,2.3,1.0,7.3,10.4,Saturday,Winter,1,6.37
+39182C16,2026-03-17,Portion,4,4,0.5,9.9,12.3,2.8,1.1,9.9,30.6,Tuesday,Spring/Autumn,1,11.94
+D08D13DF,2025-11-05,Portion,4,6,0.0,3.7,12.2,0.3,0.6,10.4,15.6,Wednesday,Winter,0,13.2
+5CE195BE,2025-07-10,Villa,1,9,6.3,12.5,12.2,0.3,1.8,7.5,37.0,Thursday,Summer,0,31.25
+31C46C9E,2026-02-23,Villa,1,5,0.0,3.9,11.8,0.7,1.4,11.5,18.6,Monday,Winter,0,10.19
+380CC838,2026-05-27,Single Family Home,6,4,15.3,18.0,12.4,0.7,1.5,4.5,39.2,Wednesday,Summer,0,33.38
+D7C713B7,2025-10-10,Apartment,1,4,3.2,9.6,11.6,0.7,1.7,11.2,26.8,Friday,Spring/Autumn,0,19.2
+E2901D96,2025-08-16,Single Family Home,5,6,6.5,16.6,11.6,1.5,2.7,4.7,36.7,Saturday,Summer,1,25.73
+5F5258AB,2026-03-05,Portion,2,3,2.8,11.0,11.8,0.7,1.8,9.2,22.6,Thursday,Spring/Autumn,0,13.93
+CB7E717C,2025-09-14,Portion,6,5,6.2,18.6,10.2,1.5,1.8,4.2,37.2,Sunday,Summer,1,22.43
+A2DA43A7,2025-10-04,Apartment,4,4,3.7,6.2,12.6,1.5,1.8,10.9,30.6,Saturday,Spring/Autumn,1,17.75
+53E2E047,2025-10-05,Villa,3,9,1.4,8.8,10.3,2.4,1.4,9.3,20.0,Sunday,Spring/Autumn,1,22.62
+7D2E7D9E,2025-09-21,Apartment,8,4,12.1,15.9,13.3,2.6,1.6,4.9,39.1,Sunday,Summer,1,32.95
+823483A8,2025-11-26,Villa,8,9,0.0,3.9,13.9,2.6,1.0,10.7,7.7,Wednesday,Winter,1,16.09
+5FB68406,2026-01-15,Portion,8,6,0.0,1.5,13.5,2.3,1.2,9.3,16.2,Thursday,Winter,1,12.93
+EBD2CB71,2026-04-22,Apartment,4,2,1.1,8.7,13.0,0.2,1.8,7.4,22.6,Wednesday,Spring/Autumn,0,10.54
+6559B365,2025-09-25,Portion,7,4,15.0,13.1,10.7,2.7,1.8,4.8,38.7,Thursday,Summer,1,34.47
+226378AB,2026-04-08,Villa,8,9,2.6,4.2,10.7,1.8,1.2,9.6,28.8,Wednesday,Spring/Autumn,1,18.4
+771AD3FE,2026-01-10,Villa,7,8,0.0,1.0,13.9,1.2,1.4,9.2,6.1,Saturday,Winter,1,14.12
+5E15433B,2026-04-27,Villa,5,8,2.4,7.0,13.3,0.8,1.0,9.9,29.7,Monday,Spring/Autumn,0,18.31
+43FFFDEA,2026-02-28,Villa,2,7,0.0,0.3,12.5,1.0,0.6,11.8,8.7,Saturday,Winter,1,14.12
+8BF160DF,2026-02-27,Villa,4,5,0.0,2.9,12.8,0.2,0.8,8.9,6.6,Friday,Winter,0,9.58
+8BC85D37,2025-09-18,Single Family Home,6,5,7.6,16.0,10.2,2.4,1.7,6.5,39.4,Thursday,Summer,1,25.01
+AEFC6EF1,2026-05-12,Single Family Home,3,5,7.0,15.6,13.3,0.1,2.3,7.6,43.2,Tuesday,Summer,0,24.27
+D282D54D,2025-11-10,Portion,7,3,0.0,0.6,10.9,2.8,1.2,8.3,11.4,Monday,Winter,1,9.41
+C2DB6AAB,2026-06-20,Portion,4,4,7.1,14.0,10.4,2.9,1.7,5.4,43.2,Saturday,Summer,1,23.55
+7974C90B,2025-09-30,Portion,8,5,7.5,23.0,12.4,0.2,2.8,6.1,36.2,Tuesday,Summer,0,30.13
+6DC56044,2026-04-14,Portion,4,6,0.6,9.3,13.3,1.7,1.3,6.6,28.2,Tuesday,Spring/Autumn,1,16.03
+5FEC59AC,2025-08-26,Single Family Home,5,3,15.3,21.7,10.3,1.0,2.6,7.7,41.6,Tuesday,Summer,1,35.19
+5ACB287D,2025-11-08,Portion,7,6,0.0,1.3,12.9,2.6,0.9,8.9,14.8,Saturday,Winter,1,9.22
+89A06A99,2025-10-24,Apartment,1,2,3.8,6.2,14.0,0.2,1.1,8.3,26.9,Friday,Spring/Autumn,0,11.95
+548B4C63,2026-01-30,Portion,7,4,0.0,2.8,13.2,1.7,0.9,10.8,11.4,Friday,Winter,1,10.45
+3036F6B9,2025-12-27,Villa,8,10,0.0,1.7,12.1,2.1,1.0,10.9,8.7,Saturday,Winter,1,16.57
+2BE26BD1,2025-08-14,Single Family Home,1,6,10.2,18.9,13.0,0.7,2.5,4.9,40.8,Thursday,Summer,0,31.43
+E94DED1E,2026-06-24,Villa,4,6,6.2,18.7,13.7,1.1,2.9,5.4,44.9,Wednesday,Summer,1,29.82
+7464D6F2,2025-07-28,Apartment,3,3,14.2,15.5,13.4,2.9,1.7,7.7,43.7,Monday,Summer,1,32.6
+1C59B736,2025-08-23,Portion,8,3,6.6,13.7,12.8,1.8,2.9,4.1,43.3,Saturday,Summer,1,23.72
+DD9E7B6D,2025-09-20,Single Family Home,5,6,13.0,20.0,13.3,2.7,1.6,4.1,38.7,Saturday,Summer,1,36.72
+798B2F02,2025-09-03,Villa,4,9,2.5,18.8,10.6,1.4,2.7,7.0,35.8,Wednesday,Summer,1,30.53
+FDB7C107,2025-08-28,Apartment,7,4,9.0,16.9,13.1,0.7,2.0,5.1,42.0,Thursday,Summer,0,25.08
+91B8FF07,2026-05-24,Portion,8,3,6.3,21.0,10.0,2.7,2.3,6.7,43.8,Sunday,Summer,1,24.45
+A573DC30,2026-05-25,Portion,6,5,14.3,23.0,12.8,1.8,2.3,4.6,40.5,Monday,Summer,1,41.01
+D98F5E83,2025-09-09,Single Family Home,3,6,15.8,13.5,12.5,1.4,1.8,4.7,40.2,Tuesday,Summer,1,39.39
+2EF634F2,2026-03-19,Apartment,7,4,3.4,10.5,11.3,0.6,1.5,11.0,26.7,Thursday,Spring/Autumn,0,15.97
+286E3F0A,2025-10-15,Villa,2,10,2.6,5.6,10.3,0.6,1.1,11.1,29.6,Wednesday,Spring/Autumn,0,21.25
+FE0D40B4,2026-04-11,Apartment,6,2,2.2,4.5,13.0,1.6,1.6,9.3,23.4,Saturday,Spring/Autumn,1,12.0
+C43BE7AF,2026-04-18,Portion,8,4,1.1,11.8,12.3,2.6,1.6,6.3,20.4,Saturday,Spring/Autumn,1,12.9
+0B6D35D7,2025-12-23,Apartment,8,3,0.0,0.0,11.1,1.8,0.9,7.2,19.2,Tuesday,Winter,1,7.52
+31C46EF9,2025-11-29,Apartment,5,2,0.0,3.9,10.4,1.8,1.2,10.4,15.9,Saturday,Winter,1,5.85
+53BD8128,2026-03-09,Portion,8,6,0.6,8.7,12.3,0.9,1.4,7.7,29.7,Monday,Spring/Autumn,0,12.92
+3E06F427,2026-03-25,Portion,3,6,3.5,4.7,13.5,2.6,1.7,9.9,25.6,Wednesday,Spring/Autumn,1,20.89
+D6A7AA06,2025-07-13,Apartment,3,3,7.8,18.2,12.6,2.9,2.6,5.4,36.6,Sunday,Summer,1,26.23
+640EB68E,2025-09-06,Apartment,5,2,9.6,22.3,13.6,2.5,2.1,5.6,38.4,Saturday,Summer,1,24.72
+3777D823,2026-03-25,Single Family Home,8,3,0.3,5.2,12.0,0.8,1.6,6.9,27.3,Wednesday,Spring/Autumn,0,10.31
+71A91C81,2025-07-26,Apartment,1,3,15.7,21.4,10.4,1.6,1.6,7.7,40.5,Saturday,Summer,1,34.63
+3FEC5325,2025-11-21,Single Family Home,4,3,0.0,1.5,10.7,0.8,0.6,7.5,9.2,Friday,Winter,0,5.86
+03BA33A0,2025-11-07,Single Family Home,2,4,0.0,3.5,10.6,0.1,1.2,9.4,8.8,Friday,Winter,0,6.85
+AA03081B,2025-09-06,Single Family Home,1,6,10.0,22.3,10.5,1.7,2.9,7.4,43.6,Saturday,Summer,1,38.54
+53BF8B10,2025-11-02,Single Family Home,4,6,0.0,2.7,11.1,2.8,1.0,10.1,10.6,Sunday,Winter,1,12.81
+3B7F1998,2025-09-23,Villa,6,6,13.4,14.9,10.0,0.9,2.7,5.2,41.4,Tuesday,Summer,0,35.1
+03113626,2025-11-26,Portion,4,3,0.0,0.3,11.8,1.2,0.9,8.8,11.0,Wednesday,Winter,1,7.48
+0B3F953A,2025-07-31,Single Family Home,7,5,10.6,13.0,13.7,2.8,2.6,7.1,44.0,Thursday,Summer,1,31.06
+B668705D,2026-01-19,Single Family Home,5,3,0.0,1.3,11.9,2.4,1.5,8.9,9.9,Monday,Winter,1,7.79
+6379064F,2026-03-12,Single Family Home,6,4,0.6,7.8,11.3,1.1,1.6,9.6,20.5,Thursday,Spring/Autumn,1,11.81
+7B6CE596,2025-07-31,Apartment,8,3,9.6,17.2,10.2,0.9,2.2,7.8,44.4,Thursday,Summer,0,27.14
+FD06875B,2025-07-11,Apartment,2,3,5.8,13.0,11.6,0.3,1.6,6.8,37.7,Friday,Summer,0,19.98
+3E59034B,2026-02-18,Apartment,3,3,0.0,2.7,13.3,1.2,0.8,11.4,12.9,Wednesday,Winter,1,7.62
+60310461,2025-09-19,Apartment,4,4,7.6,16.2,11.9,2.4,2.1,4.6,42.5,Friday,Summer,1,25.64
+225F52AB,2025-10-16,Apartment,7,4,2.8,7.1,13.1,2.2,1.0,6.5,24.3,Thursday,Spring/Autumn,1,14.63
+D8D0B8DB,2026-04-01,Villa,4,6,1.3,11.9,13.0,0.7,1.9,7.9,27.4,Wednesday,Spring/Autumn,0,16.36
+FD063A58,2025-10-05,Single Family Home,7,5,0.6,10.9,13.9,1.8,1.1,9.1,25.5,Sunday,Spring/Autumn,1,12.71
+018C0313,2025-07-30,Portion,2,4,14.3,13.5,13.9,0.1,2.2,4.9,39.5,Wednesday,Summer,0,35.3
+F032C262,2025-09-19,Apartment,3,4,11.5,14.0,11.4,1.0,2.1,7.9,39.2,Friday,Summer,0,30.64
+6D1E0D7D,2026-03-29,Villa,3,10,3.3,4.1,12.0,2.7,1.9,10.2,20.2,Sunday,Spring/Autumn,1,25.29
+2D2AE08E,2026-02-13,Villa,5,9,0.0,1.6,12.2,2.0,0.9,10.6,11.8,Friday,Winter,1,13.72
+4598AB17,2026-05-18,Portion,2,5,4.6,14.1,12.2,1.8,2.4,7.4,36.8,Monday,Summer,1,23.39
+70FE05A1,2025-12-08,Portion,3,6,0.0,1.1,13.7,0.9,1.1,12.0,11.6,Monday,Winter,0,13.58
+DAA282B4,2025-08-06,Villa,3,9,5.9,19.4,12.0,0.8,2.1,7.7,36.0,Wednesday,Summer,0,33.12
+4E4C01F6,2025-12-20,Portion,8,3,0.0,2.3,11.2,1.8,0.5,7.3,11.7,Saturday,Winter,1,6.44
+782152E0,2025-09-16,Single Family Home,1,3,8.0,17.6,13.9,2.8,1.7,5.7,38.8,Tuesday,Summer,1,25.4
+6A7330B3,2026-06-16,Villa,7,8,13.4,12.1,10.9,1.6,2.1,7.5,42.0,Tuesday,Summer,1,38.46
+123C6A29,2025-12-03,Apartment,2,3,0.0,3.2,11.0,0.9,0.9,8.5,17.6,Wednesday,Winter,0,5.29
+F5044D15,2025-10-08,Villa,8,10,1.5,10.5,12.4,1.7,1.8,11.8,21.8,Wednesday,Spring/Autumn,1,29.8
+62A53193,2026-06-11,Single Family Home,4,6,7.8,14.3,13.3,0.8,2.5,6.3,37.4,Thursday,Summer,0,27.1
+A1861DE1,2026-03-22,Apartment,3,3,3.9,5.4,12.1,1.9,1.9,6.6,27.6,Sunday,Spring/Autumn,1,16.36
+AE5A5F99,2025-08-29,Single Family Home,3,3,12.3,21.4,12.5,0.3,2.8,6.2,40.0,Friday,Summer,0,33.6
+B62C09BF,2026-06-07,Portion,2,4,2.6,17.2,12.4,1.1,2.4,6.8,37.0,Sunday,Summer,1,19.98
+D46A77AF,2025-12-10,Villa,7,9,0.0,1.5,10.5,1.9,1.2,9.8,6.2,Wednesday,Winter,1,14.17
+E05BC7EA,2026-06-10,Apartment,2,4,7.4,15.6,11.0,2.6,2.3,7.1,37.4,Wednesday,Summer,1,26.57
+BFACC63E,2025-09-21,Portion,5,3,8.7,23.2,12.6,2.2,2.4,4.4,41.6,Sunday,Summer,1,26.63
+7DE1936B,2025-07-07,Apartment,7,4,7.1,15.4,10.4,2.0,2.8,5.4,41.0,Monday,Summer,1,26.07
+6E52B671,2025-09-07,Villa,3,10,10.9,12.3,13.8,1.2,1.6,6.7,38.9,Sunday,Summer,1,37.38
+2E968660,2026-01-06,Apartment,8,4,0.0,3.6,10.7,0.0,1.3,7.1,9.7,Tuesday,Winter,0,8.26
+BFFA7A4F,2025-09-11,Single Family Home,5,6,6.3,23.7,11.9,2.2,3.0,6.2,41.1,Thursday,Summer,1,30.38
+1BF43B9F,2026-05-20,Single Family Home,2,5,15.3,14.3,10.1,0.5,1.5,4.6,42.4,Wednesday,Summer,0,36.62
+107380CB,2025-11-09,Single Family Home,8,6,0.0,0.9,10.9,2.5,0.8,11.6,6.7,Sunday,Winter,1,11.05
+026F05F6,2025-07-29,Apartment,1,2,15.5,16.2,11.2,0.7,2.3,6.0,39.8,Tuesday,Summer,0,33.01
+602BA256,2026-02-12,Villa,8,8,0.0,0.8,12.7,2.8,0.7,7.7,11.0,Thursday,Winter,1,10.99
+5EEBC618,2026-03-13,Villa,6,6,3.1,6.5,13.8,2.0,1.8,11.3,27.0,Friday,Spring/Autumn,1,20.24
+9C5DFB8D,2025-07-27,Villa,6,5,14.2,19.5,11.7,2.1,2.4,5.5,42.5,Sunday,Summer,1,38.76
+B2C454A4,2025-12-01,Single Family Home,1,3,0.0,0.7,12.0,2.2,0.5,7.8,6.0,Monday,Winter,1,7.98
+D0A73B72,2025-10-05,Portion,8,6,3.9,6.8,10.7,1.6,1.0,10.7,27.7,Sunday,Spring/Autumn,1,19.21
+FC76627B,2026-02-25,Villa,1,10,0.0,2.6,13.1,1.2,0.9,7.9,6.1,Wednesday,Winter,1,12.32
+CEBC1BD7,2026-04-02,Portion,4,6,1.9,10.4,12.2,1.8,1.9,9.6,23.9,Thursday,Spring/Autumn,1,19.4
+14D49D3A,2025-11-11,Portion,2,6,0.0,1.1,13.5,2.7,1.1,6.4,6.5,Tuesday,Winter,1,11.49
+24A63A6C,2026-05-21,Apartment,3,3,13.6,15.8,10.8,0.8,2.0,6.0,39.2,Thursday,Summer,0,33.15
+FF0DD3C2,2026-01-23,Portion,3,6,0.0,0.5,11.3,0.4,0.7,9.5,11.3,Friday,Winter,0,8.43
+3DABBA61,2025-10-04,Single Family Home,2,3,3.4,11.9,11.1,2.7,1.9,8.4,27.7,Saturday,Spring/Autumn,1,18.3
+077B1426,2025-09-03,Villa,7,7,6.4,19.7,10.4,0.8,1.6,6.9,44.2,Wednesday,Summer,0,28.74
+79EEF2C0,2026-06-20,Apartment,3,4,10.0,18.7,12.4,1.8,2.0,6.8,42.5,Saturday,Summer,1,29.36
+172730D8,2026-04-24,Villa,4,9,3.9,5.0,12.5,0.0,1.4,6.3,30.2,Friday,Spring/Autumn,0,17.3
+E900B66F,2026-03-26,Portion,7,4,1.3,9.5,10.7,0.2,1.4,11.4,21.3,Thursday,Spring/Autumn,0,13.18
+1672380E,2025-08-16,Villa,4,10,15.9,23.2,11.0,2.6,2.8,4.4,44.0,Saturday,Summer,1,55.13
+5E24038E,2025-08-22,Villa,7,9,4.0,19.4,11.1,0.2,2.7,4.6,35.8,Friday,Summer,0,29.29
+891D47FE,2025-09-14,Portion,7,5,7.2,21.0,13.9,1.8,2.8,5.8,36.3,Sunday,Summer,1,27.77
+ADE6BF3C,2026-06-13,Single Family Home,4,3,11.8,19.9,11.3,2.5,3.0,4.9,40.3,Saturday,Summer,1,30.55
+DA3465D9,2025-12-22,Single Family Home,5,4,0.0,0.3,13.5,2.3,1.1,10.4,9.4,Monday,Winter,1,8.36
+99F9A338,2025-10-18,Apartment,6,3,3.9,4.5,10.9,2.6,1.0,7.1,20.9,Saturday,Spring/Autumn,1,12.36
+1F9B5662,2025-10-15,Portion,4,6,2.4,8.2,13.0,1.6,1.9,8.7,22.5,Wednesday,Spring/Autumn,1,17.15
+0F0E5767,2026-07-01,Villa,3,10,15.1,14.6,13.9,0.9,2.0,6.1,40.0,Wednesday,Summer,0,46.94
+CF7798CC,2025-09-27,Apartment,3,3,3.7,14.0,13.5,2.3,2.0,4.6,36.9,Saturday,Summer,1,18.14
+FC00F3E7,2026-05-01,Single Family Home,1,6,8.4,22.7,10.1,2.3,1.8,5.8,42.5,Friday,Summer,1,31.24
+FD853CF8,2025-11-11,Portion,7,3,0.0,0.3,10.6,2.0,0.9,9.0,18.9,Tuesday,Winter,1,5.49
+31F18F8B,2026-03-20,Portion,2,4,0.4,9.2,11.7,1.6,1.7,8.4,23.3,Friday,Spring/Autumn,1,12.73
+DDA8B391,2026-04-27,Villa,8,10,2.0,7.5,12.6,1.0,1.7,7.3,26.4,Monday,Spring/Autumn,0,19.48
+B22A2428,2025-12-30,Single Family Home,4,4,0.0,1.1,10.4,0.2,0.6,9.7,5.5,Tuesday,Winter,0,8.09
+5CBAD410,2026-03-29,Apartment,3,3,0.4,9.9,11.1,1.4,1.9,10.7,24.7,Sunday,Spring/Autumn,1,11.12
+ADF01FE0,2026-05-11,Apartment,2,3,5.6,20.8,12.0,2.4,1.6,5.9,37.9,Monday,Summer,1,20.01
+1E0A7157,2026-06-30,Villa,7,6,8.4,15.8,10.7,2.8,1.6,4.6,44.1,Tuesday,Summer,1,26.39
+3DA8B37A,2025-11-29,Villa,3,10,0.0,1.3,11.1,1.2,0.7,10.1,12.1,Saturday,Winter,1,16.24
+B119779C,2026-07-04,Apartment,8,4,15.7,19.0,11.0,1.2,2.2,7.3,40.9,Saturday,Summer,1,38.53
+A737D19B,2025-12-16,Apartment,2,2,0.0,3.3,10.7,0.1,1.0,6.6,19.9,Tuesday,Winter,0,4.74
+AB35F75A,2026-06-04,Single Family Home,1,6,10.5,20.8,11.0,2.0,3.0,5.5,42.4,Thursday,Summer,1,34.1
+CB5A1C0E,2026-02-08,Portion,8,6,0.0,2.8,13.1,2.7,1.4,11.4,10.3,Sunday,Winter,1,14.42
+1974FB71,2025-11-03,Single Family Home,7,3,0.0,2.7,10.1,3.0,1.2,11.1,6.7,Monday,Winter,1,9.93
+C891C9C6,2026-04-30,Portion,2,3,2.0,6.0,13.9,0.4,1.7,10.5,21.7,Thursday,Spring/Autumn,0,11.62
+1E0914D2,2025-09-11,Single Family Home,1,6,12.4,23.6,12.7,2.8,2.8,5.8,44.5,Thursday,Summer,1,42.54
+933882B3,2025-09-20,Single Family Home,2,5,8.7,20.1,11.6,1.8,2.8,8.0,40.3,Saturday,Summer,1,31.16
+15A905B4,2026-06-30,Villa,6,9,5.1,16.1,11.7,0.5,2.4,7.9,35.4,Tuesday,Summer,0,32.93
+A87D21FF,2025-07-07,Villa,1,9,7.8,18.0,11.9,1.3,2.5,7.9,37.9,Monday,Summer,1,38.16
+23CD8A44,2026-02-03,Villa,6,9,0.0,1.2,13.2,0.0,0.8,6.2,15.0,Tuesday,Winter,0,9.24
+D1DC01E5,2025-07-23,Apartment,4,2,6.5,15.7,12.6,1.0,2.1,5.0,40.9,Wednesday,Summer,1,18.67
+F519AB52,2025-08-25,Single Family Home,6,5,7.2,20.0,10.6,0.1,2.7,5.1,37.8,Monday,Summer,0,28.87
+13093C17,2026-01-24,Villa,7,10,0.0,2.3,10.9,1.9,0.6,8.1,8.0,Saturday,Winter,1,15.11
+74C0DB3E,2025-08-06,Villa,7,10,10.2,23.6,11.0,0.3,1.6,5.2,41.4,Wednesday,Summer,0,43.32
+A12B61AE,2026-04-01,Single Family Home,6,4,1.3,8.6,10.8,1.3,1.7,9.3,28.1,Wednesday,Spring/Autumn,1,12.74
+FE11230E,2026-04-21,Portion,1,4,2.3,9.0,11.5,0.9,1.5,8.6,21.0,Tuesday,Spring/Autumn,0,13.09
+1C285022,2026-03-14,Portion,2,5,1.3,11.5,11.9,1.9,1.7,8.5,25.3,Saturday,Spring/Autumn,1,15.86
+E8C44E4C,2025-11-06,Villa,3,6,0.0,2.2,11.7,2.5,1.5,9.7,5.4,Thursday,Winter,1,11.72
+FABF8AEF,2026-06-26,Portion,2,3,5.1,13.5,12.3,0.3,2.3,7.0,37.4,Friday,Summer,0,18.29
+4E7A081E,2026-02-07,Portion,2,5,0.0,0.0,13.5,1.9,1.3,6.3,11.0,Saturday,Winter,1,6.84
+4830EFFE,2026-01-24,Apartment,1,2,0.0,2.6,10.4,1.6,0.8,8.9,17.4,Saturday,Winter,1,5.59
+63BA6C3D,2025-09-11,Portion,8,4,6.4,20.1,10.2,1.4,2.6,4.6,35.6,Thursday,Summer,1,25.13
+B695C2BF,2025-09-01,Single Family Home,3,6,8.2,20.1,11.2,1.6,2.8,8.0,40.0,Monday,Summer,1,31.36
+A3A22F35,2026-06-28,Single Family Home,7,6,12.9,13.4,12.4,1.2,1.5,4.4,39.8,Sunday,Summer,1,32.02
+5A9FD637,2026-04-25,Villa,5,8,3.3,7.6,10.5,1.8,1.1,11.9,25.7,Saturday,Spring/Autumn,1,24.89
+E1A29FFA,2026-06-10,Single Family Home,5,3,11.5,21.9,13.4,2.2,2.5,5.7,43.4,Wednesday,Summer,1,31.8
+D862042E,2025-08-08,Apartment,2,4,6.9,19.9,13.0,0.5,1.8,5.9,36.8,Friday,Summer,0,23.21
+9347F486,2025-07-28,Villa,8,5,15.6,17.9,11.6,2.4,2.5,4.4,41.7,Monday,Summer,1,39.17
+BB15894A,2025-08-25,Portion,2,6,6.3,17.5,10.0,0.3,2.3,6.6,39.2,Monday,Summer,0,28.49
+D4D6761C,2026-04-06,Portion,6,4,0.2,11.3,11.9,0.7,2.0,7.7,27.4,Monday,Spring/Autumn,0,14.21
+2B24EF63,2026-03-10,Single Family Home,3,3,3.4,8.0,12.8,1.8,1.3,6.4,24.3,Tuesday,Spring/Autumn,1,14.82
+5A71504B,2026-06-20,Portion,8,6,13.2,16.1,13.1,1.6,2.6,7.1,38.5,Saturday,Summer,1,37.57
+1CFCDF01,2025-11-07,Single Family Home,2,5,0.0,3.7,11.5,1.9,1.1,10.0,10.9,Friday,Winter,1,11.57
+368B7D68,2025-07-07,Portion,4,5,13.8,18.3,11.3,1.0,1.7,5.4,44.3,Monday,Summer,0,35.87
+9E24C724,2026-05-13,Apartment,6,2,6.4,22.2,10.4,1.2,1.7,7.7,39.0,Wednesday,Summer,1,19.73
+1B6F1A9E,2025-07-08,Single Family Home,7,5,15.8,21.7,10.9,0.9,2.6,4.7,42.6,Tuesday,Summer,0,42.27
+329245BA,2025-08-07,Single Family Home,7,3,10.2,12.8,10.5,2.7,2.4,4.3,42.6,Thursday,Summer,1,27.56
+A819213D,2025-10-06,Portion,7,5,3.4,11.4,12.8,1.8,1.3,11.9,27.3,Monday,Spring/Autumn,1,20.86
+2EA37B78,2026-01-19,Villa,2,8,0.0,1.0,11.1,1.4,0.9,7.0,8.0,Monday,Winter,1,11.72
+BF415C98,2025-12-12,Villa,4,5,0.0,0.8,12.5,0.7,1.1,7.2,17.1,Friday,Winter,0,9.47
+6500F793,2025-12-08,Villa,1,6,0.0,1.4,12.2,0.1,0.9,7.1,18.4,Monday,Winter,0,9.56
+AA4D5BB8,2026-07-01,Apartment,7,3,12.4,18.0,12.3,1.9,2.7,5.4,44.1,Wednesday,Summer,1,32.21
+209F839F,2025-11-02,Portion,7,4,0.0,0.6,11.7,1.8,0.6,6.4,13.4,Sunday,Winter,1,5.03
+CAEF3C9E,2025-07-14,Single Family Home,6,3,9.0,13.4,12.4,0.3,1.8,4.9,42.8,Monday,Summer,0,25.02
+57968D64,2025-12-11,Apartment,7,3,0.0,1.0,10.3,2.7,1.2,11.8,18.8,Thursday,Winter,1,7.29
+C2CA55ED,2025-12-10,Single Family Home,3,4,0.0,3.4,12.0,1.8,1.4,6.3,13.6,Wednesday,Winter,1,9.7
+4376BFF9,2026-07-05,Single Family Home,7,4,4.8,23.0,10.1,1.7,1.9,5.0,36.1,Sunday,Summer,1,21.19
+CF590B8E,2025-08-13,Single Family Home,4,4,7.4,18.6,13.7,0.7,2.6,7.5,42.6,Wednesday,Summer,0,25.39
+09D261E0,2025-10-15,Single Family Home,3,6,3.8,11.2,13.1,0.0,1.7,11.9,20.9,Wednesday,Spring/Autumn,0,24.71
+DD460C91,2025-07-25,Portion,5,4,12.1,13.0,13.8,0.3,2.3,4.2,41.0,Friday,Summer,0,28.08
+0FB49D98,2026-01-09,Apartment,5,2,0.0,2.6,11.2,2.7,0.9,11.8,12.6,Friday,Winter,1,5.77
+59DCBE0F,2026-03-24,Single Family Home,6,3,3.1,10.5,13.4,0.7,1.5,10.4,20.7,Tuesday,Spring/Autumn,0,15.5
+A911FD6D,2026-04-05,Single Family Home,5,6,3.1,9.6,11.7,1.3,1.4,8.6,20.6,Sunday,Spring/Autumn,1,20.7
+19CB84C8,2025-12-11,Villa,8,7,0.0,1.5,11.7,1.1,0.7,7.4,19.7,Thursday,Winter,1,10.16
+AB402561,2025-07-12,Single Family Home,6,5,6.5,22.7,12.3,3.0,2.7,4.1,37.3,Saturday,Summer,1,29.0
+BE30CAE9,2026-04-18,Villa,4,10,0.3,5.0,10.2,1.7,1.2,9.9,29.8,Saturday,Spring/Autumn,1,17.77
+62510F01,2025-08-07,Apartment,3,4,5.6,17.7,10.3,0.3,1.7,6.2,37.9,Thursday,Summer,0,20.92
+E9846BAA,2026-05-26,Single Family Home,4,6,9.6,23.0,12.9,0.9,1.8,7.1,42.4,Tuesday,Summer,0,33.78
+9E7776AE,2025-11-09,Portion,4,4,0.0,2.1,12.8,2.0,0.8,6.3,14.8,Sunday,Winter,1,9.34
+6B0FFA79,2026-01-24,Villa,6,7,0.0,2.5,10.8,1.3,0.8,11.9,15.6,Saturday,Winter,1,12.46
+1E0FD29B,2026-06-05,Apartment,8,3,8.1,16.5,10.6,1.0,2.7,6.8,42.4,Friday,Summer,0,25.17
+B25B56DC,2026-06-26,Villa,1,9,7.1,18.0,11.1,0.4,1.6,7.3,39.5,Friday,Summer,0,32.46
+30B05A0B,2026-04-04,Portion,8,3,2.4,8.0,11.5,1.1,1.9,7.2,23.3,Saturday,Spring/Autumn,1,11.93
+82601132,2025-11-24,Portion,7,5,0.0,0.2,12.2,0.3,0.8,6.2,11.5,Monday,Winter,0,7.3
+9267E7E6,2025-09-24,Apartment,8,4,15.2,22.9,12.4,2.5,2.7,5.4,43.9,Wednesday,Summer,1,40.85
+4BDE7D88,2026-03-23,Apartment,3,2,1.7,9.8,10.2,0.1,1.7,8.3,25.2,Monday,Spring/Autumn,0,11.28
+0A01D8B6,2026-02-26,Villa,3,7,0.0,3.4,11.9,0.6,1.4,9.4,15.2,Thursday,Winter,0,13.19
+FD523FAD,2026-05-04,Apartment,1,4,4.3,20.9,10.5,1.0,2.9,7.2,36.6,Monday,Summer,1,24.32
+5E7E00E5,2025-11-02,Villa,3,8,0.0,1.0,11.4,1.8,1.0,9.7,6.3,Sunday,Winter,1,12.46
+531B49D8,2026-07-02,Apartment,6,2,13.8,21.7,10.5,2.1,2.4,5.3,41.6,Thursday,Summer,1,30.87
+0400E249,2026-01-19,Apartment,7,4,0.0,1.9,11.9,2.9,0.9,8.9,7.7,Monday,Winter,1,10.64
+9AB62311,2026-01-24,Portion,4,5,0.0,0.2,11.1,2.2,1.4,7.9,8.3,Saturday,Winter,1,7.72
+A13A9DA2,2026-04-28,Portion,3,6,3.1,6.2,10.5,0.6,1.9,6.9,22.2,Tuesday,Spring/Autumn,0,17.19
+5E5F310C,2025-08-30,Portion,2,6,2.7,12.5,13.4,2.2,2.5,4.2,35.5,Saturday,Summer,1,20.39
+D0CB079F,2026-05-18,Single Family Home,8,4,6.3,15.1,12.7,2.7,1.9,5.4,35.6,Monday,Summer,1,23.6
+E29FF19C,2025-09-10,Portion,4,3,9.5,12.9,12.0,0.2,2.2,5.3,41.0,Wednesday,Summer,0,23.91
+747C7690,2026-06-04,Portion,2,4,10.2,19.7,10.6,0.3,2.8,7.2,43.2,Thursday,Summer,0,29.82
+624D3473,2025-07-14,Apartment,1,2,12.5,17.6,12.5,0.2,3.0,4.2,39.1,Monday,Summer,0,30.88
+2483C458,2026-06-15,Apartment,1,2,6.3,19.3,12.0,2.6,2.7,6.0,44.1,Monday,Summer,1,21.47
+33CB59EF,2025-08-26,Portion,3,5,8.1,22.0,12.9,1.8,1.5,8.0,38.4,Tuesday,Summer,1,28.41
+0E4DDB72,2026-01-21,Villa,2,5,0.0,3.7,12.0,0.6,0.7,9.3,6.2,Wednesday,Winter,0,9.4
+1A41C57F,2026-01-10,Portion,3,3,0.0,3.4,10.2,1.9,1.0,9.1,16.0,Saturday,Winter,1,7.82
+3A0761D9,2025-12-10,Single Family Home,6,5,0.0,3.3,11.0,0.2,0.8,10.6,9.0,Wednesday,Winter,0,9.46
+627E91E1,2026-03-15,Apartment,8,2,3.0,4.9,12.9,2.8,1.2,8.2,25.5,Sunday,Spring/Autumn,1,11.95
+1A0B6310,2026-06-22,Villa,6,5,15.1,19.8,11.8,1.8,2.4,6.3,40.1,Monday,Summer,1,41.41
+ECB948F7,2026-06-08,Apartment,3,2,5.2,21.3,12.3,1.3,2.1,5.0,36.3,Monday,Summer,1,17.35
+2E6DF7E8,2026-03-12,Single Family Home,5,5,0.3,7.4,12.3,2.3,2.0,10.6,23.8,Thursday,Spring/Autumn,1,16.62
+EA8E55A5,2026-01-05,Villa,5,10,0.0,0.1,11.1,0.6,0.6,11.6,18.1,Monday,Winter,0,15.97
+EEDF4F78,2026-06-29,Single Family Home,6,4,2.2,17.2,14.0,1.3,2.5,7.5,36.3,Monday,Summer,1,20.15
+C9198C69,2026-06-29,Apartment,2,4,9.5,16.8,12.8,1.2,2.3,7.6,44.0,Monday,Summer,1,30.54
+2508F357,2025-08-09,Single Family Home,3,6,12.2,23.9,13.0,1.7,1.6,5.8,40.9,Saturday,Summer,1,37.78
+6C80423A,2025-12-30,Portion,6,4,0.0,3.3,11.9,0.1,0.8,7.1,11.7,Tuesday,Winter,0,8.44
+7F421889,2026-01-20,Portion,4,6,0.0,3.7,13.6,0.6,0.6,8.2,18.7,Tuesday,Winter,0,10.92
+86E5EDF4,2026-02-03,Single Family Home,2,4,0.0,1.8,12.4,2.9,1.0,6.6,10.7,Tuesday,Winter,1,7.66
+D9C099F6,2025-07-13,Portion,3,3,11.6,22.8,13.4,1.9,2.4,5.3,38.4,Sunday,Summer,1,30.43
+5C613985,2026-05-13,Single Family Home,5,6,2.9,21.8,14.0,0.2,2.6,6.1,36.8,Wednesday,Summer,0,24.63
+F8C92B4A,2026-06-12,Portion,4,4,7.0,15.4,11.1,0.4,1.7,7.5,41.2,Friday,Summer,0,22.19
+1E032A65,2026-06-24,Single Family Home,7,3,15.9,21.0,12.7,1.3,2.9,4.8,44.2,Wednesday,Summer,1,38.74
+1B2375D0,2026-03-06,Apartment,8,4,0.1,11.2,12.2,0.8,2.0,6.0,29.1,Friday,Spring/Autumn,0,12.94
+242AC30F,2025-08-04,Apartment,1,4,3.2,23.3,12.9,2.0,2.4,7.3,35.3,Monday,Summer,1,20.92
+78428071,2026-04-05,Villa,8,8,2.8,10.8,11.7,1.5,1.4,11.2,21.3,Sunday,Spring/Autumn,1,26.8
+C809A0B4,2026-02-28,Apartment,5,2,0.0,0.5,10.3,2.6,0.9,10.4,16.0,Saturday,Winter,1,6.07
+A477E25A,2025-07-18,Single Family Home,3,3,8.8,19.6,13.1,2.4,2.3,5.3,40.1,Friday,Summer,1,27.9
+F2BFFC3F,2026-05-23,Villa,5,10,15.3,21.5,13.4,2.3,2.0,7.5,39.3,Saturday,Summer,1,51.42
+2824162D,2025-10-14,Apartment,7,2,0.0,5.1,13.8,0.7,1.4,7.6,27.6,Tuesday,Spring/Autumn,0,5.9
+380A402D,2025-11-27,Apartment,8,3,0.0,2.9,10.8,2.8,0.8,11.7,17.2,Thursday,Winter,1,10.27
+D3C6E5A0,2025-11-23,Apartment,6,4,0.0,0.0,12.2,1.4,0.6,7.1,16.2,Sunday,Winter,1,6.4
+1BC02912,2025-08-14,Villa,6,5,4.3,19.0,11.9,0.7,2.5,4.7,37.6,Thursday,Summer,0,21.41
+1B4142AA,2025-07-30,Apartment,5,2,3.8,17.8,11.6,0.4,2.7,5.9,37.3,Wednesday,Summer,0,14.33
+3D869AD2,2025-10-13,Apartment,8,2,3.5,10.0,13.9,0.3,1.3,10.0,21.3,Monday,Spring/Autumn,0,11.92
+4F00BA6A,2025-07-10,Villa,5,8,9.2,13.4,12.8,0.8,2.5,5.9,39.6,Thursday,Summer,0,34.4
+B9C6B26B,2025-11-14,Single Family Home,2,5,0.0,1.6,11.2,2.0,0.7,11.3,12.3,Friday,Winter,1,11.7
+19DB533E,2026-01-06,Single Family Home,1,6,0.0,3.1,11.3,1.8,0.8,8.7,5.9,Tuesday,Winter,1,10.4
+099396FF,2025-10-21,Single Family Home,8,3,1.1,9.8,13.3,0.3,1.3,8.5,30.9,Tuesday,Spring/Autumn,0,11.3
+E2682C9F,2025-09-23,Single Family Home,3,5,3.2,19.5,12.5,1.7,2.9,6.4,36.7,Tuesday,Summer,1,21.04
+4A74982E,2025-11-15,Portion,1,6,0.0,3.2,12.8,2.8,0.6,10.6,15.8,Saturday,Winter,1,12.74
+9C425665,2026-02-14,Single Family Home,8,3,0.0,2.1,10.8,1.3,0.9,9.2,14.8,Saturday,Winter,1,8.74
+C42D5F03,2026-05-21,Apartment,8,2,6.8,22.9,10.9,2.5,2.0,7.8,37.3,Thursday,Summer,1,19.71
+4BACFA4A,2025-09-04,Villa,6,7,7.6,13.2,11.9,0.2,2.1,5.2,35.2,Thursday,Summer,0,26.49
+C59DE4AA,2025-12-22,Portion,5,6,0.0,1.0,10.5,0.8,0.8,9.9,16.6,Monday,Winter,0,8.55
+919883F9,2026-01-01,Villa,5,8,0.0,1.1,10.3,2.4,0.6,10.6,16.1,Thursday,Winter,1,12.91
+AE3ACDF2,2025-08-23,Villa,6,7,7.0,19.3,12.9,2.6,1.7,4.8,35.1,Saturday,Summer,1,30.68
+8185716A,2025-12-18,Apartment,1,4,0.0,1.3,10.1,0.3,1.0,7.2,9.7,Thursday,Winter,0,6.0
+02088C91,2025-09-01,Apartment,5,3,10.7,15.5,13.9,0.6,1.6,5.9,41.6,Monday,Summer,0,28.29
+12AEBB0E,2025-09-26,Portion,2,5,8.4,12.2,11.6,1.7,2.2,6.2,40.3,Friday,Summer,1,25.25
+E66EB0E2,2026-05-02,Apartment,2,2,7.9,16.8,11.5,2.1,1.8,6.6,37.2,Saturday,Summer,1,20.99
+F5A4F270,2026-06-09,Portion,4,6,15.8,13.1,13.5,2.0,1.8,5.0,43.1,Tuesday,Summer,1,37.26
+FF169376,2026-02-13,Single Family Home,8,3,0.0,1.9,12.3,1.5,1.2,10.6,14.2,Friday,Winter,1,7.52
+27DEA64C,2026-06-19,Single Family Home,4,5,9.4,13.8,12.3,0.4,2.0,4.0,38.1,Friday,Summer,0,27.53
+615A58BD,2025-07-29,Villa,7,8,13.9,18.5,12.6,0.3,2.0,6.8,42.6,Tuesday,Summer,0,43.08
+05DF9333,2026-06-20,Portion,5,5,15.9,13.0,12.8,1.8,1.7,7.0,43.6,Saturday,Summer,1,36.7
+2448EF43,2025-08-01,Portion,2,5,7.7,17.3,10.2,1.8,3.0,4.7,42.5,Friday,Summer,1,28.9
+36CF9429,2026-03-09,Villa,3,5,3.0,8.4,11.2,0.4,1.4,7.8,25.8,Monday,Spring/Autumn,0,17.7
+578E911F,2026-06-24,Villa,3,6,11.2,19.4,12.6,1.3,2.1,6.1,41.8,Wednesday,Summer,1,34.15
+79BA547E,2026-01-18,Single Family Home,7,5,0.0,2.9,11.0,1.9,1.0,11.6,14.2,Sunday,Winter,1,13.23
+639E8BBC,2026-05-04,Single Family Home,2,4,14.5,13.6,13.3,1.0,2.3,5.7,42.2,Monday,Summer,1,33.18
+F06046A1,2026-04-01,Villa,1,6,3.9,6.5,12.8,2.1,1.2,8.0,20.8,Wednesday,Spring/Autumn,1,17.06
+DD42DA67,2025-10-30,Portion,5,3,0.6,6.8,10.9,2.3,1.6,11.6,25.6,Thursday,Spring/Autumn,1,10.64
+202F00A8,2026-02-24,Apartment,1,2,0.0,3.5,11.2,0.6,1.1,8.4,17.3,Tuesday,Winter,0,5.35
+C63E0E47,2025-09-05,Portion,4,5,12.6,12.9,12.9,0.3,1.7,5.1,40.4,Friday,Summer,0,29.85
+ADFC1DC4,2026-02-03,Apartment,6,3,0.0,2.3,11.3,0.8,1.3,9.6,17.0,Tuesday,Winter,0,6.99
+8088A7DE,2026-05-02,Apartment,8,4,14.7,20.0,10.7,2.6,2.2,8.0,43.1,Saturday,Summer,1,36.32
+690F1C3C,2025-11-12,Portion,6,3,0.0,0.6,13.5,0.3,0.7,11.4,17.1,Wednesday,Winter,0,5.44
+2D490058,2026-01-25,Single Family Home,7,6,0.0,1.8,11.3,2.0,1.2,6.7,12.7,Sunday,Winter,1,10.0
+B044DB1B,2026-03-12,Villa,2,5,1.5,7.8,12.1,0.5,1.3,11.3,24.5,Thursday,Spring/Autumn,0,16.8
+9DC33D41,2026-06-13,Apartment,8,4,15.5,22.0,13.4,2.1,2.6,6.0,44.6,Saturday,Summer,1,40.74
+8B73ABA7,2025-08-12,Portion,1,5,11.6,17.2,10.1,1.7,2.0,5.9,41.9,Tuesday,Summer,1,33.35
+74629FB5,2026-01-24,Apartment,4,3,0.0,0.9,14.0,2.9,1.1,8.3,15.9,Saturday,Winter,1,7.02
+F7B5B05B,2026-04-23,Portion,7,6,0.0,7.5,10.0,0.3,1.5,6.6,29.0,Thursday,Spring/Autumn,0,11.32
+3953E8BB,2026-01-08,Villa,5,7,0.0,3.7,10.1,1.5,1.1,8.9,8.8,Thursday,Winter,1,10.78
+E672ABF5,2026-06-04,Apartment,1,2,8.5,19.5,13.3,0.9,3.0,7.7,42.0,Thursday,Summer,0,26.61
+D113B5FF,2026-01-12,Villa,6,6,0.0,2.0,13.5,2.5,1.0,10.8,14.5,Monday,Winter,1,10.78
+64305373,2025-09-15,Portion,1,6,7.4,13.8,13.5,0.1,2.6,5.7,35.3,Monday,Summer,0,28.56
+FA33FA98,2026-03-30,Portion,6,4,2.5,4.5,12.2,3.0,1.1,7.2,20.7,Monday,Spring/Autumn,1,13.95
+CD199B5E,2025-08-22,Apartment,7,4,7.0,22.2,12.8,2.8,2.0,6.3,35.2,Friday,Summer,1,28.3
+F2DE05FD,2025-11-02,Apartment,2,2,0.0,3.8,13.4,2.3,0.9,6.4,12.7,Sunday,Winter,1,8.17
+C520D50F,2026-02-09,Apartment,2,4,0.0,2.9,11.8,1.6,0.6,7.2,12.5,Monday,Winter,1,7.69
+216B9833,2026-07-01,Villa,3,6,6.5,22.1,11.1,0.4,1.5,5.4,36.7,Wednesday,Summer,0,27.73
+D7282D30,2025-10-04,Portion,5,3,2.3,7.7,10.4,2.5,1.1,7.1,28.4,Saturday,Spring/Autumn,1,12.59
+24CE1460,2026-02-21,Apartment,2,3,0.0,3.1,10.9,1.7,1.3,6.5,19.5,Saturday,Winter,1,8.47
+1B696031,2025-08-27,Villa,3,5,7.0,19.7,10.8,0.8,2.9,4.5,37.5,Wednesday,Summer,0,25.18
+E9A7F5E0,2026-05-09,Portion,2,6,7.8,13.7,10.9,1.4,2.0,7.5,42.1,Saturday,Summer,1,26.84
+12D5DFE5,2026-01-01,Apartment,4,4,0.0,2.8,12.0,2.2,0.8,8.1,9.4,Thursday,Winter,1,9.16
+A2307350,2026-06-04,Single Family Home,3,5,12.3,22.0,13.3,0.4,1.6,6.2,39.5,Thursday,Summer,0,33.65
+913A2B6C,2026-02-23,Apartment,2,3,0.0,1.4,13.2,1.4,1.3,10.2,15.5,Monday,Winter,1,8.54
+999921EC,2026-01-23,Single Family Home,5,3,0.0,3.2,13.1,0.3,0.6,8.8,17.4,Friday,Winter,0,4.96
+05E5D461,2026-01-12,Single Family Home,4,5,0.0,2.6,10.6,0.6,0.7,8.2,6.7,Monday,Winter,0,8.02
+53D9A4DD,2025-08-26,Apartment,3,3,6.3,20.4,13.5,1.0,2.4,5.7,40.9,Tuesday,Summer,1,21.84
+178B55E7,2025-11-11,Villa,8,10,0.0,0.4,11.2,1.9,1.4,7.1,14.7,Tuesday,Winter,1,10.77
+66629BD2,2026-06-09,Villa,3,6,10.6,18.9,11.6,2.7,2.2,5.0,43.1,Tuesday,Summer,1,33.66
+9569F8CB,2026-04-23,Villa,3,6,2.7,6.4,13.5,2.5,2.0,11.4,24.1,Thursday,Spring/Autumn,1,20.57
+6C7A0C9D,2026-02-10,Villa,6,9,0.0,3.1,11.6,0.0,1.5,9.1,11.3,Tuesday,Winter,0,16.38
+3320E68F,2026-01-30,Villa,2,8,0.0,3.9,10.8,1.0,1.4,10.5,18.3,Friday,Winter,0,14.01
+82E847AE,2025-10-07,Portion,5,5,3.8,11.8,13.1,2.6,1.3,8.8,24.0,Tuesday,Spring/Autumn,1,18.93
+CF1D46BE,2025-11-02,Single Family Home,6,4,0.0,0.6,11.2,1.2,1.4,7.4,5.0,Sunday,Winter,1,6.79
+5F25210E,2025-11-20,Villa,2,5,0.0,1.0,13.4,1.7,1.2,8.9,6.4,Thursday,Winter,1,9.34
+5430C8C3,2025-09-23,Villa,4,9,12.9,20.4,12.7,0.8,2.9,6.8,39.7,Tuesday,Summer,0,47.38
+36511C93,2026-01-15,Apartment,5,4,0.0,0.5,10.5,0.8,1.3,11.4,6.4,Thursday,Winter,0,10.35
+6BF7D125,2026-03-13,Portion,6,5,1.7,7.2,12.0,0.7,1.1,9.5,28.8,Friday,Spring/Autumn,0,13.15
+7E7279CE,2026-01-05,Villa,7,5,0.0,3.1,11.4,0.8,0.9,9.7,14.1,Monday,Winter,0,10.91
+53AE1065,2026-02-08,Single Family Home,1,5,0.0,2.6,10.8,1.4,0.6,8.6,18.7,Sunday,Winter,1,8.41
+DB29920A,2026-02-02,Apartment,8,3,0.0,1.7,11.5,0.8,0.8,6.2,14.8,Monday,Winter,0,7.9
+09795E75,2026-05-30,Apartment,6,4,7.6,20.2,11.9,1.2,2.8,6.7,39.2,Saturday,Summer,1,25.6
+1859C5AE,2026-05-06,Portion,5,5,14.0,12.1,12.3,1.8,2.0,5.8,43.6,Wednesday,Summer,1,34.66
+146B9FBC,2026-01-26,Villa,8,9,0.0,1.6,11.2,0.3,1.3,9.8,19.4,Monday,Winter,0,14.54
+FBE5403B,2025-12-20,Apartment,6,4,0.0,1.8,11.9,1.7,0.9,9.2,17.0,Saturday,Winter,1,8.11
+0C3EDD5C,2026-05-05,Single Family Home,2,5,15.8,18.4,12.7,1.3,2.1,5.3,42.9,Tuesday,Summer,1,41.18
+30EFD76B,2026-03-29,Villa,1,10,0.8,10.5,11.8,1.1,1.7,7.7,27.1,Sunday,Spring/Autumn,1,20.65
+E2213776,2026-04-20,Apartment,1,3,1.5,11.1,11.0,0.3,1.7,7.8,25.9,Monday,Spring/Autumn,0,13.16
+9CDD39A7,2026-04-22,Portion,5,4,0.7,6.9,11.3,0.6,1.0,9.6,26.5,Wednesday,Spring/Autumn,0,10.43
+205474FA,2025-10-31,Single Family Home,7,6,3.0,6.0,10.4,0.7,1.1,9.8,20.4,Friday,Spring/Autumn,0,16.78
+93F040C7,2025-12-28,Portion,5,5,0.0,3.9,11.0,2.7,1.2,11.0,9.1,Sunday,Winter,1,13.15
+39D00762,2025-08-09,Villa,2,7,10.6,12.9,10.6,3.0,2.1,6.6,40.2,Saturday,Summer,1,35.43
+3E0C5EC5,2026-03-05,Single Family Home,2,3,3.9,4.6,13.0,1.8,1.9,6.1,24.6,Thursday,Spring/Autumn,1,16.83
+ABA5D1C9,2025-09-24,Portion,4,6,5.9,22.6,11.7,0.1,2.8,4.8,37.6,Wednesday,Summer,0,27.4
+972C8583,2026-04-11,Villa,5,10,2.1,10.8,13.2,1.7,1.2,8.8,23.6,Saturday,Spring/Autumn,1,26.31
+D909E0C9,2026-01-07,Single Family Home,4,5,0.0,3.0,11.1,2.3,1.3,9.6,11.6,Wednesday,Winter,1,12.83
+9ED7A652,2026-01-10,Portion,4,3,0.0,1.1,10.1,1.8,0.9,6.8,15.2,Saturday,Winter,1,5.63
+AFAF20EC,2025-10-27,Apartment,3,3,3.9,6.5,10.1,0.3,1.2,6.4,27.2,Monday,Spring/Autumn,0,12.4
+043F1B5F,2026-05-30,Single Family Home,5,3,14.3,19.1,11.3,1.8,2.5,7.7,42.1,Saturday,Summer,1,32.82
+73E0467E,2025-11-12,Apartment,2,3,0.0,1.4,11.8,2.5,0.9,7.3,10.1,Wednesday,Winter,1,8.22
+808F8CB9,2025-12-11,Villa,1,8,0.0,1.0,13.4,2.9,0.5,9.8,15.1,Thursday,Winter,1,13.47
+A60C1329,2025-11-24,Portion,4,5,0.0,0.8,11.5,0.3,1.5,7.9,10.2,Monday,Winter,0,9.55
+46A3110A,2026-01-16,Portion,7,3,0.0,2.5,11.4,0.4,0.7,12.0,5.4,Friday,Winter,0,5.68
+1C6FEC01,2025-09-25,Apartment,1,4,11.6,17.9,13.7,1.3,1.9,6.4,44.7,Thursday,Summer,1,32.65
+19DD3B90,2025-10-15,Portion,7,6,0.9,11.9,10.7,0.2,1.6,10.7,21.2,Wednesday,Spring/Autumn,0,18.56
+E128B9A8,2026-03-17,Portion,4,4,1.6,10.0,12.4,0.3,1.4,8.2,24.8,Tuesday,Spring/Autumn,0,11.79
+B4B2CE14,2026-02-10,Apartment,2,2,0.0,3.8,11.3,2.1,1.3,8.4,18.3,Tuesday,Winter,1,8.8
+E81B60FF,2026-03-15,Single Family Home,6,3,1.9,10.6,13.7,1.4,1.4,7.7,25.9,Sunday,Spring/Autumn,1,13.03
+E65DD443,2025-12-20,Apartment,8,3,0.0,1.9,13.6,1.8,0.7,9.9,10.0,Saturday,Winter,1,9.73
+F9705E4B,2025-10-11,Apartment,3,4,2.5,9.0,12.5,3.0,1.1,9.6,24.9,Saturday,Spring/Autumn,1,16.85
+9810B8C1,2025-11-12,Portion,1,6,0.0,1.3,12.3,0.5,0.7,6.5,19.2,Wednesday,Winter,0,7.7
+D1A529DB,2025-07-13,Villa,4,9,14.8,19.8,13.5,2.7,2.3,4.6,42.4,Sunday,Summer,1,46.67
+258675E9,2026-04-16,Apartment,5,4,0.7,11.5,11.3,1.6,1.9,11.4,30.5,Thursday,Spring/Autumn,1,13.74
+59CCC94A,2026-07-04,Villa,8,7,8.5,19.2,13.2,2.9,3.0,6.0,39.6,Saturday,Summer,1,33.85
+D3E763D1,2025-11-13,Villa,8,5,0.0,1.3,10.6,1.9,1.4,11.8,14.1,Thursday,Winter,1,9.6
+A3C9F400,2025-07-14,Portion,4,4,6.1,22.4,13.4,1.1,3.0,5.7,35.3,Monday,Summer,1,24.7
+93DC8EEA,2026-04-04,Portion,6,4,0.5,10.2,12.1,1.0,1.6,8.9,28.6,Saturday,Spring/Autumn,1,13.56
+EBAF89C7,2026-06-21,Apartment,5,4,4.4,21.9,11.5,2.4,2.7,6.0,37.9,Sunday,Summer,1,23.58
+E9926BAD,2025-12-18,Single Family Home,5,5,0.0,0.5,11.0,2.7,0.6,10.5,11.4,Thursday,Winter,1,8.35
+F1FCFC36,2026-07-05,Villa,4,5,4.5,16.1,13.2,1.4,2.9,4.4,36.7,Sunday,Summer,1,23.0
+57E0D57B,2026-05-08,Apartment,7,3,7.4,17.9,11.0,1.6,1.9,5.8,35.7,Friday,Summer,1,23.76
+02223C10,2026-01-05,Single Family Home,8,4,0.0,2.3,13.0,1.3,1.1,7.7,15.5,Monday,Winter,1,7.4
+29A099DE,2025-10-26,Villa,2,7,1.5,6.3,10.6,2.3,1.9,8.9,24.5,Sunday,Spring/Autumn,1,17.6
+37A2A180,2025-10-18,Apartment,1,3,3.0,9.6,11.2,1.8,1.1,9.8,23.5,Saturday,Spring/Autumn,1,12.45
+5A2D6AEE,2026-03-05,Apartment,1,3,1.2,8.7,12.9,0.7,1.3,12.0,22.5,Thursday,Spring/Autumn,0,11.68
+C90703E8,2026-05-17,Single Family Home,2,5,7.7,16.1,13.4,1.6,1.7,5.5,41.2,Sunday,Summer,1,27.74
+325CBA4E,2025-12-12,Apartment,5,2,0.0,0.7,10.7,0.9,1.0,6.1,12.3,Friday,Winter,0,7.2
+3FACABCC,2026-04-30,Portion,7,6,1.2,5.8,13.1,0.8,1.3,9.9,24.1,Thursday,Spring/Autumn,0,14.61
+4D515B58,2026-02-10,Single Family Home,7,5,0.0,3.7,13.4,0.8,1.4,10.7,11.9,Tuesday,Winter,0,11.85
+4001570A,2025-08-25,Single Family Home,5,5,3.2,20.0,10.4,0.3,2.1,4.3,37.3,Monday,Summer,0,20.03
+A0D980BA,2025-12-22,Single Family Home,7,6,0.0,3.0,13.9,0.1,1.4,9.4,13.0,Monday,Winter,0,10.64
+B1B2B9C6,2025-10-29,Villa,8,7,3.0,9.5,11.0,2.4,1.7,8.7,23.1,Wednesday,Spring/Autumn,1,19.52
+6906B588,2025-12-22,Apartment,7,2,0.0,2.2,10.8,0.8,0.6,6.4,14.1,Monday,Winter,0,6.64
+C960B851,2025-10-03,Villa,3,9,0.2,5.8,12.3,1.9,1.6,9.2,26.3,Friday,Spring/Autumn,1,19.41
+6485525E,2025-08-22,Apartment,8,4,12.3,14.4,10.3,1.4,1.7,6.2,38.2,Friday,Summer,1,29.4
+0E00583D,2025-10-13,Apartment,6,4,2.3,8.7,10.4,0.9,1.9,10.7,25.8,Monday,Spring/Autumn,0,14.36
+7B417AED,2026-03-16,Apartment,2,4,2.5,7.7,13.0,0.6,1.0,9.0,29.7,Monday,Spring/Autumn,0,12.52
+24E72383,2026-01-28,Portion,3,4,0.0,2.1,11.2,0.9,1.5,7.5,12.6,Wednesday,Winter,0,7.51
+B819B15D,2026-07-04,Apartment,8,4,9.1,17.3,13.8,2.0,3.0,5.3,40.6,Saturday,Summer,1,30.83
+113038F5,2025-07-07,Apartment,2,2,7.6,12.8,11.2,0.9,2.1,5.8,39.7,Monday,Summer,0,20.94
+D52D8F91,2026-01-08,Portion,1,3,0.0,0.7,13.1,1.4,1.3,9.0,13.1,Thursday,Winter,1,7.24
+2F1D80EA,2026-05-03,Villa,8,10,7.0,15.6,12.3,1.3,2.4,4.6,40.3,Sunday,Summer,1,34.55
+257066E8,2026-02-24,Single Family Home,3,4,0.0,3.4,10.6,1.0,1.1,11.9,16.8,Tuesday,Winter,0,10.63
+8BF349A3,2025-09-18,Portion,5,5,13.8,15.2,11.9,0.9,2.9,5.2,42.9,Thursday,Summer,0,34.66
+5E09F48E,2026-03-08,Portion,7,3,1.4,10.0,11.7,1.8,1.4,8.5,24.0,Sunday,Spring/Autumn,1,13.29
